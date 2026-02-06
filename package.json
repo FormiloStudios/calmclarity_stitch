@@ -1,0 +1,14 @@
+{
+  "name": "calm-clarity-stitch",
+  "version": "1.0.0",
+  "description": "Premium blog design using Stitch and Tailwind CSS",
+  "scripts": {
+    "build": "npx tailwindcss -i ./global.css -o ./dist/styles.css",
+    "dev": "npx tailwindcss -i ./global.css -o ./dist/styles.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest"
+  }
+}
