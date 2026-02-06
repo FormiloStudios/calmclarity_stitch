@@ -1,14 +1,26 @@
 {
-  "name": "calm-clarity-stitch",
-  "version": "1.0.0",
-  "description": "Premium blog design using Stitch and Tailwind CSS",
+  "name": "temp_app",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "build": "npx tailwindcss -i ./global.css -o ./dist/styles.css",
-    "dev": "npx tailwindcss -i ./global.css -o ./dist/styles.css --watch"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
   },
   "dependencies": {
-    "autoprefixer": "10.4.24",
-    "postcss": "8.5.6",
-    "tailwindcss": "3.4.19"
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
