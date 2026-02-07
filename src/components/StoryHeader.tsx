@@ -36,10 +36,11 @@ export function StoryHeader() {
                 <div className="flex-shrink-0 sticky top-32">
                     <div className="relative w-64 h-64 md:w-[400px] md:h-[400px] rounded-full overflow-hidden border border-white/10 shadow-2xl">
                         <Image
-                            src="https://lh3.googleusercontent.com/aida-public/AB6AXuCnZRaCCmVjqy9MF_f9nris0UITASyuSRVyOKofnEY99_aTDhWaoEx9MO7zS2Yf8PhrF1QdIo6eCY47DbEKQHqK_arJ1zMCgccPaKdAVqXleMGnhLyCa0_Qk0fVH-_IFzwigDkUfbFZEOXtDNp-TtvTrmWpCnw_Gsr_47e1srcs-rSYEmKkDFM_pDCof4F9zolXXKHYWnCMlTVN5LjVfiIblzwRbEGqMLpKVjh3iBSTTeqgHjP32B3Z_Z4bReb77khmgsiSRIskiA"
+                            src="/claire-miller.jpeg"
                             alt="Claire Miller"
                             fill
-                            className="object-cover"
+                            priority
+                            className="object-cover object-center"
                         />
                     </div>
                 </div>
