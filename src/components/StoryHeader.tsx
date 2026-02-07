@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function StoryHeader() {
     return (
-        <section className="max-w-5xl mx-auto px-6 pt-32 pb-20">
+        <section className="max-w-5xl mx-auto px-6 pt-24 pb-20">
             <div className="flex flex-col md:flex-row items-center justify-between gap-16">
                 <div className="flex-1 text-left">
                     <h1 className="font-display text-5xl md:text-8xl font-bold leading-[1.1] text-white">

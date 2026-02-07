@@ -9,40 +9,40 @@ export function Nav() {
     const isActive = (path: string) => pathname === path;
 
     return (
-        <nav className="fixed top-0 w-full z-50 border-b border-black/10 dark:border-white/10 bg-white/80 dark:bg-background-dark/80 backdrop-blur-md">
+        <nav className="fixed top-0 w-full z-50 border-b border-black/10 dark:border-white/10 bg-white/80 dark:bg-background-dark/90 backdrop-blur-md">
             <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
-                <div className="flex items-center space-x-12">
-                    <Link href="/" className="text-xl font-display font-bold tracking-tight">
+                <div className="flex items-center space-x-8">
+                    <Link href="/" className="text-xl font-medium tracking-tight text-white">
                         CALM CLARITY
                     </Link>
-                    <div className="hidden md:flex space-x-8 text-sm font-medium tracking-widest uppercase">
+                    <div className="hidden md:flex space-x-6 text-sm tracking-wide uppercase font-light">
                         <Link
-                            href="/"
-                            className={`hover:text-primary transition-colors ${isActive('/') ? 'text-primary' : ''}`}
+                            href="#"
+                            className="hover:text-muted transition-colors text-white"
                         >
-                            The Brief
+                            Journal
                         </Link>
                         <Link
                             href="#"
-                            className={`hover:text-primary transition-colors opacity-60`}
+                            className="hover:text-muted transition-colors text-white"
                         >
-                            The Toolkit
+                            Resources
                         </Link>
                         <Link
                             href="/story"
-                            className={`hover:text-primary transition-colors ${isActive('/story') ? 'text-primary border-b border-primary pb-1' : 'opacity-60'}`}
+                            className={`transition-colors text-white ${isActive('/story') ? 'border-b border-primary pb-1' : 'hover:text-muted'}`}
                         >
                             The Story
                         </Link>
                     </div>
                 </div>
-                <div className="flex items-center space-x-6">
-                    <button className="material-icons opacity-60 hover:opacity-100 transition-opacity">
+                <div className="flex items-center space-x-6 text-white">
+                    <button className="text-sm tracking-wide uppercase font-light hover:text-muted transition-colors">
+                        Newsletter
+                    </button>
+                    <span className="material-symbols-outlined cursor-pointer hover:opacity-70 text-sm">
                         search
-                    </button>
-                    <button className="px-5 py-2 border border-slate-900 dark:border-white text-xs uppercase tracking-widest font-semibold hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
-                        Subscribe
-                    </button>
+                    </span>
                 </div>
             </div>
         </nav>

@@ -11,7 +11,7 @@ export function NewsletterSection() {
                 </p>
                 <form className="flex flex-col sm:flex-row gap-0 border border-white/20 focus-within:border-white transition-colors">
                     <input
-                        className="flex-grow bg-transparent border-none focus:ring-0 px-6 py-4 text-sm tracking-wide text-white placeholder:text-muted/50"
+                        className="flex-grow bg-transparent border-none focus:ring-0 px-6 py-4 text-sm tracking-wide text-white placeholder:text-muted/50 font-light"
                         placeholder="Your email address"
                         type="email"
                     />

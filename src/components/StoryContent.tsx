@@ -36,27 +36,27 @@ export function StoryContent() {
                     </p>
                     <ul className="space-y-6 pt-4">
                         <li className="flex items-start">
-                            <span className="material-icons text-white mr-4 text-[10px] mt-1.5 opacity-80">
+                            <span className="material-symbols-outlined text-white mr-4 text-xs mt-1.5">
                                 circle
                             </span>
-                            <span>
+                            <span className="text-muted font-light">
                                 Deep-dive editorials on holistic performance and metabolic
                                 health.
                             </span>
                         </li>
                         <li className="flex items-start">
-                            <span className="material-icons text-white mr-4 text-[10px] mt-1.5 opacity-80">
+                            <span className="material-symbols-outlined text-white mr-4 text-xs mt-1.5">
                                 circle
                             </span>
-                            <span>
+                            <span className="text-muted font-light">
                                 Curated guides to restorative travel and architectural wellness.
                             </span>
                         </li>
                         <li className="flex items-start">
-                            <span className="material-icons text-white mr-4 text-[10px] mt-1.5 opacity-80">
+                            <span className="material-symbols-outlined text-white mr-4 text-xs mt-1.5">
                                 circle
                             </span>
-                            <span>
+                            <span className="text-muted font-light">
                                 Interviews with pioneers in the fields of longevity and mindful
                                 design.
                             </span>
