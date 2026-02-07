@@ -16,7 +16,7 @@ export function StoryContent() {
                         </p>
                         <p>
                             What I am is someone who got frustrated watching people suffer
-                            through generic advice that didn&#39;t work, while the actual
+                            throughgeneric advice that didn&#39;t work, while the actual
                             solutions were buried in overly-technical forums and expensive
                             courses.
                         </p>
@@ -36,10 +36,10 @@ export function StoryContent() {
                 </div>
                 <div className="relative h-[600px] w-full rounded-2xl overflow-hidden border border-white/5 md:translate-y-12 shadow-2xl">
                     <Image
-                        src="https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?auto=format&fit=crop&q=80&w=800"
-                        alt="Abstract Nervous System"
+                        src="https://images.unsplash.com/photo-1618331835717-801e976710b2?auto=format&fit=crop&q=80&w=1080"
+                        alt="Abstract Dark Water Ripples - Representation of Calm"
                         fill
-                        className="object-cover opacity-80 hover:opacity-100 transition-opacity duration-700"
+                        className="object-cover opacity-90 hover:opacity-100 transition-opacity duration-700"
                     />
                 </div>
             </section>
@@ -59,8 +59,8 @@ export function StoryContent() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                     <div className="order-2 md:order-1 relative h-[500px] rounded-2xl overflow-hidden border border-white/5 shadow-2xl">
                         <Image
-                            src="https://images.unsplash.com/photo-1544367563-12123d8965cd?auto=format&fit=crop&q=80&w=800"
-                            alt="Wellness Aesthetic"
+                            src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&q=80&w=1080"
+                            alt="Cozy Weighted Blanket Texture - Real Solutions"
                             fill
                             className="object-cover hover:scale-105 transition-transform duration-700"
                         />
