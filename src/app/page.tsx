@@ -6,27 +6,27 @@ import { ScrollObserver } from "@/components/ScrollObserver";
 
 const articles = [
   {
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuAeSPggPie6sOfEV81ZemgLLWScaKd-zx46HRlSFtMEJWg-ry3tHA8memjIUQHSt9u6SuRE-Z0MFjUrSs3-Dia9tXdjn4zCqP0d65XbGn-xw9pS0g5fqshSHEZfHuf21qLlMcthrjQ3rMzlXARy7aVUwB2DlDbEdq-DdR6QyoaDnuGF8uLkVjNxq63V0AtdUDQv3jDl9flugzMSMcV2ZJFk8oy1C1rhDipbSRK1zoFdhqAbmc8Lrm0KBdbmF4Ppeq4gZYbeZeaaAg",
+    image: "/article1.jpg",
     category: "Neurology",
     readTime: "8 Min Read",
-    title: "The Neuro-Architecture of Focus: Rethinking Modern Productivity",
-    description: "How high-performance environments reshaped our neural pathways, and the biological protocols required to reclaim deep cognitive states in a distracted world.",
+    title: "Why You Feel Anxious for No Reason And What Your Body Is Actually Trying to Tell You",
+    description: "Your nervous system is stuck in survival mode, here's how to help it feel safe again.",
     href: "#"
   },
   {
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDT6EbxVsAQeLLxE8f4s8f8y3YGak4Mluc4v7nkkP5LoDeqMxPu4JX2UHdWUCWqEBGJPPlmjvZVErNdXBDSdOC3US_fV3i0HR29cEooCxZMuD2cTKEAFd7R56uNWY5F814rr4vDZGFinJV49iYUglbVGBioG_2jm1Cv3cpJjaFNF-HYQiVuFDJM8vc5qNoOVvfdPyHmvBqIZOhcX-vBAQ3dss2c4q5qV1hYRd-4vecrcSNLoEpE0J-GjC9uWRvbE5kEFB7T_Z8Kzw",
-    category: "Endocrinology",
+    image: "/article2.jpg",
+    category: "Sleep Science",
     readTime: "12 Min Read",
-    title: "Optimizing the Cortisol Curve for Sustained Resilience",
-    description: "Beyond stress management. Learn how to synchronize your biological clock with your endocrine system to eliminate the 3 PM slump and improve nocturnal recovery.",
+    title: "How to Stop Your Mind From Racing at Night (The Nervous System Fix)",
+    description: "If you can't fall asleep even when you're exhausted, your body hasn't switched off yet, here's how to reset it.",
     href: "#"
   },
   {
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuB3caRDpaXKs1oyWlaxrjUBl_8Y57N5o_0XzkOXqeXbYzrif6OMai7dbfeTB0cHbPPVfgoN5gMb7J7Uo_DVI7mS-sfUgjVWop317RIuU8k7QuZrr1Iz7Bhnkbd_j6C8uOTfkfMCBOiNnQPdz09Q-6Abp2dQh0G8Qu5UdvHBfPnHKZdfijWpO1Ws3RikOhgLfLTkvM2c5-9yG5V55zyyxmHbknMfY-QUW6nJGew-U8BGzczBAOWqiBaWgq-fY4f9AgxACO0QtQkNSw",
-    category: "Supplementation",
-    readTime: "15 Min Read",
-    title: "The Magnesium Protocol: A Deep Dive into Cellular Energy",
-    description: "Not all magnesium is created equal. We examine the bioavailability of seven different forms and their specific impacts on sleep quality and executive function.",
+    image: "/article3.jpg",
+    category: "Vagus Nerve",
+    readTime: "5 Min Read",
+    title: "The 5-Minute Vagus Nerve Reset (When You Need to Calm Down Fast)",
+    description: "A simple physical trick that tells your body to stop panicking and start calming down, in minutes.",
     href: "#"
   }
 ];
