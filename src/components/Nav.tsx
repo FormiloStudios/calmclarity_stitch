@@ -17,16 +17,10 @@ export function Nav() {
                     </Link>
                     <div className="hidden md:flex space-x-6 text-sm tracking-wide uppercase font-light">
                         <Link
-                            href="#"
+                            href="/"
                             className="hover:text-muted transition-colors text-white"
                         >
                             Journal
-                        </Link>
-                        <Link
-                            href="#"
-                            className="hover:text-muted transition-colors text-white"
-                        >
-                            Resources
                         </Link>
                         <Link
                             href="/story"
