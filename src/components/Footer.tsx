@@ -8,6 +8,7 @@ export function Footer() {
 
     const isPrivacy = pathname === "/privacy";
     const isTerms = pathname === "/terms";
+    const isContact = pathname === "/contact";
 
     return (
         <footer className="bg-background-dark border-t border-white/10 py-20 px-6">
@@ -37,12 +38,14 @@ export function Footer() {
                             Terms of Service
                         </Link>
                     )}
-                    <Link
-                        href="/contact"
-                        className="hover:text-white transition-colors text-muted"
-                    >
-                        Contact
-                    </Link>
+                    {!isContact && (
+                        <Link
+                            href="/contact"
+                            className="hover:text-white transition-colors text-muted"
+                        >
+                            Contact
+                        </Link>
+                    )}
                 </div>
                 <div className="flex items-center gap-4 text-muted hover:text-white transition-colors cursor-pointer group">
                     <svg
