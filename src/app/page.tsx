@@ -40,7 +40,7 @@ export default function Home() {
 
       <main className="max-w-4xl mx-auto px-6 py-32 space-y-40" id="feed">
         <div className="text-center mb-24">
-          <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50">The Brief</h2>
+          <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50">Start Here</h2>
           <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
         </div>
 
@@ -49,14 +49,6 @@ export default function Home() {
             <ArticleCard key={index} {...article} />
           ))}
         </section>
-
-        <div className="pt-20 border-t border-slate-200 dark:border-white/10 flex justify-between items-center">
-          <span className="text-xs uppercase tracking-widest opacity-40">Page 01 / 12</span>
-          <button className="flex items-center space-x-4 group">
-            <span className="text-sm uppercase tracking-widest font-bold">Older Entries</span>
-            <span className="material-icons group-hover:translate-x-2 transition-transform">east</span>
-          </button>
-        </div>
       </main>
 
       <Footer />

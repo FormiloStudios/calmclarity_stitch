@@ -25,17 +25,7 @@ export function Hero() {
                 <h1 className="text-5xl md:text-7xl lg:text-8xl font-display text-white leading-[1.1] mb-8 drop-shadow-lg">
                     Simple solutions for a faster brain and calmer body
                 </h1>
-                <div className="flex flex-col md:flex-row items-center justify-center gap-6 mt-12">
-                    <Link
-                        href="#feed"
-                        className="group flex items-center text-sm uppercase tracking-widest font-bold text-white drop-shadow-md"
-                    >
-                        Start Here
-                        <span className="material-icons ml-2 group-hover:translate-y-1 transition-transform">
-                            expand_more
-                        </span>
-                    </Link>
-                </div>
+
             </div>
         </header>
     );
