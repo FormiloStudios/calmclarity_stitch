@@ -14,13 +14,13 @@ export function Footer() {
                 </div>
                 <div className="flex flex-wrap gap-x-12 gap-y-6 text-[10px] tracking-[0.2em] uppercase font-light">
                     <Link
-                        href="#"
+                        href="/privacy"
                         className="hover:text-white transition-colors text-muted"
                     >
                         Privacy Policy
                     </Link>
                     <Link
-                        href="#"
+                        href="/terms"
                         className="hover:text-white transition-colors text-muted"
                     >
                         Terms of Service
@@ -41,7 +41,6 @@ export function Footer() {
             </div>
             <div className="max-w-7xl mx-auto mt-20 pt-8 border-t border-white/5 text-[9px] text-muted/50 tracking-[0.3em] uppercase flex justify-between">
                 <p>© 2026 CALM CLARITY. ALL RIGHTS RESERVED.</p>
-                <p>DESIGNED FOR INTENTION</p>
             </div>
         </footer>
     );
