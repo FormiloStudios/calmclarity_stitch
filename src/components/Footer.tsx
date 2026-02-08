@@ -9,7 +9,7 @@ export function Footer() {
                         CALM CLARITY
                     </p>
                     <p className="text-[10px] text-muted tracking-[0.3em] uppercase">
-                        The Editorial Standard of Wellness
+                        Science-backed calm for everyday life
                     </p>
                 </div>
                 <div className="flex flex-wrap gap-x-12 gap-y-6 text-[10px] tracking-[0.2em] uppercase font-light">
