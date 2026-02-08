@@ -40,7 +40,7 @@ export function StoryHeader() {
                             alt="Claire Miller"
                             fill
                             priority
-                            className="object-cover object-[center_15%] scale-150"
+                            className="object-cover object-[center_10%] scale-110"
                         />
                     </div>
                 </div>

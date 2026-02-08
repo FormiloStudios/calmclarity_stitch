@@ -16,7 +16,7 @@ export function StoryContent() {
                         </p>
                         <p>
                             What I am is someone who got frustrated watching people suffer
-                            throughgeneric advice that didn&#39;t work, while the actual
+                            through generic advice that didn&#39;t work, while the actual
                             solutions were buried in overly-technical forums and expensive
                             courses.
                         </p>
