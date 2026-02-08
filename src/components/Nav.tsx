@@ -16,27 +16,23 @@ export function Nav() {
                         CALM CLARITY
                     </Link>
                     <div className="hidden md:flex space-x-6 text-sm tracking-wide uppercase font-light">
-                        <Link
-                            href="/"
-                            className="hover:text-muted transition-colors text-white"
-                        >
-                            Journal
-                        </Link>
-                        <Link
-                            href="/story"
-                            className={`transition-colors text-white ${isActive('/story') ? 'border-b border-primary pb-1' : 'hover:text-muted'}`}
-                        >
-                            The Story
-                        </Link>
+                        {pathname !== '/' && (
+                            <Link
+                                href="/"
+                                className="hover:text-muted transition-colors text-white"
+                            >
+                                Journal
+                            </Link>
+                        )}
+                        {pathname !== '/story' && (
+                            <Link
+                                href="/story"
+                                className="hover:text-muted transition-colors text-white"
+                            >
+                                The Story
+                            </Link>
+                        )}
                     </div>
-                </div>
-                <div className="flex items-center space-x-6 text-white">
-                    <Link
-                        href="#newsletter"
-                        className="text-sm tracking-wide uppercase font-light hover:text-muted transition-colors"
-                    >
-                        Newsletter
-                    </Link>
                 </div>
             </div>
         </nav>
