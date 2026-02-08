@@ -12,7 +12,7 @@ export function NewsletterSection() {
     };
 
     return (
-        <section className="bg-white/5 py-32 border-t border-white/10">
+        <section id="newsletter" className="bg-white/5 py-32 border-t border-white/10">
             <div className="max-w-xl mx-auto px-6 text-center">
                 <h3 className="font-display text-4xl font-bold mb-6 text-white">
                     The Weekly Clarity

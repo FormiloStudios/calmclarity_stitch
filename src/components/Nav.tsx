@@ -31,12 +31,12 @@ export function Nav() {
                     </div>
                 </div>
                 <div className="flex items-center space-x-6 text-white">
-                    <button className="text-sm tracking-wide uppercase font-light hover:text-muted transition-colors">
+                    <Link
+                        href="#newsletter"
+                        className="text-sm tracking-wide uppercase font-light hover:text-muted transition-colors"
+                    >
                         Newsletter
-                    </button>
-                    <span className="material-symbols-outlined cursor-pointer hover:opacity-70 text-sm">
-                        search
-                    </span>
+                    </Link>
                 </div>
             </div>
         </nav>
