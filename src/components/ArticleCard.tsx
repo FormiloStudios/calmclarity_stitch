@@ -43,7 +43,7 @@ export function ArticleCard({
                     href={href}
                     className="inline-block mt-8 text-xs uppercase tracking-widest font-bold border-b-2 border-primary pb-1"
                 >
-                    Read Full Entry
+                    Read Full Article
                 </Link>
             </div>
         </article>
