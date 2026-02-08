@@ -29,7 +29,7 @@ export function Nav() {
                                 href="/story"
                                 className="hover:text-muted transition-colors text-white"
                             >
-                                The Story
+                                About
                             </Link>
                         )}
                     </div>
