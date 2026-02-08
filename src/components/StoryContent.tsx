@@ -36,8 +36,8 @@ export function StoryContent() {
                 </div>
                 <div className="relative h-[600px] w-full rounded-2xl overflow-hidden border border-white/5 md:translate-y-12 shadow-2xl">
                     <Image
-                        src="https://images.unsplash.com/photo-1618331835717-801e976710b2?auto=format&fit=crop&q=80&w=1080"
-                        alt="Abstract Dark Water Ripples - Representation of Calm"
+                        src="/nervousystem.jpg"
+                        alt="Nervous System - Biological Regulation"
                         fill
                         className="object-cover opacity-90 hover:opacity-100 transition-opacity duration-700"
                     />
@@ -59,8 +59,8 @@ export function StoryContent() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                     <div className="order-2 md:order-1 relative h-[500px] rounded-2xl overflow-hidden border border-white/5 shadow-2xl">
                         <Image
-                            src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&q=80&w=1080"
-                            alt="Cozy Weighted Blanket Texture - Real Solutions"
+                            src="/welllnesstools.jpg"
+                            alt="Wellness Aesthetic"
                             fill
                             className="object-cover hover:scale-105 transition-transform duration-700"
                         />
