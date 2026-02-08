@@ -11,7 +11,7 @@ export function StoryHeader() {
                     </h1>
                     <div className="mt-8 space-y-6 text-lg text-muted font-light leading-relaxed max-w-xl animate-fade-in-up delay-100">
                         <p>
-                            If you&#39;ve landed here, chances are you know the feeling —
+                            If you&#39;ve landed here, chances are you know the feeling,
                             You&#39;re exhausted, but you can&#39;t turn off.
                         </p>
                         <p>
@@ -40,7 +40,7 @@ export function StoryHeader() {
                             alt="Claire Miller"
                             fill
                             priority
-                            className="object-cover object-top scale-120"
+                            className="object-cover object-[center_15%] scale-150"
                         />
                     </div>
                 </div>

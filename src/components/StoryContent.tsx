@@ -25,7 +25,7 @@ export function StoryContent() {
                             I spent months researching the science behind nervous system
                             regulation, the physical tools that actually calm your body (not
                             just your mind), and the supplements that have real mechanisms
-                            behind them — not just marketing hype.
+                            behind them, not just marketing hype.
                         </p>
                         <p>
                             And what I found was this: The tools exist. They&#39;re just not
