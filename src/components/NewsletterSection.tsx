@@ -9,6 +9,10 @@ export function NewsletterSection() {
         e.preventDefault();
         // Simulate subscription
         setStatus("success");
+        // Reset to idle after 5 seconds so user can see the form again
+        setTimeout(() => {
+            setStatus("idle");
+        }, 5000);
     };
 
     return (

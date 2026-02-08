@@ -10,6 +10,10 @@ export default function ContactPage() {
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
         setStatus("success");
+        // Reset to idle after 5 seconds so user can send another message
+        setTimeout(() => {
+            setStatus("idle");
+        }, 5000);
     };
 
     return (
@@ -44,7 +48,7 @@ export default function ContactPage() {
                                 <input
                                     required
                                     type="text"
-                                    placeholder="Your fully name"
+                                    placeholder="Your full name"
                                     className="w-full bg-transparent border-b border-white/20 py-3 px-1 text-white focus:border-white transition-colors outline-none font-light"
                                 />
                             </div>
