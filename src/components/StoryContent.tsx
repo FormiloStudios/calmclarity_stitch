@@ -117,8 +117,8 @@ export function StoryContent() {
                         and clear-headed shouldn&#39;t require a biology degree.
                     </p>
                     <p className="text-white font-normal">
-                        If you&#39;re tired of being tired and wired, you&#39;re in the right
-                        place.
+                        If you&#39;re exhausted but can&#39;t seem to rest, you&#39;re in the
+                        right place.
                     </p>
                     <p>Let&#39;s fix this together.</p>
                     <div className="pt-12">
