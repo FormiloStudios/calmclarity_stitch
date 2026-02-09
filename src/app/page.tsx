@@ -2,6 +2,7 @@ import { Nav } from "@/components/Nav";
 import { Hero } from "@/components/Hero";
 import { Footer } from "@/components/Footer";
 import { ArticleCard } from "@/components/ArticleCard";
+import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 
 const articles = [
@@ -51,6 +52,7 @@ export default function Home() {
         </section>
       </main>
 
+      <NewsletterSection />
       <Footer />
     </>
   );
