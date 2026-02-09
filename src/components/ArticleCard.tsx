@@ -31,7 +31,7 @@ export function ArticleCard({
             </div>
             <div className="max-w-2xl">
                 <span className="text-[10px] uppercase tracking-widest text-slate-500 mb-4 block">
-                    {category} • {readTime}
+                    {category}{readTime && ` • ${readTime}`}
                 </span>
                 <h3 className="text-3xl md:text-4xl font-display mb-6 group-hover:underline decoration-1 underline-offset-8 transition-all">
                     {title}
