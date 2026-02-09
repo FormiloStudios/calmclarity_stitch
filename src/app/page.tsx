@@ -7,30 +7,6 @@ import { ScrollObserver } from "@/components/ScrollObserver";
 
 const articles = [
   {
-    image: "/article1.jpg",
-    category: "Neurology",
-    readTime: "8 Min Read",
-    title: "Why You Feel Anxious for No Reason And What Your Body Is Actually Trying to Tell You",
-    description: "Your nervous system is stuck in survival mode, here's how to help it feel safe again.",
-    href: "#"
-  },
-  {
-    image: "/article2.jpg",
-    category: "Sleep Science",
-    readTime: "12 Min Read",
-    title: "How to Stop Your Mind From Racing at Night (The Nervous System Fix)",
-    description: "If you can't fall asleep even when you're exhausted, your body hasn't switched off yet, here's how to reset it.",
-    href: "#"
-  },
-  {
-    image: "/article3.jpg",
-    category: "Vagus Nerve",
-    readTime: "5 Min Read",
-    title: "The 5-Minute Vagus Nerve Reset (When You Need to Calm Down Fast)",
-    description: "A simple physical trick that tells your body to stop panicking and start calming down, in minutes.",
-    href: "#"
-  },
-  {
     image: "/val_article1.jpg",
     category: "Relationships",
     readTime: "6 Min Read",
@@ -52,6 +28,30 @@ const articles = [
     readTime: "7 Min Read",
     title: "The Anti-Anxiety Valentine's Day (For People Who Hate the Pressure)",
     description: "Valentine's Day overwhelm is real, here's how to opt out of the chaos and actually enjoy yourself.",
+    href: "#"
+  },
+  {
+    image: "/article1.jpg",
+    category: "Neurology",
+    readTime: "8 Min Read",
+    title: "Why You Feel Anxious for No Reason And What Your Body Is Actually Trying to Tell You",
+    description: "Your nervous system is stuck in survival mode, here's how to help it feel safe again.",
+    href: "#"
+  },
+  {
+    image: "/article2.jpg",
+    category: "Sleep Science",
+    readTime: "12 Min Read",
+    title: "How to Stop Your Mind From Racing at Night (The Nervous System Fix)",
+    description: "If you can't fall asleep even when you're exhausted, your body hasn't switched off yet, here's how to reset it.",
+    href: "#"
+  },
+  {
+    image: "/article3.jpg",
+    category: "Vagus Nerve",
+    readTime: "5 Min Read",
+    title: "The 5-Minute Vagus Nerve Reset (When You Need to Calm Down Fast)",
+    description: "A simple physical trick that tells your body to stop panicking and start calming down, in minutes.",
     href: "#"
   }
 ];
