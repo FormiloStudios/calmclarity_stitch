@@ -20,7 +20,7 @@ const articles = [
     readTime: "10 Min Read",
     title: "How to Stop Relationship Anxiety From Ruining Valentine's Day",
     description: "If you're spiraling with 'what ifs' about your relationship, your nervous system needs a reset, not reassurance.",
-    href: "#"
+    href: "/articles/how-to-stop-relationship-anxiety-from-ruining-valentines-day"
   },
   {
     image: "/val_article3.jpg",
