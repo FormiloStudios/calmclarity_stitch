@@ -26,21 +26,25 @@ export default function ArticlePage() {
                         </div>
                     </header>
 
-                    {/* Featured Image */}
-                    <div className="relative aspect-[16/9] w-full mb-16 rounded-2xl overflow-hidden shadow-2xl">
-                        <Image
-                            src="/val_article1.jpg"
-                            alt="Couple enjoying a calm date night"
-                            fill
-                            className="object-cover"
-                            priority
-                        />
+                    <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
+                        <div className="lg:w-1/2">
+                            <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic">
+                                You&#39;ve been looking forward to tonight all week. You picked out what you&#39;re wearing. Made the reservation. You actually want to be there.
+                            </p>
+                        </div>
+                        <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-xl rotate-2 hover:rotate-0 transition-transform duration-500">
+                            <Image
+                                src="/val_article1.jpg"
+                                alt="Couple enjoying a calm date night"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
                     </div>
 
-                    {/* Content */}
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed">
-                        <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic mb-12">
-                            You&#39;ve been looking forward to tonight all week. You picked out what you&#39;re wearing. Made the reservation. You actually want to be there.
+                        <p>
+                            But now it&#39;s getting close, and suddenly your stomach&#39;s doing flips. Your brain won&#39;t stop throwing out worst-case scenarios. <em>What if we run out of things to talk about? What if I say something weird? What if they notice how nervous I am?</em>
                         </p>
 
                         <p>
@@ -51,9 +55,9 @@ export default function ArticlePage() {
                             You check the mirror one more time, mess with your hair, and realize: you&#39;re not excited anymore. You&#39;re just stressed.
                         </p>
 
-                        <p>
-                            If that sounds familiar, here&#39;s what I need you to know: This isn&#39;t you overthinking everything. It&#39;s your body trying to protect you from something that isn&#39;t actually dangerous.
-                        </p>
+                        <blockquote className="border-l-4 border-primary pl-8 my-12 italic text-2xl font-display text-slate-800 dark:text-slate-200">
+                            "This isn&#39;t you overthinking everything. It&#39;s your body trying to protect you from something that isn&#39;t actually dangerous."
+                        </blockquote>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Why Date Nights Make You Anxious</h2>
                         <p>Here&#39;s what&#39;s going on under the surface:</p>
@@ -74,13 +78,21 @@ export default function ArticlePage() {
                             The problem? Your nervous system can&#39;t tell the difference. Social pressure feels like danger to your body. So it reacts accordingly.
                         </p>
 
-                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
-                            <Image
-                                src="/val_article1a.jpg"
-                                alt="Nervous system reaction visual"
-                                fill
-                                className="object-cover"
-                            />
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-16">
+                            <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg -rotate-1">
+                                <Image
+                                    src="/val_article1a.jpg"
+                                    alt="Nervous system reaction visual"
+                                    fill
+                                    className="object-cover"
+                                />
+                            </div>
+                            <div className="flex flex-col justify-center">
+                                <h3 className="font-display text-2xl font-bold mb-4">The Danger Signal</h3>
+                                <p className="text-sm leading-relaxed text-muted">
+                                    Your nervous system can&#39;t tell the difference between a social evaluation and a physical threat. To your body, a high-stakes date feels like a survival situation.
+                                </p>
+                            </div>
                         </div>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Things That Make It Worse</h2>
@@ -131,13 +143,23 @@ export default function ArticlePage() {
                             Or keep a small piece of thinking putty in your pocket. Squeezing it for even 30 seconds while you&#39;re waiting at the table can help ground you. <span className="text-primary italic">[LINK TO THINKING PUTTY]</span>
                         </p>
 
-                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
-                            <Image
-                                src="/val_article1b.jpg"
-                                alt="Calming techniques visual"
-                                fill
-                                className="object-cover"
-                            />
+                        <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
+                            <div className="flex flex-col md:flex-row gap-8 items-center">
+                                <div className="md:w-1/3 relative aspect-square w-full rounded-xl overflow-hidden shadow-lg">
+                                    <Image
+                                        src="/val_article1b.jpg"
+                                        alt="Calming techniques visual"
+                                        fill
+                                        className="object-cover"
+                                    />
+                                </div>
+                                <div className="md:w-2/3">
+                                    <h4 className="font-display text-xl font-bold mb-3 text-primary uppercase tracking-wider">The Sensory Reset</h4>
+                                    <p className="text-sm leading-relaxed mb-0">
+                                        Giving your hands or body a physical task interrupts the cognitive loop of anxiety. It&#39;s not just a distraction; it&#39;s a physiological intervention that signals safety to your brain.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Help Your Nervous System From the Inside</h3>

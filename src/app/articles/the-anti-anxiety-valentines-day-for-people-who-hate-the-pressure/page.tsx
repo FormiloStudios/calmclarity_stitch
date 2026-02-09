@@ -26,21 +26,25 @@ export default function ArticlePage() {
                         </div>
                     </header>
 
-                    {/* Featured Image */}
-                    <div className="relative aspect-[16/9] w-full mb-16 rounded-2xl overflow-hidden shadow-2xl">
-                        <Image
-                            src="/val_article3.jpg"
-                            alt="Low-pressure Valentine's Day connection"
-                            fill
-                            className="object-cover"
-                            priority
-                        />
+                    <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
+                        <div className="lg:w-1/2">
+                            <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic">
+                                Let&#39;s just say it: Valentine&#39;s Day kind of sucks sometimes. Not the idea of it — spending time with someone you love, celebrating your relationship. That part&#39;s fine. It&#39;s everything <em>around</em> it that&#39;s exhausting.
+                            </p>
+                        </div>
+                        <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-xl rotate-1 hover:rotate-0 transition-transform duration-500">
+                            <Image
+                                src="/val_article3.jpg"
+                                alt="Low-pressure Valentine's Day connection"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
                     </div>
 
-                    {/* Content */}
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed">
-                        <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic mb-12">
-                            Let&#39;s just say it: Valentine&#39;s Day kind of sucks sometimes. Not the idea of it — spending time with someone you love, celebrating your relationship. That part&#39;s fine. It&#39;s everything <em>around</em> it that&#39;s exhausting.
+                        <p>
+                            The crowded restaurants where you can barely hear each other talk. The expensive prix fixe menus. The flowers that cost three times what they normally do. The pressure to post the perfect couple photo. The feeling that if you don&#39;t do something big and romantic, you&#39;re somehow failing at your relationship.
                         </p>
 
                         <p>
@@ -51,9 +55,9 @@ export default function ArticlePage() {
                             And if you&#39;re someone who already deals with anxiety? Valentine&#39;s Day can feel less like a celebration and more like a test you didn&#39;t study for.
                         </p>
 
-                        <p>
-                            Here&#39;s what I want you to know: <strong>You&#39;re allowed to hate the Valentine&#39;s Day circus. And you&#39;re allowed to do it differently.</strong>
-                        </p>
+                        <blockquote className="border-l-4 border-primary pl-8 my-12 italic text-2xl font-display text-slate-800 dark:text-slate-200">
+                            "You&#39;re allowed to hate the Valentine&#39;s Day circus. And you&#39;re allowed to do it differently."
+                        </blockquote>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Why Valentine&#39;s Day Triggers Anxiety</h2>
                         <p>
@@ -69,13 +73,21 @@ export default function ArticlePage() {
                         <h3 className="font-display text-xl font-bold mt-8 mb-4 text-white">Everything is crowded and loud</h3>
                         <p>If you&#39;re introverted or sensitive to overstimulation, a packed restaurant is basically sensory hell. You&#39;re elbow-to-elbow with strangers and can barely hear yourself think.</p>
 
-                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
-                            <Image
-                                src="/val_article3a.jpg"
-                                alt="Sensory overload metaphor"
-                                fill
-                                className="object-cover"
-                            />
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-16">
+                            <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg -rotate-1">
+                                <Image
+                                    src="/val_article3a.jpg"
+                                    alt="Sensory overload metaphor"
+                                    fill
+                                    className="object-cover"
+                                />
+                            </div>
+                            <div className="flex flex-col justify-center">
+                                <h3 className="font-display text-2xl font-bold mb-4">Sensory Overload</h3>
+                                <p className="text-sm leading-relaxed text-muted">
+                                    For the introverted or sensitive heart, a packed restaurant isn't romantic—it's a high-stimulation environment that triggers a survival response instead of connection.
+                                </p>
+                            </div>
                         </div>
 
                         <p>
@@ -100,13 +112,23 @@ export default function ArticlePage() {
                             If the urge to scroll hits, use a fidget ring to redirect that nervous energy. <span className="text-primary italic">[LINK TO FIDGET RING]</span>
                         </p>
 
-                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
-                            <Image
-                                src="/val_article3b.jpg"
-                                alt="A peaceful, distraction-free evening"
-                                fill
-                                className="object-cover"
-                            />
+                        <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
+                            <div className="flex flex-col md:flex-row gap-8 items-center">
+                                <div className="md:w-1/3 relative aspect-square w-full rounded-xl overflow-hidden shadow-lg">
+                                    <Image
+                                        src="/val_article3b.jpg"
+                                        alt="A peaceful, distraction-free evening"
+                                        fill
+                                        className="object-cover"
+                                    />
+                                </div>
+                                <div className="md:w-2/3">
+                                    <h4 className="font-display text-xl font-bold mb-3 text-primary uppercase tracking-wider">True Connection</h4>
+                                    <p className="text-sm leading-relaxed mb-0">
+                                        Intimacy thrives in safety. By removing the audience and the expectations, you create a space where your nervous system can actually settle into shared presence.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Build in Recovery Time</h3>

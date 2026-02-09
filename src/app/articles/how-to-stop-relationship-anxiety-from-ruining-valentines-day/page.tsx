@@ -26,21 +26,25 @@ export default function ArticlePage() {
                         </div>
                     </header>
 
-                    {/* Featured Image */}
-                    <div className="relative aspect-[16/9] w-full mb-16 rounded-2xl overflow-hidden shadow-2xl">
-                        <Image
-                            src="/val_article2.jpg"
-                            alt="Stress-free connection on Valentine's Day"
-                            fill
-                            className="object-cover"
-                            priority
-                        />
+                    <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
+                        <div className="lg:w-1/2">
+                            <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic">
+                                You love this person. You&#39;re pretty sure they love you too. So why are you lying awake at 2 AM wondering if they&#39;re going to break up with you?
+                            </p>
+                        </div>
+                        <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-xl -rotate-2 hover:rotate-0 transition-transform duration-500">
+                            <Image
+                                src="/val_article2.jpg"
+                                alt="Stress-free connection on Valentine's Day"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
                     </div>
 
-                    {/* Content */}
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed">
-                        <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic mb-12">
-                            You love this person. You&#39;re pretty sure they love you too. So why are you lying awake at 2 AM wondering if they&#39;re going to break up with you?
+                        <p>
+                            Or replaying that slightly off conversation from three days ago, searching for hidden meaning in every word they said? Or spiraling over the fact that they haven&#39;t texted back in two hours, even though you know they&#39;re just at work?
                         </p>
 
                         <p>
@@ -51,9 +55,9 @@ export default function ArticlePage() {
                             Valentine&#39;s Day is supposed to be this romantic, happy thing. But if you deal with relationship anxiety, it can feel more like a pressure cooker. The expectations, the "perfect couple" performances on social media, the fear that your Valentine&#39;s plans won&#39;t measure up — or worse, that your partner secretly doesn&#39;t want to be with you at all.
                         </p>
 
-                        <p>
-                            Here&#39;s what I need you to understand: <strong>This isn&#39;t about your relationship. It&#39;s about your nervous system.</strong>
-                        </p>
+                        <blockquote className="border-l-4 border-primary pl-8 my-12 italic text-2xl font-display text-slate-800 dark:text-slate-200">
+                            "This isn&#39;t about your relationship. It&#39;s about your nervous system."
+                        </blockquote>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What Relationship Anxiety Actually Is</h2>
                         <p>
@@ -69,13 +73,21 @@ export default function ArticlePage() {
                             <li>Feel like you&#39;re "too much" or that you&#39;re going to scare them away</li>
                         </ul>
 
-                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
-                            <Image
-                                src="/val_article2a.jpg"
-                                alt="Mental loop of anxiety"
-                                fill
-                                className="object-cover"
-                            />
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-16">
+                            <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg rotate-1">
+                                <Image
+                                    src="/val_article2a.jpg"
+                                    alt="Mental loop of anxiety"
+                                    fill
+                                    className="object-cover"
+                                />
+                            </div>
+                            <div className="flex flex-col justify-center">
+                                <h3 className="font-display text-2xl font-bold mb-4">Threat Detection</h3>
+                                <p className="text-sm leading-relaxed text-muted">
+                                    Your nervous system is scanning for danger constantly. In a relationship, that "danger" often looks like rejection or abandonment, even when it's not there.
+                                </p>
+                            </div>
                         </div>
 
                         <p>
@@ -114,13 +126,23 @@ export default function ArticlePage() {
                             If you&#39;re lying in bed spiraling, try using a weighted blanket. The deep pressure actually activates your parasympathetic nervous system — the part that tells your body "we&#39;re safe, we can relax now." <span className="text-primary italic">[LINK TO WEIGHTED BLANKET]</span>
                         </p>
 
-                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
-                            <Image
-                                src="/val_article2b.jpg"
-                                alt="Grounding exercises"
-                                fill
-                                className="object-cover"
-                            />
+                        <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
+                            <div className="flex flex-col md:flex-row-reverse gap-8 items-center">
+                                <div className="md:w-1/3 relative aspect-square w-full rounded-xl overflow-hidden shadow-lg">
+                                    <Image
+                                        src="/val_article2b.jpg"
+                                        alt="Grounding exercises"
+                                        fill
+                                        className="object-cover"
+                                    />
+                                </div>
+                                <div className="md:w-2/3">
+                                    <h4 className="font-display text-xl font-bold mb-3 text-primary uppercase tracking-wider">The Physical Proof</h4>
+                                    <p className="text-sm leading-relaxed mb-0">
+                                        Grounding isn't a mental exercise; it's physical proof to your body that you are safe in the present moment. This interrupts the anxiety spiral before it takes over.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">2. Stop the Reassurance Loop</h3>
