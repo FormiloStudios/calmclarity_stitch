@@ -12,7 +12,7 @@ const articles = [
     readTime: "6 Min Read",
     title: "Why You Feel Anxious Before Date Night (And How to Actually Enjoy It)",
     description: "Pre-date jitters are your nervous system in overdrive, here's how to calm down and actually have fun.",
-    href: "#"
+    href: "/articles/why-you-feel-anxious-before-date-night"
   },
   {
     image: "/val_article2.jpg",
