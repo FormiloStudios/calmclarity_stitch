@@ -143,6 +143,25 @@ export default function ArticlePage() {
                             Or keep a small piece of thinking putty in your pocket. Squeezing it for even 30 seconds while you&#39;re waiting at the table can help ground you. <span className="text-primary italic">[LINK TO THINKING PUTTY]</span>
                         </p>
 
+                        <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
+                            <div className="flex flex-col md:flex-row gap-8 items-center">
+                                <div className="md:w-1/3 relative aspect-square w-full rounded-xl overflow-hidden shadow-lg">
+                                    <Image
+                                        src="/val_article1b.jpg"
+                                        alt="Calming techniques visual"
+                                        fill
+                                        className="object-cover"
+                                    />
+                                </div>
+                                <div className="md:w-2/3">
+                                    <h4 className="font-display text-xl font-bold mb-3 text-primary uppercase tracking-wider">The Sensory Reset</h4>
+                                    <p className="text-sm leading-relaxed mb-0">
+                                        Giving your hands or body a physical task interrupts the cognitive loop of anxiety. It&#39;s not just a distraction; it&#39;s a physiological intervention that signals safety to your brain.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
 
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Help Your Nervous System From the Inside</h3>
