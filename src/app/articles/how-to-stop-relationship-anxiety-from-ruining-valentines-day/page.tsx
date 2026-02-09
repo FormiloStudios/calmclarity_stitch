@@ -2,6 +2,8 @@ import Image from "next/image";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { NewsletterSection } from "@/components/NewsletterSection";
+import { ShareSection } from "@/components/ShareSection";
+import { CommentsSection } from "@/components/CommentsSection";
 
 export default function ArticlePage() {
     return (
@@ -158,6 +160,9 @@ export default function ArticlePage() {
                         </p>
                         <p>But you can teach it something different — by giving your body consistent, physical signals of safety. It takes time, but it&#39;s possible. You&#39;re not too much. You&#39;re just wired for caution. And that&#39;s okay.</p>
                     </div>
+
+                    <ShareSection title="How to Stop Relationship Anxiety From Ruining Valentine's Day" />
+                    <CommentsSection articleId="relationship-anxiety-vday" />
                 </article>
             </main>
             <NewsletterSection />

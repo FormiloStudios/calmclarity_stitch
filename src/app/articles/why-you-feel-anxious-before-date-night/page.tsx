@@ -2,6 +2,8 @@ import Image from "next/image";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { NewsletterSection } from "@/components/NewsletterSection";
+import { ShareSection } from "@/components/ShareSection";
+import { CommentsSection } from "@/components/CommentsSection";
 
 export default function ArticlePage() {
     return (
@@ -204,6 +206,9 @@ export default function ArticlePage() {
                             And that starts with understanding what&#39;s happening in your body, and giving it what it needs to settle down.
                         </p>
                     </div>
+
+                    <ShareSection title="Why You Feel Anxious Before Date Night (And How to Actually Enjoy It)" />
+                    <CommentsSection articleId="date-night-anxiety" />
                 </article>
             </main>
             <NewsletterSection />

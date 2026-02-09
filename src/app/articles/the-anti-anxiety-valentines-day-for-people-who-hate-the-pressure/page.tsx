@@ -2,6 +2,8 @@ import Image from "next/image";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { NewsletterSection } from "@/components/NewsletterSection";
+import { ShareSection } from "@/components/ShareSection";
+import { CommentsSection } from "@/components/CommentsSection";
 
 export default function ArticlePage() {
     return (
@@ -133,6 +135,9 @@ export default function ArticlePage() {
                             Connection happens when your nervous system feels safe. When you&#39;re not performing. When you&#39;re not comparing. So if the traditional Valentine&#39;s Day doesn&#39;t feel safe to you — skip it. Do something that actually lets you be present with your person.
                         </p>
                     </div>
+
+                    <ShareSection title="The Anti-Anxiety Valentine's Day (For People Who Hate the Pressure)" />
+                    <CommentsSection articleId="anti-anxiety-vday" />
                 </article>
             </main>
             <NewsletterSection />
