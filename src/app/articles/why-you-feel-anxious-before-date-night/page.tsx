@@ -72,6 +72,15 @@ export default function ArticlePage() {
                             The problem? Your nervous system can&#39;t tell the difference. Social pressure feels like danger to your body. So it reacts accordingly.
                         </p>
 
+                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
+                            <Image
+                                src="/val_article1_2.jpg"
+                                alt="Nervous system reaction visual"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
+
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Things That Make It Worse</h2>
                         <p>A few habits can crank up the pre-date anxiety even more:</p>
                         <ul className="list-disc pl-6 space-y-4 marker:text-primary">
@@ -119,6 +128,15 @@ export default function ArticlePage() {
                         <p>
                             Or keep a small piece of thinking putty in your pocket. Squeezing it for even 30 seconds while you&#39;re waiting at the table can help ground you. <span className="text-primary italic">[LINK TO THINKING PUTTY]</span>
                         </p>
+
+                        <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
+                            <Image
+                                src="/val_article1_3.jpg"
+                                alt="Calming techniques visual"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Help Your Nervous System From the Inside</h3>
                         <p>
