@@ -28,7 +28,7 @@ const articles = [
     readTime: "7 Min Read",
     title: "The Anti-Anxiety Valentine's Day (For People Who Hate the Pressure)",
     description: "Valentine's Day overwhelm is real, here's how to opt out of the chaos and actually enjoy yourself.",
-    href: "#"
+    href: "/articles/the-anti-anxiety-valentines-day-for-people-who-hate-the-pressure"
   },
   {
     image: "/article1.jpg",

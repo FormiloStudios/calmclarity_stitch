@@ -74,7 +74,7 @@ export default function ArticlePage() {
 
                         <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
                             <Image
-                                src="/val_article1_2.jpg"
+                                src="/val_article1a.jpg"
                                 alt="Nervous system reaction visual"
                                 fill
                                 className="object-cover"
@@ -131,7 +131,7 @@ export default function ArticlePage() {
 
                         <div className="relative aspect-[4/3] w-full my-12 rounded-2xl overflow-hidden shadow-xl">
                             <Image
-                                src="/val_article1_3.jpg"
+                                src="/val_article1b.jpg"
                                 alt="Calming techniques visual"
                                 fill
                                 className="object-cover"
