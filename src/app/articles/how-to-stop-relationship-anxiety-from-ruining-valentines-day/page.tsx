@@ -52,7 +52,7 @@ export default function ArticlePage() {
                         </p>
 
                         <p>
-                            Valentine&#39;s Day is supposed to be this romantic, happy thing. But if you deal with relationship anxiety, it can feel more like a pressure cooker. The expectations, the "perfect couple" performances on social media, the fear that your Valentine&#39;s plans won&#39;t measure up — or worse, that your partner secretly doesn&#39;t want to be with you at all.
+                            Valentine&#39;s Day is supposed to be this romantic, happy thing. But if you deal with relationship anxiety, it can feel more like a pressure cooker. The expectations, the "perfect couple" performances on social media, the fear that your Valentine&#39;s plans won&#39;t measure up - or worse, that your partner secretly doesn&#39;t want to be with you at all.
                         </p>
 
                         <blockquote className="border-l-4 border-primary pl-8 my-12 italic text-2xl font-display text-slate-800 dark:text-slate-200">
@@ -91,7 +91,7 @@ export default function ArticlePage() {
                         </div>
 
                         <p>
-                            Sound familiar? Here&#39;s what&#39;s happening: Your nervous system is stuck in threat-detection mode. It&#39;s scanning for danger constantly — and in a relationship, that "danger" looks like rejection, abandonment, or loss.
+                            Sound familiar? Here&#39;s what&#39;s happening: Your nervous system is stuck in threat-detection mode. It&#39;s scanning for danger constantly - and in a relationship, that "danger" looks like rejection, abandonment, or loss.
                         </p>
                         <p>
                             Even when your partner does everything right, your body is still sending alarm signals. It&#39;s not because they&#39;re doing something wrong. It&#39;s because your system hasn&#39;t learned that this relationship is safe.
@@ -116,14 +116,14 @@ export default function ArticlePage() {
                         </p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">How to Actually Regulate Your Nervous System</h2>
-                        <p>You have to give your body physical proof that you&#39;re safe. That means regulating your nervous system — not just trying to logic yourself into feeling better.</p>
+                        <p>You have to give your body physical proof that you&#39;re safe. That means regulating your nervous system - not just trying to logic yourself into feeling better.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">1. Ground Yourself When the Spiral Starts</h3>
                         <p>
                             When you feel yourself starting to spiral, you need to interrupt that loop with physical grounding. Press your feet firmly into the floor. Feel the weight of your body in the chair. Notice five things you can see, four things you can touch, three things you can hear.
                         </p>
                         <p>
-                            If you&#39;re lying in bed spiraling, try using a <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a>. The deep pressure actually activates your parasympathetic nervous system — the part that tells your body "we&#39;re safe, we can relax now."
+                            If you&#39;re lying in bed spiraling, try using a <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a>. The deep pressure actually activates your parasympathetic nervous system - the part that tells your body "we&#39;re safe, we can relax now."
                         </p>
 
                         <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
@@ -180,7 +180,7 @@ export default function ArticlePage() {
                         <p>
                             Relationship anxiety doesn&#39;t mean your relationship is doomed. It just means your nervous system learned that relationships aren&#39;t safe, and it&#39;s trying to protect you.
                         </p>
-                        <p>But you can teach it something different — by giving your body consistent, physical signals of safety. It takes time, but it&#39;s possible. You&#39;re not too much. You&#39;re just wired for caution. And that&#39;s okay.</p>
+                        <p>But you can teach it something different - by giving your body consistent, physical signals of safety. It takes time, but it&#39;s possible. You&#39;re not too much. You&#39;re just wired for caution. And that&#39;s okay.</p>
                     </div>
 
                     <ShareSection title="How to Stop Relationship Anxiety From Ruining Valentine's Day" />

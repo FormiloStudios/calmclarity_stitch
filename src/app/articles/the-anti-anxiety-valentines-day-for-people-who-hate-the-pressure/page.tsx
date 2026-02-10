@@ -29,7 +29,7 @@ export default function ArticlePage() {
                     <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
                         <div className="lg:w-1/2">
                             <p className="text-xl md:text-2xl leading-relaxed text-slate-700 dark:text-slate-300 font-display italic">
-                                Let&#39;s just say it: Valentine&#39;s Day kind of sucks sometimes. Not the idea of it — spending time with someone you love, celebrating your relationship. That part&#39;s fine. It&#39;s everything <em>around</em> it that&#39;s exhausting.
+                                Let&#39;s just say it: Valentine&#39;s Day kind of sucks sometimes. Not the idea of it - spending time with someone you love, celebrating your relationship. That part&#39;s fine. It&#39;s everything <em>around</em> it that&#39;s exhausting.
                             </p>
                         </div>
                         <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-xl rotate-1 hover:rotate-0 transition-transform duration-500">
@@ -68,7 +68,7 @@ export default function ArticlePage() {
                         <p>Every commercial, every social media post, and every conversation is reminding you that this day is supposed to be special. If you&#39;re not naturally good at grand gestures, that pressure can feel crushing.</p>
 
                         <h3 className="font-display text-xl font-bold mt-8 mb-4 text-white">It&#39;s performative</h3>
-                        <p>Valentine&#39;s Day isn&#39;t just about enjoying time with your partner — it&#39;s about <em>showing</em> that you&#39;re enjoying it. It turns intimacy into a performance.</p>
+                        <p>Valentine&#39;s Day isn&#39;t just about enjoying time with your partner - it&#39;s about <em>showing</em> that you&#39;re enjoying it. It turns intimacy into a performance.</p>
 
                         <h3 className="font-display text-xl font-bold mt-8 mb-4 text-white">Everything is crowded and loud</h3>
                         <p>If you&#39;re introverted or sensitive to overstimulation, a packed restaurant is basically sensory hell. You&#39;re elbow-to-elbow with strangers and can barely hear yourself think.</p>
@@ -85,7 +85,7 @@ export default function ArticlePage() {
                             <div className="flex flex-col justify-center">
                                 <h3 className="font-display text-2xl font-bold mb-4">Sensory Overload</h3>
                                 <p className="text-sm leading-relaxed text-muted">
-                                    For the introverted or sensitive heart, a packed restaurant isn't romantic—it's a high-stimulation environment that triggers a survival response instead of connection.
+                                    For the introverted or sensitive heart, a packed restaurant isn't romantic-it's a high-stimulation environment that triggers a survival response instead of connection.
                                 </p>
                             </div>
                         </div>
@@ -101,7 +101,7 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">1. Choose Low-Stimulation Over High-Performance</h3>
                         <p>
-                            Cook at home together. Order takeout and watch a movie. Go for a walk somewhere quiet. The point is connection — and you can&#39;t actually connect when you&#39;re overstimulated and stressed.
+                            Cook at home together. Order takeout and watch a movie. Go for a walk somewhere quiet. The point is connection - and you can&#39;t actually connect when you&#39;re overstimulated and stressed.
                         </p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">2. Set Boundaries Around Social Media</h3>
@@ -154,7 +154,7 @@ export default function ArticlePage() {
                             Valentine&#39;s Day is supposed to be about connection. None of that requires a packed restaurant or a perfectly curated Instagram post.
                         </p>
                         <p>
-                            Connection happens when your nervous system feels safe. When you&#39;re not performing. When you&#39;re not comparing. So if the traditional Valentine&#39;s Day doesn&#39;t feel safe to you — skip it. Do something that actually lets you be present with your person.
+                            Connection happens when your nervous system feels safe. When you&#39;re not performing. When you&#39;re not comparing. So if the traditional Valentine&#39;s Day doesn&#39;t feel safe to you - skip it. Do something that actually lets you be present with your person.
                         </p>
                     </div>
 
