@@ -137,10 +137,10 @@ export default function ArticlePage() {
                         </p>
                         <p>Instead of fighting that urge, give it somewhere to go.</p>
                         <p>
-                            A fidget ring is perfect for this—you can wear it during the date and quietly spin it whenever you need to. No one notices, but it gives your nervous energy an outlet. <span className="text-primary italic">[LINK TO FIDGET RING]</span>
+                            A <a href="https://amzn.to/4kogorP" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">fidget ring</a> is perfect for this—you can wear it during the date and quietly spin it whenever you need to. No one notices, but it gives your nervous energy an outlet.
                         </p>
                         <p>
-                            Or keep a small piece of thinking putty in your pocket. Squeezing it for even 30 seconds while you&#39;re waiting at the table can help ground you. <span className="text-primary italic">[LINK TO THINKING PUTTY]</span>
+                            Or keep a small piece of <a href="https://amzn.to/4chc7Ey" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">thinking putty</a> in your pocket. Squeezing it for even 30 seconds while you&#39;re waiting at the table can help ground you.
                         </p>
 
                         <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
@@ -169,10 +169,10 @@ export default function ArticlePage() {
                             If you know date nights tend to spike your anxiety, you can actually prep your body beforehand.
                         </p>
                         <p>
-                            Magnesium is one of the most well-researched nutrients for calming your nervous system. It helps dial down the fight-or-flight response and supports your body&#39;s "rest and digest" mode. Taking it about an hour before you leave can take the edge off without making you drowsy. <span className="text-primary italic">[LINK TO MAGNESIUM BREAKTHROUGH]</span>
+                            <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium</a> is one of the most well-researched nutrients for calming your nervous system. It helps dial down the fight-or-flight response and supports your body&#39;s "rest and digest" mode. Taking it about an hour before you leave can take the edge off without making you drowsy.
                         </p>
                         <p>
-                            Some people also find that supporting their overall nerve health makes a difference. When the communication between your brain and body is working smoothly, you tend to feel more grounded. That&#39;s what supplements like <span className="text-primary italic">[LINK TO NERVOVIVE]</span> are designed to do—support those pathways so your system doesn&#39;t go into overdrive so easily.
+                            Some people also find that supporting their overall nerve health makes a difference. When the communication between your brain and body is working smoothly, you tend to feel more grounded. That&#39;s what supplements like <a href="https://nervovive.com/video.php?affiliate=clickcham-" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">NervoVive</a> are designed to do—support those pathways so your system doesn&#39;t go into overdrive so easily.
                         </p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">4. Try the Cold Trick</h3>
@@ -181,7 +181,7 @@ export default function ArticlePage() {
                             Cold exposure on your neck can actually activate your vagus nerve—which is basically the main line of communication between your brain and your body. When you stimulate it, it sends a signal to your nervous system that says "okay, we can calm down now."
                         </p>
                         <p>
-                            If you have an ice roller, run it along the sides of your neck for about 30-60 seconds before you head out. <span className="text-primary italic">[LINK TO ICE ROLLER]</span>
+                            If you have an <a href="https://amzn.to/4qunLzs" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">ice roller</a>, run it along the sides of your neck for about 30-60 seconds before you head out.
                         </p>
                         <p>
                             Don&#39;t have one? Splash some cold water on your face. Hold an ice cube against your wrists for a few seconds. Same effect—it interrupts the anxiety spiral.
