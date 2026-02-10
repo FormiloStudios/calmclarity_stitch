@@ -123,7 +123,7 @@ export default function ArticlePage() {
                             When you feel yourself starting to spiral, you need to interrupt that loop with physical grounding. Press your feet firmly into the floor. Feel the weight of your body in the chair. Notice five things you can see, four things you can touch, three things you can hear.
                         </p>
                         <p>
-                            If you&#39;re lying in bed spiraling, try using a weighted blanket. The deep pressure actually activates your parasympathetic nervous system — the part that tells your body "we&#39;re safe, we can relax now." <span className="text-primary italic">[LINK TO WEIGHTED BLANKET]</span>
+                            If you&#39;re lying in bed spiraling, try using a <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a>. The deep pressure actually activates your parasympathetic nervous system — the part that tells your body "we&#39;re safe, we can relax now."
                         </p>
 
                         <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
@@ -150,21 +150,21 @@ export default function ArticlePage() {
                             Constantly asking "do you still love me?" actually makes the anxiety worse over time. It reinforces the idea that you need external validation to feel safe.
                         </p>
                         <p>
-                            Instead, give yourself 10-15 minutes before acting on the urge. A fidget ring can be surprisingly helpful here. It gives your hands something to do and creates a small physical ritual that interrupts the anxiety loop. <span className="text-primary italic">[LINK TO FIDGET RING]</span>
+                            Instead, give yourself 10-15 minutes before acting on the urge. A <a href="https://amzn.to/4kogorP" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">fidget ring</a> can be surprisingly helpful here. It gives your hands something to do and creates a small physical ritual that interrupts the anxiety loop.
                         </p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Support Your Nervous System Biochemically</h3>
                         <p>
-                            Magnesium helps regulate the stress response and supports the shift from "fight or flight" to "rest and digest." <span className="text-primary italic">[LINK TO MAGNESIUM BREAKTHROUGH]</span>
+                            <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium</a> helps regulate the stress response and supports the shift from "fight or flight" to "rest and digest."
                         </p>
                         <p>
-                            You can also support your overall nerve health with something like <span className="text-primary italic">[LINK TO NERVOVIVE]</span>, which is designed to support communication pathways so your system doesn&#39;t go into overdrive so easily.
+                            You can also support your overall nerve health with something like <a href="https://nervovive.com/video.php?affiliate=clickcham-" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">NervoVive</a>, which is designed to support communication pathways so your system doesn&#39;t go into overdrive so easily.
                         </p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">4. Create a Physical Ritual</h3>
                         <ul className="list-decimal pl-6 space-y-4 marker:text-primary">
                             <li><strong>Splash cold water or use an ice roller</strong> on your face/wrists to stimulate the vagus nerve.</li>
-                            <li><strong>Lie on an acupressure mat</strong> for 10 minutes to force your brain into the present moment. <span className="text-primary italic">[LINK TO ACUPRESSURE MAT]</span></li>
+                            <li><strong>Lie on an <a href="https://amzn.to/4kqM8MU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">acupressure mat</a></strong> for 10 minutes to force your brain into the present moment. </li>
                             <li><strong>Use a weighted blanket</strong> or weighted sleep mask to signal safety to your system.</li>
                         </ul>
 

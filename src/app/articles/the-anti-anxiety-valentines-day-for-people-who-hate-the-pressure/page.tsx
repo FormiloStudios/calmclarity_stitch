@@ -109,7 +109,7 @@ export default function ArticlePage() {
                             Stay off Instagram on Valentine&#39;s Day. Just be there. With your person. Without an audience.
                         </p>
                         <p>
-                            If the urge to scroll hits, use a fidget ring to redirect that nervous energy. <span className="text-primary italic">[LINK TO FIDGET RING]</span>
+                            If the urge to scroll hits, use a <a href="https://amzn.to/4kogorP" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">fidget ring</a> to redirect that nervous energy.
                         </p>
 
                         <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
@@ -133,20 +133,20 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Build in Recovery Time</h3>
                         <p>
-                            If you do the traditional thing, plan for recovery afterward. A weighted blanket can help your nervous system shift out of "performance mode" and into "rest mode." <span className="text-primary italic">[LINK TO WEIGHTED BLANKET]</span>
+                            If you do the traditional thing, plan for recovery afterward. A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> can help your nervous system shift out of "performance mode" and into "rest mode."
                         </p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">4. Support Your System Through the Stress</h3>
                         <p>
-                            Magnesium helps regulate your stress response and keeps your nervous system from getting stuck in overdrive. <span className="text-primary italic">[LINK TO MAGNESIUM BREAKTHROUGH]</span>
+                            <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium</a> helps regulate your stress response and keeps your nervous system from getting stuck in overdrive.
                         </p>
                         <p>
-                            And if you&#39;re dealing with digestive issues from stress, supporting your gut with something like <span className="text-primary italic">[LINK TO DIGESTSYNC]</span> can actually help calm your nervous system.
+                            And if you&#39;re dealing with digestive issues from stress, supporting your gut with something like <a href="https://9d8ab1xas7e8ob80v4ml1q9dle.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">DigestSync</a> can actually help calm your nervous system.
                         </p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">5. Have an Escape Plan</h3>
                         <p>
-                            Knowing how you&#39;re going to handle it if things get overwhelming makes it less scary. Keep an ice roller in your bag to activate your vagus nerve and interrupt the anxiety response. <span className="text-primary italic">[LINK TO ICE ROLLER]</span>
+                            Knowing how you&#39;re going to handle it if things get overwhelming makes it less scary. Keep an <a href="https://amzn.to/4qunLzs" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">ice roller</a> in your bag to activate your vagus nerve and interrupt the anxiety response.
                         </p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">The Real Point of Valentine&#39;s Day</h2>
