@@ -10,9 +10,6 @@ export function AffiliateDisclosure() {
                         <span className="material-symbols-outlined text-primary text-lg">info</span>
                     </div>
                     <div className="text-sm leading-relaxed text-slate-600 dark:text-slate-400">
-                        <span className="font-display font-bold text-slate-900 dark:text-white block mb-1 uppercase tracking-wider text-[10px]">
-                            Transparency & Ethics
-                        </span>
                         <p className="font-light">
                             <span className="font-normal italic">Quick note:</span> This article contains affiliate links, which means I may earn a small commission if you purchase through them, at no extra cost to you. I only recommend products I&#39;ve researched and genuinely believe can help. Your trust matters more than any commission. As an Amazon Associate, I earn from qualifying purchases.
                         </p>
