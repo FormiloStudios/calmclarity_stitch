@@ -4,6 +4,7 @@ import { Footer } from "@/components/Footer";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
+import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
 export default function ArticlePage() {
     return (
@@ -25,6 +26,7 @@ export default function ArticlePage() {
                             <span>February 2026</span>
                         </div>
                     </header>
+                    <AffiliateDisclosure />
 
                     <div className="flex flex-col lg:flex-row gap-12 items-center mb-16">
                         <div className="lg:w-1/2">
