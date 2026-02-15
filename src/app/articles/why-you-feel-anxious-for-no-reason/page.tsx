@@ -63,7 +63,7 @@ export default function ArticlePage() {
                         </p>
 
                         <p>
-                            Here&#39;s the thing: this isn&#39;t you being dramatic. And you&#39;re not imagining it.
+                            Here is the thing: this is not you being dramatic. And you are not imagining it.
                         </p>
 
                         <p className="font-bold text-xl text-slate-900 dark:text-white">
@@ -75,10 +75,10 @@ export default function ArticlePage() {
                             Think of your nervous system like it has two different modes it can run in.
                         </p>
                         <p>
-                            There&#39;s the <strong>calm mode</strong> - where your breathing is easy, your digestion works, you can think clearly, and relaxing doesn&#39;t feel like a foreign concept.
+                            There is the <strong>calm mode</strong>, where your breathing is easy, your digestion works, you can think clearly, and relaxing does not feel like a foreign concept.
                         </p>
                         <p>
-                            Then there&#39;s <strong>survival mode</strong> - where your body thinks you&#39;re in danger. Stress hormones flood your system. Your muscles tense up. Your brain goes into high alert, scanning for threats.
+                            Then there is <strong>survival mode</strong>, where your body thinks you are in danger. Stress hormones flood your system. Your muscles tense up. Your brain goes into high alert, scanning for threats.
                         </p>
                         <p>
                             Your body is supposed to move back and forth between these modes throughout the day. Survival mode when you actually need it, then back to calm once the moment passes.
@@ -98,16 +98,16 @@ export default function ArticlePage() {
                         <p>A few things can throw your nervous system into overdrive and leave it there:</p>
                         <ul className="list-disc pl-6 space-y-4 marker:text-primary">
                             <li>
-                                <strong>Chronic low-level stress.</strong> It&#39;s not always the big stuff. Sometimes it&#39;s just the constant hum of work emails, traffic, an overflowing to-do list. Your body never gets a chance to fully downshift because there&#39;s always something.
+                                <strong>Chronic low-level stress.</strong> It is not always the big stuff. Sometimes it is just the constant hum of work emails, traffic, an overflowing to-do list. Your body never gets a chance to fully downshift because there is always something.
                             </li>
                             <li>
-                                <strong>Not sleeping well.</strong> When you don&#39;t get deep, quality sleep, your nervous system never fully resets. You wake up already halfway into fight-or-flight before your feet even hit the floor.
+                                <strong>Not sleeping well.</strong> When you do not get deep, quality sleep, your nervous system never fully resets. You wake up already halfway into fight or flight before your feet even hit the floor.
                             </li>
                             <li>
-                                <strong>Gut problems.</strong> Your gut and brain talk to each other constantly through the vagus nerve. When your digestion is off - bloating, irregular bowel movements, that nervous-stomach feeling - it sends stress signals straight up to your brain. That&#39;s why anxiety and stomach issues so often show up together.
+                                <strong>Gut problems.</strong> Your gut and brain talk to each other constantly through the vagus nerve. When your digestion is off, bloating, irregular bowel movements, that nervous stomach feeling, it sends stress signals straight up to your brain. That is why anxiety and stomach issues so often show up together.
                             </li>
                             <li>
-                                <strong>Sitting still all day.</strong> Your body is built to burn off stress through movement. When you&#39;re sedentary, those stress hormones just sit in your system with nowhere to go.
+                                <strong>Sitting still all day.</strong> Your body is built to burn off stress through movement. When you are sedentary, those stress hormones just sit in your system with nowhere to go.
                             </li>
                         </ul>
 
@@ -140,13 +140,21 @@ export default function ArticlePage() {
                             If you&#39;re dealing with constant anxiety, one of the most effective things you can do is support your nervous system from the inside.
                         </p>
                         <p>
-                            <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium Breakthrough</a> keeps coming up in research on stress and anxiety for a reason. It helps regulate the fight-or-flight response and supports the shift into "rest and digest" mode. A lot of people are low on it without realizing - especially if they&#39;re under chronic stress.
+                            <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium Breakthrough</a> keeps coming up in research on stress and anxiety for a reason. It helps regulate the fight or flight response and supports the shift into "rest and digest" mode. A lot of people are low on it without realizing, especially if they are under chronic stress.
                         </p>
                         <p>
-                            I&#39;m not saying magnesium is some magic cure. But for a lot of people, taking it consistently helps take the edge off that constant buzzing feeling. If you&#39;re going to try it, look for something that includes multiple forms - your body absorbs different types in different ways.
+                            I am not saying magnesium is some magic cure. But for a lot of people, taking it consistently helps take the edge off that constant buzzing feeling. If you are going to try it, look for something that includes multiple forms, your body absorbs different types in different ways.
                         </p>
 
                         <ImageSuggestion description="A high-end editorial shot of a person using a fidget ring or therapy putty, focused on the hands with a shallow depth of field, natural light, premium textures." />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/brewing_article1a"
+                                alt="Fidget ring use"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>
                             Beyond that, some people find that supporting their nerve health directly makes a difference. The better the communication between your brain and body, the less likely your system is to get stuck in panic mode. Products like <a href="https://nervovive.com/video.php?affiliate=clickcham-" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">NervoVive</a> are designed specifically to support those pathways.
@@ -157,15 +165,15 @@ export default function ArticlePage() {
                             Deep pressure tells your nervous system you&#39;re safe. It&#39;s why being hugged feels so calming. It&#39;s why babies stop crying when you swaddle them.
                         </p>
                         <p>
-                            A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> does the same thing. The gentle, even pressure activates your parasympathetic nervous system - the part that tells your body to relax. This isn&#39;t just psychological. It&#39;s a physical response your body has to deep touch.
+                            A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> does the same thing. The gentle, even pressure activates your parasympathetic nervous system, the part that tells your body to relax. This is not just psychological. It is a physical response your body has to deep touch.
                         </p>
                         <p>
-                            You can use it while you&#39;re reading, watching TV, or just sitting on the couch trying to decompress. Some people keep one at their desk and drape it over their lap when anxiety spikes during the workday.
+                            You can use it while you are reading, watching TV, or just sitting on the couch trying to decompress. Some people keep one at their desk and drape it over their lap when anxiety spikes during the workday.
                         </p>
 
                         <h3 className="font-display text-3xl font-bold mt-16 mb-6">Let Your Hands Do Something</h3>
                         <p>
-                            When you&#39;re anxious, your hands want to move. You&#39;ve probably noticed - picking at your nails, scrolling your phone over and over, tapping your fingers.
+                            When you are anxious, your hands want to move. You have probably noticed, picking at your nails, scrolling your phone over and over, tapping your fingers.
                         </p>
                         <p>Instead of fighting that urge, give it somewhere productive to go.</p>
                         <p>
@@ -184,16 +192,24 @@ export default function ArticlePage() {
                             Fixing your gut health can actually help calm your nervous system. When your gut is working properly, it sends "we&#39;re safe" signals up to your brain. When it&#39;s not, it contributes to that constant feeling of unease.
                         </p>
                         <p>
-                            That&#39;s where something like Gut Go or Gut Vita comes in. They&#39;re designed to restore healthy gut function, which supports better communication between your gut and your brain. <span className="text-primary italic">[LINK TO GUT GO]</span> <span className="text-primary italic">[LINK TO GUT VITA]</span>
+                            That is where something like Gut Go or Gut Vita comes in. They are designed to restore healthy gut function, which supports better communication between your gut and your brain. <span className="text-primary italic">[LINK TO GUT GO]</span> <span className="text-primary italic">[LINK TO GUT VITA]</span>
                         </p>
 
                         <h3 className="font-display text-3xl font-bold mt-16 mb-6">Try Cold (Yes, Really)</h3>
                         <p>This one sounds weird, but it works.</p>
                         <p>
-                            Cold exposure - specifically on your neck or face - can activate your vagus nerve. That&#39;s the main line of communication between your brain and body. When you stimulate it, it sends a signal to your nervous system: "Okay, we can calm down now."
+                            Cold exposure, specifically on your neck or face, can activate your vagus nerve. That is the main line of communication between your brain and body. When you stimulate it, it sends a signal to your nervous system: "Okay, we can calm down now."
                         </p>
 
                         <ImageSuggestion description="A cinematic close-up of a premium stainless steel ice roller or a person splashing cold water, capturing the water droplets in a high-speed, crisp manner, refreshing and clean aesthetic." />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/brewing_article1b"
+                                alt="Ice roller use"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>
                             An <a href="https://amzn.to/4qunLzs" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">ice roller</a> works really well for this. You run it along the sides of your neck for 30 to 60 seconds when you feel anxiety creeping in. The cold interrupts the stress response.

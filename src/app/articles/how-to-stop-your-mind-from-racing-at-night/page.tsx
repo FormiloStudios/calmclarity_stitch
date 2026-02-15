@@ -62,7 +62,7 @@ export default function ArticlePage() {
                         <p>That thing you need to do tomorrow? Let&#39;s run through seventeen different scenarios of how it could go wrong.</p>
                         <p>That random embarrassing moment from 2014? Perfect time to revisit that.</p>
                         <p>You lie there, frustrated, because your body is tired. You can feel the exhaustion. But your mind just won&#39;t shut off.</p>
-                        <p>Here&#39;s what&#39;s actually going on - and more importantly, how to fix it.</p>
+                        <p>Here is what is actually going on and more importantly, how to fix it.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Why Your Brain Won&#39;t Shut Off at Night</h2>
                         <p>Your racing thoughts at night aren&#39;t random. They&#39;re a sign that your nervous system hasn&#39;t downshifted.</p>
@@ -72,10 +72,10 @@ export default function ArticlePage() {
 
                         <p>A few things cause this:</p>
                         <ul className="list-disc pl-6 space-y-4 marker:text-primary">
-                            <li><strong>Your stress hormones are still elevated.</strong> Specifically cortisol. It&#39;s supposed to drop at night, but chronic stress keeps it high. So even though you&#39;re lying down, your body thinks it&#39;s still go-time.</li>
-                            <li><strong>You never gave your nervous system a proper wind-down.</strong> You go straight from working, scrolling, answering emails, watching TV - all stimulating activities - to bed. Your brain doesn&#39;t get the signal that it&#39;s time to power down.</li>
-                            <li><strong>Your gut is sending stress signals.</strong> If your digestion is off, your vagus nerve (the connection between your gut and brain) keeps sending "something&#39;s wrong" messages to your brain. Even if you&#39;re not consciously aware of it, your brain stays on alert.</li>
-                            <li><strong>You&#39;re overstimulated from screens.</strong> Blue light from your phone and laptop tells your brain it&#39;s still daytime. Your circadian rhythm gets confused, melatonin production drops, and your brain stays wired.</li>
+                            <li><strong>Your stress hormones are still elevated.</strong> Specifically cortisol. It is supposed to drop at night, but chronic stress keeps it high. So even though you are lying down, your body thinks it is still go-time.</li>
+                            <li><strong>You never gave your nervous system a proper wind-down.</strong> You go straight from working, scrolling, answering emails, watching TV, all stimulating activities, to bed. Your brain does not get the signal that it is time to power down.</li>
+                            <li><strong>Your gut is sending stress signals.</strong> If your digestion is off, your vagus nerve (the connection between your gut and brain) keeps sending "something is wrong" messages to your brain. Even if you are not consciously aware of it, your brain stays on alert.</li>
+                            <li><strong>You are overstimulated from screens.</strong> Blue light from your phone and laptop tells your brain it is still daytime. Your circadian rhythm gets confused, melatonin production drops, and your brain stays wired.</li>
                         </ul>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What It Feels Like</h2>
@@ -102,23 +102,31 @@ export default function ArticlePage() {
                         <p>If you can&#39;t give up screens completely, at least get blue light blocking glasses and wear them starting around 7 or 8 PM. They filter out the wavelengths that mess with your melatonin. <span className="text-primary italic">[LINK TO BLUE LIGHT GLASSES]</span></p>
 
                         <ImageSuggestion description="A high-end editorial shot of amber-tinted blue-light blocking glasses resting on a walnut nightstand next to a linen-bound book, soft warm lamp lighting, cinematic depth of field." />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/brewing_article2a"
+                                alt="Blue light blocking glasses"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Support Your Body&#39;s Natural Sleep Chemistry</h3>
                         <p>Your body has its own systems for winding down at night. But chronic stress and poor sleep habits throw them off.</p>
                         <p><a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium</a> plays a huge role in this. It helps regulate your stress response and supports the shift from "alert mode" to "rest mode." A lot of people are deficient without realizing it, especially if they&#39;re under constant stress.</p>
-                        <p>Taking magnesium about an hour before bed can help your nervous system actually downshift. Not in a sedative way - it&#39;s not going to knock you out. But it helps your body do what it&#39;s supposed to do naturally.</p>
-                        <p>If racing thoughts are specifically your issue - like, your body is calm but your mind just won&#39;t stop - you might want to try something designed for nighttime overthinking. There are formulas like <span className="text-primary italic">[LINK TO 4GREATSLEEP]</span> or <span className="text-primary italic">[LINK TO YU SLEEP]</span> that target that specific problem. They&#39;re built to quiet the mental chatter without making you groggy the next day.</p>
+                        <p>Taking magnesium about an hour before bed can help your nervous system actually downshift. Not in a sedative way, it is not going to knock you out. But it helps your body do what it is supposed to do naturally.</p>
+                        <p>If racing thoughts are specifically your issue, like, your body is calm but your mind just will not stop, you might want to try something designed for nighttime overthinking. There are formulas like <span className="text-primary italic">[LINK TO 4GREATSLEEP]</span> or <span className="text-primary italic">[LINK TO YU SLEEP]</span> that target that specific problem. They are built to quiet the mental chatter without making you groggy the next day.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Give Your Body a Physical Cue That It&#39;s Bedtime</h3>
                         <p>Your nervous system responds to physical signals, not just thoughts.</p>
-                        <p>One of the most effective is deep pressure. A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> activates your parasympathetic nervous system - the part responsible for "rest and digest." The gentle pressure tells your body: We&#39;re safe. We can relax now.</p>
-                        <p>Use it while you&#39;re winding down - reading, watching something calm, just lying there trying to settle. The weight itself becomes a cue that it&#39;s time to power down.</p>
-                        <p>Some people also like a weighted sleep mask. It adds that same gentle pressure but specifically to your face and eyes, which can help signal your brain that it&#39;s sleep time. Plus, it blocks out any light. <span className="text-primary italic">[LINK TO WEIGHTED SLEEP MASK]</span></p>
+                        <p>One of the most effective is deep pressure. A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> activates your parasympathetic nervous system, the part responsible for "rest and digest." The gentle pressure tells your body: We are safe. We can relax now.</p>
+                        <p>Use it while you are winding down, reading, watching something calm, just lying there trying to settle. The weight itself becomes a cue that it is time to power down.</p>
+                        <p>Some people also like a weighted sleep mask. It adds that same gentle pressure but specifically to your face and eyes, which can help signal your brain that it is sleep time. Plus, it blocks out any light. <span className="text-primary italic">[LINK TO WEIGHTED SLEEP MASK]</span></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Create Actual Silence (Or At Least Consistent Sound)</h3>
-                        <p>If your environment is too quiet, every little noise - a car outside, your partner shifting in bed, the house settling - can jolt your brain back into alert mode.</p>
-                        <p>A white noise machine solves this. It creates a consistent sound that masks those random noises so your brain doesn&#39;t have to stay on guard. <span className="text-primary italic">[LINK TO WHITE NOISE MACHINE]</span></p>
-                        <p>It&#39;s not about drowning out sound. It&#39;s about giving your brain permission to stop listening for threats.</p>
+                        <p>If your environment is too quiet, every little noise, a car outside, your partner shifting in bed, the house settling, can jolt your brain back into alert mode.</p>
+                        <p>A white noise machine solves this. It creates a consistent sound that masks those random noises so your brain does not have to stay on guard. <span className="text-primary italic">[LINK TO WHITE NOISE MACHINE]</span></p>
+                        <p>It is not about drowning out sound. It is about giving your brain permission to stop listening for threats.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Address the Gut-Brain Loop</h3>
                         <p>If you&#39;ve noticed that your racing thoughts come with digestive weirdness - bloating, discomfort, that unsettled feeling in your stomach - your gut might be contributing to the problem.</p>
@@ -130,6 +138,14 @@ export default function ArticlePage() {
                         <p>Your brain registers light, even through your eyelids, and it interferes with melatonin production. Blackout curtains block all of it. Your room becomes actually dark, which gives your brain a clear signal: it&#39;s nighttime. Sleep is supposed to happen now. <span className="text-primary italic">[LINK TO BLACKOUT CURTAINS]</span></p>
 
                         <ImageSuggestion description="A cinematic close-up of heavy, charcoal-colored blackout curtains meeting in the center, a single sliver of soft moonlight peaking through the seam, moody lighting, dark aesthetic." />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/brewing_article2b"
+                                alt="Blackout curtains"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Build a Wind-Down Routine (And Actually Stick to It)</h2>
                         <p>Your nervous system responds to patterns. When you do the same calming things in the same order every night, your brain starts to recognize: Oh, this is the sleep routine. Time to power down.</p>
@@ -143,12 +159,12 @@ export default function ArticlePage() {
                         </ul>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What If You Wake Up at 3 AM With Your Mind Racing?</h2>
-                        <p>This is a specific type of racing thoughts - the middle-of-the-night wake-up where your brain immediately goes into overdrive.</p>
+                        <p>This is a specific type of racing thoughts, the middle of the night wake up where your brain immediately goes into overdrive.</p>
                         <p>This is often a cortisol spike. Your stress hormone is supposed to stay low through the night and rise in the morning. But chronic stress throws off that rhythm, so you get a cortisol surge at 3 or 4 AM instead.</p>
-                        <p>If this is you, magnesium taken before bed can help. Some people also find that <span className="text-primary italic">[LINK TO YU SLEEP]</span> works specifically for this - it&#39;s designed to prevent those brutal middle-of-the-night wake-ups.</p>
+                        <p>If this is you, magnesium taken before bed can help. Some people also find that <span className="text-primary italic">[LINK TO YU SLEEP]</span> works specifically for this, it is designed to prevent those brutal middle of the night wake ups.</p>
                         <p>When you do wake up, resist the urge to grab your phone. The blue light will make it worse. Instead, try:</p>
                         <ul className="list-disc pl-6 space-y-2 marker:text-slate-400">
-                            <li>Slow, deep breathing (in for 4, out for 6)</li>
+                            <li>Slow, deep breathing (in for 4 and out for 6)</li>
                             <li>Progressive muscle relaxation (tense and release each muscle group)</li>
                             <li>A body scan meditation (mentally checking in with each part of your body)</li>
                         </ul>
