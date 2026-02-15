@@ -194,6 +194,26 @@ export default function ArticlePage() {
                         <p>
                             Cold exposure - specifically on your neck or face - can activate your vagus nerve. That&#39;s the main line of communication between your brain and body. When you stimulate it, it sends a signal to your nervous system: "Okay, we can calm down now."
                         </p>
+
+                        <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
+                            <div className="flex flex-col md:flex-row gap-8 items-center">
+                                <div className="md:w-1/3 relative aspect-square w-full rounded-xl overflow-hidden shadow-lg">
+                                    <Image
+                                        src="/val_article1a.jpg"
+                                        alt="Cold reset technique"
+                                        fill
+                                        className="object-cover"
+                                    />
+                                </div>
+                                <div className="md:w-2/3">
+                                    <h4 className="font-display text-xl font-bold mb-3 text-primary uppercase tracking-wider">The Cold Reset</h4>
+                                    <p className="text-sm leading-relaxed mb-0">
+                                        Cold exposure on the neck activates the vagus nerve, sending an immediate signal to your brain that it's time to downshift from fight-or-flight into rest-and-digest mode.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
                         <p>
                             An <a href="https://amzn.to/4qunLzs" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">ice roller</a> works really well for this. You run it along the sides of your neck for 30 to 60 seconds when you feel anxiety creeping in. The cold interrupts the stress response.
                         </p>
