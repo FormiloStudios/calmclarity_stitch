@@ -41,7 +41,7 @@ const articles = [
   {
     image: "/article2.jpg",
     category: "Sleep Science",
-    readTime: "",
+    readTime: "7 Min Read",
     title: "How to Stop Your Mind From Racing at Night (The Nervous System Fix)",
     description: "If you can't fall asleep even when you're exhausted, your body hasn't switched off yet, here's how to reset it.",
     href: "/articles/how-to-stop-your-mind-from-racing-at-night"

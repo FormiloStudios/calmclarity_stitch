@@ -6,6 +6,18 @@ import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
+function ImageSuggestion({ description }: { description: string }) {
+    return (
+        <div className="my-16 border-2 border-dashed border-slate-200 dark:border-white/10 rounded-3xl p-12 text-center bg-slate-50/50 dark:bg-white/2 transition-colors hover:bg-slate-50 dark:hover:bg-white/5">
+            <span className="material-symbols-outlined text-4xl text-slate-300 dark:text-slate-700 mb-4">image_search</span>
+            <p className="text-slate-500 dark:text-slate-400 font-display italic text-lg max-w-md mx-auto">
+                <span className="block font-bold non-italic uppercase tracking-widest text-[10px] mb-2 text-slate-400 dark:text-slate-500">Image Suggestion</span>
+                {description}
+            </p>
+        </div>
+    );
+}
+
 export default function ArticlePage() {
     return (
         <>
@@ -133,26 +145,12 @@ export default function ArticlePage() {
                         <p>
                             I&#39;m not saying magnesium is some magic cure. But for a lot of people, taking it consistently helps take the edge off that constant buzzing feeling. If you&#39;re going to try it, look for something that includes multiple forms - your body absorbs different types in different ways.
                         </p>
+
+                        <ImageSuggestion description="A high-end editorial shot of a person using a fidget ring or therapy putty, focused on the hands with a shallow depth of field, natural light, premium textures." />
+
                         <p>
                             Beyond that, some people find that supporting their nerve health directly makes a difference. The better the communication between your brain and body, the less likely your system is to get stuck in panic mode. Products like <a href="https://nervovive.com/video.php?affiliate=clickcham-" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">NervoVive</a> are designed specifically to support those pathways.
                         </p>
-
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-16">
-                            <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg -rotate-1">
-                                <Image
-                                    src="/val_article3.jpg"
-                                    alt="Physical tools for calming"
-                                    fill
-                                    className="object-cover"
-                                />
-                            </div>
-                            <div className="flex flex-col justify-center">
-                                <h3 className="font-display text-2xl font-bold mb-4">Physical Proof</h3>
-                                <p className="text-sm leading-relaxed text-muted font-light">
-                                    You can&#39;t always logic your way out of anxiety. Sometimes you have to give your body physical proof that it's safe before your mind can follow suit.
-                                </p>
-                            </div>
-                        </div>
 
                         <h3 className="font-display text-3xl font-bold mt-16 mb-6">Give Your Body the Pressure It&#39;s Looking For</h3>
                         <p>
@@ -195,24 +193,7 @@ export default function ArticlePage() {
                             Cold exposure - specifically on your neck or face - can activate your vagus nerve. That&#39;s the main line of communication between your brain and body. When you stimulate it, it sends a signal to your nervous system: "Okay, we can calm down now."
                         </p>
 
-                        <div className="bg-slate-100 dark:bg-white/5 border border-slate-200 dark:border-white/10 p-8 rounded-3xl my-16">
-                            <div className="flex flex-col md:flex-row gap-8 items-center">
-                                <div className="md:w-1/3 relative aspect-square w-full rounded-xl overflow-hidden shadow-lg">
-                                    <Image
-                                        src="/val_article1a.jpg"
-                                        alt="Cold reset technique"
-                                        fill
-                                        className="object-cover"
-                                    />
-                                </div>
-                                <div className="md:w-2/3">
-                                    <h4 className="font-display text-xl font-bold mb-3 text-primary uppercase tracking-wider">The Cold Reset</h4>
-                                    <p className="text-sm leading-relaxed mb-0">
-                                        Cold exposure on the neck activates the vagus nerve, sending an immediate signal to your brain that it's time to downshift from fight-or-flight into rest-and-digest mode.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                        <ImageSuggestion description="A cinematic close-up of a premium stainless steel ice roller or a person splashing cold water, capturing the water droplets in a high-speed, crisp manner, refreshing and clean aesthetic." />
 
                         <p>
                             An <a href="https://amzn.to/4qunLzs" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">ice roller</a> works really well for this. You run it along the sides of your neck for 30 to 60 seconds when you feel anxiety creeping in. The cold interrupts the stress response.
