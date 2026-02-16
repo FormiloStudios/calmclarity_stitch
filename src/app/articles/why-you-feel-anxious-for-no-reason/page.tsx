@@ -192,7 +192,7 @@ export default function ArticlePage() {
                             Fixing your gut health can actually help calm your nervous system. When your gut is working properly, it sends "we&#39;re safe" signals up to your brain. When it&#39;s not, it contributes to that constant feeling of unease.
                         </p>
                         <p>
-                            That is where something like Gut Go or Gut Vita comes in. They are designed to restore healthy gut function, which supports better communication between your gut and your brain. <span className="text-primary italic">[LINK TO GUT GO]</span> <span className="text-primary italic">[LINK TO GUT VITA]</span>
+                            That is where something like <a href="https://dcfc75ycggm8d6170qkcct6m60.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Gut Go</a> or <a href="https://af7d86x8jch3icc49m-a3x0ubk.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Gut Vita</a> comes in. They are designed to restore healthy gut function, which supports better communication between your gut and your brain.
                         </p>
 
                         <h3 className="font-display text-3xl font-bold mt-16 mb-6">Try Cold (Yes, Really)</h3>
@@ -223,8 +223,9 @@ export default function ArticlePage() {
                             If your anxiety spikes specifically around other people - meeting someone new, making small talk, feeling awkward in conversations - that&#39;s your nervous system treating social evaluation as a threat.
                         </p>
                         <p>
-                            But your body hasn&#39;t updated its threat assessment for modern life. If this sounds like you, there are methods designed to retrain how your nervous system responds to social situations. <span className="text-primary italic">[LINK TO THE COMPLETE SOCIAL CONFIDENCE SYSTEM]</span>
+                            But your body hasn&#39;t updated its threat assessment for modern life. If this sounds like you, there are methods designed to retrain how your nervous system responds to social situations. <a href="http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick#aff=Select_partner" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">The Complete Social Confidence System</a>
                         </p>
+
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">The Point Isn&#39;t to Never Feel Anxious</h2>
                         <p>

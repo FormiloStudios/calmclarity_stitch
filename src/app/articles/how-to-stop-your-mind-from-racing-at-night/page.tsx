@@ -99,7 +99,7 @@ export default function ArticlePage() {
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Cut Off the Blue Light (Actually Do It)</h3>
                         <p>Everyone says this, but most people don&#39;t actually do it.</p>
                         <p>Blue light from screens suppresses melatonin production. Melatonin is what tells your brain it&#39;s time to sleep. When you&#39;re scrolling your phone in bed, you&#39;re actively working against your own biology.</p>
-                        <p>If you can&#39;t give up screens completely, at least get blue light blocking glasses and wear them starting around 7 or 8 PM. They filter out the wavelengths that mess with your melatonin. <span className="text-primary italic">[LINK TO BLUE LIGHT GLASSES]</span></p>
+                        <p>If you can&#39;t give up screens completely, at least get <a href="https://amzn.to/4048DOk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">blue light blocking glasses</a> and wear them starting around 7 or 8 PM. They filter out the wavelengths that mess with your melatonin.</p>
 
                         <ImageSuggestion description="A high-end editorial shot of amber-tinted blue-light blocking glasses resting on a walnut nightstand next to a linen-bound book, soft warm lamp lighting, cinematic depth of field." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
@@ -115,17 +115,17 @@ export default function ArticlePage() {
                         <p>Your body has its own systems for winding down at night. But chronic stress and poor sleep habits throw them off.</p>
                         <p><a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium</a> plays a huge role in this. It helps regulate your stress response and supports the shift from "alert mode" to "rest mode." A lot of people are deficient without realizing it, especially if they&#39;re under constant stress.</p>
                         <p>Taking magnesium about an hour before bed can help your nervous system actually downshift. Not in a sedative way, it is not going to knock you out. But it helps your body do what it is supposed to do naturally.</p>
-                        <p>If racing thoughts are specifically your issue, like, your body is calm but your mind just will not stop, you might want to try something designed for nighttime overthinking. There are formulas like <span className="text-primary italic">[LINK TO 4GREATSLEEP]</span> or <span className="text-primary italic">[LINK TO YU SLEEP]</span> that target that specific problem. They are built to quiet the mental chatter without making you groggy the next day.</p>
+                        <p>If racing thoughts are specifically your issue, like, your body is calm but your mind just will not stop, you might want to try something designed for nighttime overthinking. There are formulas like <a href="https://4vitahealth.com/sp/4greatsleep-dg/#aff=Select_partner" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">4GreatSleep</a> that target that specific problem. They are built to quiet the mental chatter without making you groggy the next day.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Give Your Body a Physical Cue That It&#39;s Bedtime</h3>
                         <p>Your nervous system responds to physical signals, not just thoughts.</p>
                         <p>One of the most effective is deep pressure. A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> activates your parasympathetic nervous system, the part responsible for "rest and digest." The gentle pressure tells your body: We are safe. We can relax now.</p>
                         <p>Use it while you are winding down, reading, watching something calm, just lying there trying to settle. The weight itself becomes a cue that it is time to power down.</p>
-                        <p>Some people also like a weighted sleep mask. It adds that same gentle pressure but specifically to your face and eyes, which can help signal your brain that it is sleep time. Plus, it blocks out any light. <span className="text-primary italic">[LINK TO WEIGHTED SLEEP MASK]</span></p>
+                        <p>Some people also like a <a href="https://amzn.to/4aoFGli" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted sleep mask</a>. It adds that same gentle pressure but specifically to your face and eyes, which can help signal your brain that it is sleep time. Plus, it blocks out any light.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Create Actual Silence (Or At Least Consistent Sound)</h3>
                         <p>If your environment is too quiet, every little noise, a car outside, your partner shifting in bed, the house settling, can jolt your brain back into alert mode.</p>
-                        <p>A white noise machine solves this. It creates a consistent sound that masks those random noises so your brain does not have to stay on guard. <span className="text-primary italic">[LINK TO WHITE NOISE MACHINE]</span></p>
+                        <p>A <a href="https://amzn.to/4kEabIw" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">white noise machine</a> solves this. It creates a consistent sound that masks those random noises so your brain does not have to stay on guard.</p>
                         <p>It is not about drowning out sound. It is about giving your brain permission to stop listening for threats.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Address the Gut-Brain Loop</h3>
@@ -135,7 +135,7 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Make Your Sleep Environment Actually Dark</h3>
                         <p>You&#39;d be surprised how much light sneaks into your room - streetlights, electronics, even the glow from your alarm clock.</p>
-                        <p>Your brain registers light, even through your eyelids, and it interferes with melatonin production. Blackout curtains block all of it. Your room becomes actually dark, which gives your brain a clear signal: it&#39;s nighttime. Sleep is supposed to happen now. <span className="text-primary italic">[LINK TO BLACKOUT CURTAINS]</span></p>
+                        <p>Your brain registers light, even through your eyelids, and it interferes with melatonin production. <a href="https://amzn.to/4tGRQ1M" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Blackout curtains</a> block all of it. Your room becomes actually dark, which gives your brain a clear signal: it&#39;s nighttime. Sleep is supposed to happen now.</p>
 
                         <ImageSuggestion description="A cinematic close-up of heavy, charcoal-colored blackout curtains meeting in the center, a single sliver of soft moonlight peaking through the seam, moody lighting, dark aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
@@ -161,7 +161,7 @@ export default function ArticlePage() {
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What If You Wake Up at 3 AM With Your Mind Racing?</h2>
                         <p>This is a specific type of racing thoughts, the middle of the night wake up where your brain immediately goes into overdrive.</p>
                         <p>This is often a cortisol spike. Your stress hormone is supposed to stay low through the night and rise in the morning. But chronic stress throws off that rhythm, so you get a cortisol surge at 3 or 4 AM instead.</p>
-                        <p>If this is you, magnesium taken before bed can help. Some people also find that <span className="text-primary italic">[LINK TO YU SLEEP]</span> works specifically for this, it is designed to prevent those brutal middle of the night wake ups.</p>
+                        <p>If this is you, magnesium taken before bed can help.</p>
                         <p>When you do wake up, resist the urge to grab your phone. The blue light will make it worse. Instead, try:</p>
                         <ul className="list-disc pl-6 space-y-2 marker:text-slate-400">
                             <li>Slow, deep breathing (in for 4 and out for 6)</li>
