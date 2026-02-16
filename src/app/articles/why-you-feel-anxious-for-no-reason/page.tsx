@@ -146,7 +146,6 @@ export default function ArticlePage() {
                             I am not saying magnesium is some magic cure. But for a lot of people, taking it consistently helps take the edge off that constant buzzing feeling. If you are going to try it, look for something that includes multiple forms, your body absorbs different types in different ways.
                         </p>
 
-                        <ImageSuggestion description="A high-end editorial shot of a person using a fidget ring or therapy putty, focused on the hands with a shallow depth of field, natural light, premium textures." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
                                 src="/brewing_article1a.jpg"
@@ -201,7 +200,6 @@ export default function ArticlePage() {
                             Cold exposure, specifically on your neck or face, can activate your vagus nerve. That is the main line of communication between your brain and body. When you stimulate it, it sends a signal to your nervous system: "Okay, we can calm down now."
                         </p>
 
-                        <ImageSuggestion description="A cinematic close-up of a premium stainless steel ice roller or a person splashing cold water, capturing the water droplets in a high-speed, crisp manner, refreshing and clean aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
                                 src="/brewing_article1b.jpg"

@@ -86,7 +86,6 @@ export default function ArticlePage() {
                         <p>The cold creates a physical jolt that interrupts the stress response and activates your parasympathetic nervous system (the "calm down" system).</p>
                         <p>You will probably feel your breathing slow down almost immediately.</p>
 
-                        <ImageSuggestion description="A high-end editorial shot of someone splashing cold water on their face, or using the ice roller on their neck with soft focused light and a premium skin-care aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
                                 src="/brewing_article3a.jpg"
@@ -123,7 +122,6 @@ export default function ArticlePage() {
                         <p>Some people also find that squeezing <a href="https://amzn.to/4chc7Ey" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">therapy putty</a> or a stress ball helps. It gives your hands something to do and discharges some of that anxious energy.</p>
                         <p>The point is to bring your attention into your body, into the present moment, into something physical.</p>
 
-                        <ImageSuggestion description="A peaceful, minimalist shot of a person practicing grounding techniques, perhaps bare feet on a natural wood floor or hands squeezing therapy putty, with soft shadows and cinematic depth." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
                                 src="/brewing_article3b.jpg"

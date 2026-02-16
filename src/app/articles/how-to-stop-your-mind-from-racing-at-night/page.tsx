@@ -101,7 +101,6 @@ export default function ArticlePage() {
                         <p>Blue light from screens suppresses melatonin production. Melatonin is what tells your brain it&#39;s time to sleep. When you&#39;re scrolling your phone in bed, you&#39;re actively working against your own biology.</p>
                         <p>If you can&#39;t give up screens completely, at least get <a href="https://amzn.to/4048DOk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">blue light blocking glasses</a> and wear them starting around 7 or 8 PM. They filter out the wavelengths that mess with your melatonin.</p>
 
-                        <ImageSuggestion description="A high-end editorial shot of amber-tinted blue-light blocking glasses resting on a walnut nightstand next to a linen-bound book, soft warm lamp lighting, cinematic depth of field." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
                                 src="/brewing_article2a.jpg"
@@ -137,7 +136,6 @@ export default function ArticlePage() {
                         <p>You&#39;d be surprised how much light sneaks into your room - streetlights, electronics, even the glow from your alarm clock.</p>
                         <p>Your brain registers light, even through your eyelids, and it interferes with melatonin production. <a href="https://amzn.to/4tGRQ1M" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Blackout curtains</a> block all of it. Your room becomes actually dark, which gives your brain a clear signal: it&#39;s nighttime. Sleep is supposed to happen now.</p>
 
-                        <ImageSuggestion description="A cinematic close-up of heavy, charcoal-colored blackout curtains meeting in the center, a single sliver of soft moonlight peaking through the seam, moody lighting, dark aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
                                 src="/brewing_article2b.jpg"
