@@ -104,7 +104,7 @@ export default function ArticlePage() {
                         <ImageSuggestion description="A high-end editorial shot of amber-tinted blue-light blocking glasses resting on a walnut nightstand next to a linen-bound book, soft warm lamp lighting, cinematic depth of field." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/brewing_article2a"
+                                src="/brewing_article2a.jpg"
                                 alt="Blue light blocking glasses"
                                 fill
                                 className="object-cover"
@@ -140,7 +140,7 @@ export default function ArticlePage() {
                         <ImageSuggestion description="A cinematic close-up of heavy, charcoal-colored blackout curtains meeting in the center, a single sliver of soft moonlight peaking through the seam, moody lighting, dark aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/brewing_article2b"
+                                src="/brewing_article2b.jpg"
                                 alt="Blackout curtains"
                                 fill
                                 className="object-cover"

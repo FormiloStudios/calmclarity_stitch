@@ -89,7 +89,7 @@ export default function ArticlePage() {
                         <ImageSuggestion description="A high-end editorial shot of someone splashing cold water on their face, or using the ice roller on their neck with soft focused light and a premium skin-care aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/brewing_3a"
+                                src="/brewing_article3a.jpg"
                                 alt="Cold exposure technique"
                                 fill
                                 className="object-cover"
@@ -126,7 +126,7 @@ export default function ArticlePage() {
                         <ImageSuggestion description="A peaceful, minimalist shot of a person practicing grounding techniques, perhaps bare feet on a natural wood floor or hands squeezing therapy putty, with soft shadows and cinematic depth." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/brewing_article3b"
+                                src="/brewing_article3b.jpg"
                                 alt="Grounding technique"
                                 fill
                                 className="object-cover"

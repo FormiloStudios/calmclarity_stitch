@@ -149,7 +149,7 @@ export default function ArticlePage() {
                         <ImageSuggestion description="A high-end editorial shot of a person using a fidget ring or therapy putty, focused on the hands with a shallow depth of field, natural light, premium textures." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/brewing_article1a"
+                                src="/brewing_article1a.jpg"
                                 alt="Fidget ring use"
                                 fill
                                 className="object-cover"
@@ -204,7 +204,7 @@ export default function ArticlePage() {
                         <ImageSuggestion description="A cinematic close-up of a premium stainless steel ice roller or a person splashing cold water, capturing the water droplets in a high-speed, crisp manner, refreshing and clean aesthetic." />
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/brewing_article1b"
+                                src="/brewing_article1b.jpg"
                                 alt="Ice roller use"
                                 fill
                                 className="object-cover"
