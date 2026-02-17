@@ -33,7 +33,7 @@ export default function ArticlePage() {
                             The 5 Minute Vagus Nerve Reset (When You Need to Calm Down Fast)
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
-                            <span>5 Min Read</span>
+                            <span>4 Min Read</span>
                             <span className="w-1 h-1 bg-current rounded-full"></span>
                             <span>February 2026</span>
                         </div>
@@ -118,7 +118,7 @@ export default function ArticlePage() {
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Step 3: Physical Grounding (1 to 2 minutes)</h3>
                         <p>Your nervous system needs a physical cue that you are safe and grounded.</p>
                         <p>Press your feet firmly into the floor. Feel the weight of your body in the chair. Notice the surface beneath you.</p>
-                        <p>Or, if you have an <a href="https://amzn.to/4ahYk3x" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">acupressure mat</a>, lie on it for a minute or two. The intense sensation forces your brain to focus on the present moment instead of the anxiety spiral.</p>
+                        <p>Or, if you have an <a href="https://amzn.to/4kqM8MU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">acupressure mat</a>, lie on it for a minute or two. The intense sensation forces your brain to focus on the present moment instead of the anxiety spiral.</p>
                         <p>Some people also find that squeezing <a href="https://amzn.to/4chc7Ey" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">therapy putty</a> or a stress ball helps. It gives your hands something to do and discharges some of that anxious energy.</p>
                         <p>The point is to bring your attention into your body, into the present moment, into something physical.</p>
 
