@@ -4,7 +4,7 @@ import Image from "next/image";
 interface ArticleCardProps {
     image: string;
     category: string;
-    readTime: string;
+    readTime?: string;
     title: string;
     description: string;
     href: string;
