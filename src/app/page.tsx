@@ -55,42 +55,42 @@ const articles = [
     href: "/articles/the-5-minute-vagus-nerve-reset"
   },
   {
-    image: "/ccfeb263a.jpg",
+    image: "/ccfeb263.1.jpg",
     category: "Neurology",
     title: "Why You Clench Your Jaw (And What It Means for Your Nervous System)",
     description: "That tight, sore jaw isn't just a bad habit, it's your nervous system holding tension it can't release.",
     href: "/articles/why-you-clench-your-jaw"
   },
   {
-    image: "/ccfeb263b.jpg",
+    image: "/ccfeb263.2.jpg",
     category: "Sleep Science",
     title: "Why You Wake Up at 3AM Every Night (And How to Stop It)",
     description: "That wide-awake-at-3AM feeling isn't random insomnia, it's a cortisol spike your body doesn't know how to stop.",
     href: "/articles/why-you-wake-up-at-3am-every-night"
   },
   {
-    image: "/ccfeb263c.jpg",
+    image: "/ccfeb263.3.jpg",
     category: "Neurology",
     title: "Why Meetings Make You Anxious (Even When You're Prepared)",
     description: "Being prepared doesn't stop the nerves, because meeting anxiety isn't about knowledge, it's about your nervous system treating performance like a threat.",
     href: "/articles/why-meetings-make-you-anxious"
   },
   {
-    image: "/ccfeb264a.jpg",
+    image: "/ccfeb263.4.jpg",
     category: "Lifestyle",
     title: "Why You're Exhausted After Hanging Out With Friends (Even If You Had Fun)",
     description: "Feeling drained after socializing isn't antisocial, it's your nervous system recovering from overstimulation.",
     href: "/articles/why-you-are-exhausted-after-hanging-out-with-friends"
   },
   {
-    image: "/ccfeb264b.jpg",
+    image: "/ccfeb263.5.jpg",
     category: "Vagus Nerve",
     title: "What the Vagus Nerve Actually Does (And Why You Should Care)",
     description: "You've heard about the vagus nerve, here's what it actually does in your body and why it holds the key to calming anxiety fast.",
     href: "/articles/what-the-vagus-nerve-actually-does"
   },
   {
-    image: "/ccfeb264c.jpg",
+    image: "/ccfeb263.6.jpg",
     category: "Neurology",
     title: "Why Your Stomach Gets Upset When You're Stressed (The Gut-Brain Connection)",
     description: "That nervous stomach isn't just in your head, your gut and brain are in constant conversation, and stress sends the whole system into chaos.",
