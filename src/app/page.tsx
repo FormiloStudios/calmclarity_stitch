@@ -73,6 +73,7 @@ const articles = [
   {
     image: "/ccfeb263.3.jpg",
     category: "Neurology",
+    readTime: "5 Min Read",
     title: "Why Meetings Make You Anxious (Even When You're Prepared)",
     description: "Being prepared doesn't stop the nerves, because meeting anxiety isn't about knowledge, it's about your nervous system treating performance like a threat.",
     href: "/articles/why-meetings-make-you-anxious"
