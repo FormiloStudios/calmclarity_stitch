@@ -64,6 +64,7 @@ const articles = [
   {
     image: "/ccfeb263.2.jpg",
     category: "Sleep Science",
+    readTime: "7 Min Read",
     title: "Why You Wake Up at 3AM Every Night (And How to Stop It)",
     description: "That wide-awake-at-3AM feeling isn't random insomnia, it's a cortisol spike your body doesn't know how to stop.",
     href: "/articles/why-you-wake-up-at-3am-every-night"
