@@ -57,6 +57,7 @@ const articles = [
   {
     image: "/ccfeb263.1.jpg",
     category: "Neurology",
+    readTime: "6 Min Read",
     title: "Why You Clench Your Jaw (And What It Means for Your Nervous System)",
     description: "That tight, sore jaw isn't just a bad habit, it's your nervous system holding tension it can't release.",
     href: "/articles/why-you-clench-your-jaw"
