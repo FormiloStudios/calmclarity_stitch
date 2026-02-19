@@ -6,17 +6,6 @@ import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
-function ImageSuggestion({ description, filename }: { description: string; filename: string }) {
-    return (
-        <div className="my-16 border-2 border-dashed border-slate-200 dark:border-white/10 rounded-3xl p-12 text-center bg-slate-50/50 dark:bg-white/2 transition-colors hover:bg-slate-50 dark:hover:bg-white/5 font-light">
-            <span className="material-symbols-outlined text-4xl text-slate-300 dark:text-slate-700 mb-4">image_search</span>
-            <p className="text-slate-500 dark:text-slate-400 font-display italic text-lg max-w-md mx-auto">
-                <span className="block font-bold non-italic uppercase tracking-widest text-[10px] mb-2 text-slate-400 dark:text-slate-500">Image Suggestion: {filename}</span>
-                {description}
-            </p>
-        </div>
-    );
-}
 
 export default function ArticlePage() {
     return (
@@ -73,10 +62,14 @@ export default function ArticlePage() {
                         <p>Chronic jaw clenching isn&#39;t just annoying. It creates real problems.</p>
                         <p>You start getting headaches - the kind that feel like a tight band around your head or pressure at your temples. That&#39;s muscle tension radiating out from your jaw.</p>
 
-                        <ImageSuggestion
-                            filename="ccfeb263.1a.jpg"
-                            description="An editorial, close-up shot focusing on the jawline and neck area, perhaps with a soft, warm light to show muscle detail and the concept of physical tension."
-                        />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/ccfeb263.1a.jpg"
+                                alt="Physical tension in jaw and neck"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>Your teeth might hurt or feel sensitive. Grinding wears down enamel and puts constant pressure on your teeth and gums. Your TMJ - the joint that connects your jaw to your skull - can get inflamed and painful. Some people can barely open their mouth fully because the joint is so tight.</p>
                         <p>Your neck and shoulders tense up too. Your jaw muscles connect to your neck. When your jaw is locked, everything else tightens in response. And your sleep suffers. Even if you&#39;re not consciously aware of it, grinding your teeth at night keeps your body from getting into deep, restorative sleep.</p>
@@ -99,10 +92,14 @@ export default function ArticlePage() {
                         <p>While you&#39;re working on calming your nervous system long-term, you also need to release the built-up tension right now.</p>
                         <p>A <a href="https://amzn.to/3CH375m" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">massage gun</a> can help. Use it on the muscles along your jawline and down into your neck and shoulders. Start on the lowest setting - your jaw muscles are sensitive, so you don&#39;t need a lot of pressure.</p>
 
-                        <ImageSuggestion
-                            filename="ccfeb263.1b.jpg"
-                            description="A lifestyle image showing a person using a massage gun or a warm compress on their neck/jaw area in a comfortable, home setting."
-                        />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/ccfeb263.1b.jpg"
+                                alt="Self-care routine for jaw tension"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>Heat also helps. A warm compress or <a href="https://amzn.to/3CGEJg0" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">heating pad</a> on your jaw relaxes the muscles and increases blood flow, which helps release tension.</p>
                         <p>Some people also find relief from acupressure. Lying on an <a href="https://amzn.to/4kqM8MU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">acupressure mat</a> for 10-15 minutes in the evening creates intense sensory input that can interrupt the tension cycle and force your body to reset.</p>

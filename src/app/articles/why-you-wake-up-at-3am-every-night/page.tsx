@@ -6,17 +6,6 @@ import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
-function ImageSuggestion({ description, filename }: { description: string; filename: string }) {
-    return (
-        <div className="my-16 border-2 border-dashed border-slate-200 dark:border-white/10 rounded-3xl p-12 text-center bg-slate-50/50 dark:bg-white/2 transition-colors hover:bg-slate-50 dark:hover:bg-white/5 font-light">
-            <span className="material-symbols-outlined text-4xl text-slate-300 dark:text-slate-700 mb-4">image_search</span>
-            <p className="text-slate-500 dark:text-slate-400 font-display italic text-lg max-w-md mx-auto">
-                <span className="block font-bold non-italic uppercase tracking-widest text-[10px] mb-2 text-slate-400 dark:text-slate-500">Image Suggestion: {filename}</span>
-                {description}
-            </p>
-        </div>
-    );
-}
 
 export default function ArticlePage() {
     return (
@@ -73,10 +62,14 @@ export default function ArticlePage() {
                         <p>Once this pattern starts, it tends to stick. Your body gets used to waking up at that time. It becomes a habit — not a conscious one, but a physiological one.</p>
                         <p>You start anticipating it. You go to bed worried you&#39;re going to wake up at 3AM, which creates anxiety, which keeps your cortisol elevated, which makes it more likely you&#39;ll wake up. It&#39;s a frustrating cycle.</p>
 
-                        <ImageSuggestion
-                            filename="ccfeb263.2a.jpg"
-                            description="A cinematic, moody shot of a bedroom at night with a digital clock showing 3:00, capturing the feeling of quiet frustration and isolation."
-                        />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/ccfeb263.2a.jpg"
+                                alt="Quiet bedroom at 3AM"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>And it doesn&#39;t help that once you&#39;re awake, your mind often kicks into overdrive. You start thinking about everything you need to do tomorrow. Or replaying conversations. Or worrying about the fact that you can&#39;t sleep. That mental spiral keeps you awake even longer.</p>
 
@@ -101,10 +94,14 @@ export default function ArticlePage() {
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Make Your Sleep Environment Actually Dark</h3>
                         <p>Even small amounts of light can disrupt your sleep. Your brain registers light through your eyelids, and it interferes with melatonin production.</p>
 
-                        <ImageSuggestion
-                            filename="ccfeb263.2b.jpg"
-                            description="A high-end, editorial shot of a serene, dark bedroom with deep shadows and soft textures, emphasizing the concept of a 'perfect sleep sanctuary'."
-                        />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/ccfeb263.2b.jpg"
+                                alt="Perfect sleep sanctuary"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>Check your bedroom. Is there light coming through the curtains? A glow from your alarm clock? Your phone charging on the nightstand?</p>
                         <p><a href="https://amzn.to/4tGRQ1M" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Blackout curtains</a> make a bigger difference than you&#39;d think. When your room is actually dark — not just dim, but dark — your brain gets a clear signal that it&#39;s nighttime and you&#39;re supposed to be asleep.</p>

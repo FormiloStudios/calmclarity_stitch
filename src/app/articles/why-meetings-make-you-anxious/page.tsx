@@ -6,17 +6,6 @@ import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
-function ImageSuggestion({ description, filename }: { description: string; filename: string }) {
-    return (
-        <div className="my-16 border-2 border-dashed border-slate-200 dark:border-white/10 rounded-3xl p-12 text-center bg-slate-50/50 dark:bg-white/2 transition-colors hover:bg-slate-50 dark:hover:bg-white/5 font-light">
-            <span className="material-symbols-outlined text-4xl text-slate-300 dark:text-slate-700 mb-4">image_search</span>
-            <p className="text-slate-500 dark:text-slate-400 font-display italic text-lg max-w-md mx-auto">
-                <span className="block font-bold non-italic uppercase tracking-widest text-[10px] mb-2 text-slate-400 dark:text-slate-500">Image Suggestion: {filename}</span>
-                {description}
-            </p>
-        </div>
-    );
-}
 
 export default function ArticlePage() {
     return (
@@ -68,10 +57,14 @@ export default function ArticlePage() {
                         <p>Even if it&#39;s just a casual team check-in, there&#39;s an element of performance. You need to sound competent, engaged, like you know what you&#39;re talking about.</p>
                         <p>Your nervous system picks up on that pressure and interprets it the same way it would interpret any threat: by activating fight-or-flight mode.</p>
 
-                        <ImageSuggestion
-                            filename="ccfeb263.3a.jpg"
-                            description="A POV shot from a laptop screen showing a grid of faces in a meeting, capturing the feeling of 'being watched' from the perspective of the presenter."
-                        />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/ccfeb263.3a.jpg"
+                                alt="POV of a virtual meeting"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>Your heart rate increases. Your breathing gets shallow. Blood flow redirects away from your extremities (which is why your hands might feel cold or shaky). Your brain goes into hyperalert mode, scanning for anything that could go wrong.</p>
                         <p>This isn&#39;t a character flaw. It&#39;s biology.</p>
@@ -99,10 +92,14 @@ export default function ArticlePage() {
                         <p>A <a href="https://amzn.to/4kogorP" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">fidget ring</a> helps with this. You can quietly spin it while you&#39;re listening or talking, and it gives your anxious energy an outlet. Nobody notices, but it keeps your hands occupied and helps discharge some of that energy.</p>
                         <p>Some people keep a small piece of <a href="https://amzn.to/4chc7Ey" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">therapy putty</a> in their pocket. Squeezing it under the table gives your hands something to do and helps ground you.</p>
 
-                        <ImageSuggestion
-                            filename="ccfeb263.3b.jpg"
-                            description="A high-quality close-up of hands wearing a minimalist fidget ring or holding a discreet grounding tool under a desk, emphasizing hidden ways to manage anxiety."
-                        />
+                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
+                            <Image
+                                src="/ccfeb263.3b.jpg"
+                                alt="Managing anxiety discreetly"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
 
                         <p>It sounds small, but it makes a difference. Your body has somewhere to put the energy instead of channeling it all into shaking or feeling like you&#39;re going to crawl out of your skin.</p>
 
