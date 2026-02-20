@@ -90,7 +90,7 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Give Your Jaw Physical Relief</h3>
                         <p>While you&#39;re working on calming your nervous system long-term, you also need to release the built-up tension right now.</p>
-                        <p>A <a href="https://amzn.to/3CH375m" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">massage gun</a> can help. Use it on the muscles along your jawline and down into your neck and shoulders. Start on the lowest setting - your jaw muscles are sensitive, so you don&#39;t need a lot of pressure.</p>
+                        <p>A <a href="https://amzn.to/4cpKSrt" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">massage gun</a> can help. Use it on the muscles along your jawline and down into your neck and shoulders. Start on the lowest setting - your jaw muscles are sensitive, so you don&#39;t need a lot of pressure.</p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
@@ -101,7 +101,7 @@ export default function ArticlePage() {
                             />
                         </div>
 
-                        <p>Heat also helps. A warm compress or <a href="https://amzn.to/3CGEJg0" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">heating pad</a> on your jaw relaxes the muscles and increases blood flow, which helps release tension.</p>
+                        <p>Heat also helps. A warm compress or <a href="https://amzn.to/4rTUijJ" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">heating pad</a> on your jaw relaxes the muscles and increases blood flow, which helps release tension.</p>
                         <p>Some people also find relief from acupressure. Lying on an <a href="https://amzn.to/4kqM8MU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">acupressure mat</a> for 10-15 minutes in the evening creates intense sensory input that can interrupt the tension cycle and force your body to reset.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Address Nighttime Grinding</h3>
