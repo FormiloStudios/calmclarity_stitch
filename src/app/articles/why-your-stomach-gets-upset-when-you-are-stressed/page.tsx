@@ -64,7 +64,7 @@ export default function ArticlePage() {
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             {/* Recommendation: A conceptual illustration showing the bidirectional flow of information between the brain and the digestive system, with soft light pulses along the vagus nerve. */}
                             <Image
-                                src="/ccfeb263.6a.jpg"
+                                src="/ccfeb264.3a.jpg"
                                 alt="Illustration of the bidirectional gut-brain connection"
                                 fill
                                 className="object-cover"
@@ -98,7 +98,7 @@ export default function ArticlePage() {
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             {/* Recommendation: A peaceful kitchen scene with natural, whole foods (like fermented vegetables or fiber-rich greens) and a bottle of a supplement, symbolizing nourishment and balance. */}
                             <Image
-                                src="/ccfeb263.6b.jpg"
+                                src="/ccfeb264.3b.jpg"
                                 alt="Supportive nutrition for a healthy gut-brain connection"
                                 fill
                                 className="object-cover"

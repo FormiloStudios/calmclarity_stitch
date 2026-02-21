@@ -63,7 +63,7 @@ export default function ArticlePage() {
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             {/* Recommendation: A high-quality anatomical diagram showing the path of the vagus nerve (from brain to gut) with soft, glowing lines to represent signaling. */}
                             <Image
-                                src="/ccfeb263.5a.jpg"
+                                src="/ccfeb264.2a.jpg"
                                 alt="Anatomical path of the Vagus Nerve from brain to gut"
                                 fill
                                 className="object-cover"
@@ -93,7 +93,7 @@ export default function ArticlePage() {
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             {/* Recommendation: A lifestyle photo of someone using an ice roller on their neck or doing slow deep breathing in a relaxed setting. */}
                             <Image
-                                src="/ccfeb263.5b.jpg"
+                                src="/ccfeb264.2b.jpg"
                                 alt="Stimulating the vagus nerve through cold exposure"
                                 fill
                                 className="object-cover"

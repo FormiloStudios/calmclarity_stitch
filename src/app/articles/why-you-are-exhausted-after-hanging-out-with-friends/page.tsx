@@ -68,7 +68,7 @@ export default function ArticlePage() {
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             {/* Recommendation: A split screen or contrast between a busy, blurred cafe crowd and a single calm person at home to show the difference in stimulation. */}
                             <Image
-                                src="/ccfeb263.4a.jpg"
+                                src="/ccfeb264.1a.jpg"
                                 alt="Visual contrast between social stimulation and personal calm"
                                 fill
                                 className="object-cover"
@@ -97,7 +97,7 @@ export default function ArticlePage() {
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             {/* Recommendation: A person peacefully resting in a cozy window nook or on a bed under a weighted blanket, emphasizing recovery. */}
                             <Image
-                                src="/ccfeb263.4b.jpg"
+                                src="/ccfeb264.1b.jpg"
                                 alt="Person decompressing at home after socializing"
                                 fill
                                 className="object-cover"
