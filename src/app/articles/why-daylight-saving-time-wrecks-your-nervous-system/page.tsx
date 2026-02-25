@@ -90,10 +90,10 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Get Bright Light in the Morning</h3>
                         <p>Your circadian rhythm is most responsive to light in the morning. After DST, when you wake up (even if it feels too early), get outside or sit by a bright window within 30 minutes.</p>
-                        <p>Natural sunlight is best, but if it&#39;s still dark out, use a bright light or a <a href="https://amzn.to/3CH375m" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">SAD lamp</a>. The light exposure tells your brain: &quot;This is morning. Time to wake up.&quot;</p>
+                        <p>Natural sunlight is best, but if it&#39;s still dark out, use a bright light or a <a href="https://amzn.to/4kVLAiC" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">SAD lamp</a>. The light exposure tells your brain: &quot;This is morning. Time to wake up.&quot;</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Avoid Blue Light at Night</h3>
-                        <p>Blue light from screens suppresses melatonin and tricks your brain into thinking it&#39;s still daytime. Wear <a href="https://amzn.to/3CH375m" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">blue light blocking glasses</a> in the evening, especially in the first week after DST.</p>
+                        <p>Blue light from screens suppresses melatonin and tricks your brain into thinking it&#39;s still daytime. Wear <a href="https://amzn.to/4048DOk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">blue light blocking glasses</a> in the evening, especially in the first week after DST.</p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
@@ -111,7 +111,7 @@ export default function ArticlePage() {
                         <p>Even if you don&#39;t feel tired at the &quot;new&quot; bedtime, go through the routine anyway. A <a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">weighted blanket</a> can help signal your nervous system that it&#39;s time to wind down.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Use a Sunrise Alarm Clock</h3>
-                        <p>A <a href="https://amzn.to/3CH375m" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">sunrise alarm clock</a> gradually increases light in your room before your alarm goes off, mimicking a natural sunrise and waking you up more gently.</p>
+                        <p>A <a href="https://amzn.to/4aNIZ5x" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">sunrise alarm clock</a> gradually increases light in your room before your alarm goes off, mimicking a natural sunrise and waking you up more gently.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Be Gentle With Yourself</h2>
                         <p>The first few days after DST, you&#39;re going to feel off. That&#39;s normal. Don&#39;t schedule important meetings or high-stakes tasks if you can avoid it. Give yourself extra time in the morning. Don&#39;t expect peak performance. Your body is working hard to recalibrate. The best thing you can do is support it, not fight it.</p>
