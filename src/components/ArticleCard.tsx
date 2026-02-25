@@ -20,12 +20,12 @@ export function ArticleCard({
 }: ArticleCardProps) {
     return (
         <Link href={href} className="group block cursor-pointer fade-in-section">
-            <div className="overflow-hidden mb-10 aspect-[16/9]">
+            <div className="overflow-hidden mb-10 aspect-[3/2] border border-slate-100 dark:border-white/5 rounded-2xl">
                 <Image
                     src={image}
                     alt={title}
                     width={800}
-                    height={450}
+                    height={533}
                     className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
                 />
             </div>

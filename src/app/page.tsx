@@ -7,6 +7,30 @@ import { ScrollObserver } from "@/components/ScrollObserver";
 
 const articles = [
   {
+    image: "/seasonal_1.jpg",
+    category: "Seasonal Health",
+    readTime: "7 Min Read",
+    title: "Why Daylight Saving Time Wrecks Your Nervous System",
+    description: "That one-hour shift isn't just a minor inconvenience; it's a physiological shock that can take weeks for your nervous system to recover from.",
+    href: "/articles/why-daylight-saving-time-wrecks-your-nervous-system"
+  },
+  {
+    image: "/seasonal_2.jpg",
+    category: "Seasonal Health",
+    readTime: "6 Min Read",
+    title: "Spring Anxiety: Why Seasonal Changes Trigger Your Nervous System",
+    description: "Most people love spring, but for some, the shift in light and energy can trigger a unique type of seasonal anxiety.",
+    href: "/articles/spring-anxiety-seasonal-changes-trigger-nervous-system"
+  },
+  {
+    image: "/seasonal_3.jpg",
+    category: "Seasonal Health",
+    readTime: "5 Min Read",
+    title: "Tax Season Anxiety: How to Handle the Stress",
+    description: "If financial stress has your nervous system in a loop, here's how to manage the seasonal pressure without burning out.",
+    href: "/articles/tax-season-anxiety-how-to-handle-stress"
+  },
+  {
     image: "/val_article1.jpg",
     category: "Relationships",
     readTime: "6 Min Read",
@@ -98,30 +122,6 @@ const articles = [
     title: "Why Your Stomach Gets Upset When You're Stressed (The Gut-Brain Connection)",
     description: "That nervous stomach isn't just in your head, your gut and brain are in constant conversation, and stress sends the whole system into chaos.",
     href: "/articles/why-your-stomach-gets-upset-when-you-are-stressed"
-  },
-  {
-    image: "/seasonal_1.jpg",
-    category: "Seasonal Health",
-    readTime: "7 Min Read",
-    title: "Why Daylight Saving Time Wrecks Your Nervous System",
-    description: "That one-hour shift isn't just a minor inconvenience; it's a physiological shock that can take weeks for your nervous system to recover from.",
-    href: "/articles/why-daylight-saving-time-wrecks-your-nervous-system"
-  },
-  {
-    image: "/seasonal_2.jpg",
-    category: "Seasonal Health",
-    readTime: "6 Min Read",
-    title: "Spring Anxiety: Why Seasonal Changes Trigger Your Nervous System",
-    description: "Most people love spring, but for some, the shift in light and energy can trigger a unique type of seasonal anxiety.",
-    href: "/articles/spring-anxiety-seasonal-changes-trigger-nervous-system"
-  },
-  {
-    image: "/seasonal_3.jpg",
-    category: "Seasonal Health",
-    readTime: "5 Min Read",
-    title: "Tax Season Anxiety: How to Handle the Stress",
-    description: "If financial stress has your nervous system in a loop, here's how to manage the seasonal pressure without burning out.",
-    href: "/articles/tax-season-anxiety-how-to-handle-stress"
   }
 ];
 
@@ -134,12 +134,17 @@ export default function Home() {
 
       <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
         <div className="text-center mb-24">
-          <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50">Start Here</h2>
+          <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50">Latest Insights</h2>
           <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
         </div>
 
+        {/* Featured Article */}
+        <div className="mb-32">
+          <ArticleCard {...articles[0]} />
+        </div>
+
         <section className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-32">
-          {articles.map((article, index) => (
+          {articles.slice(1).map((article, index) => (
             <ArticleCard key={index} {...article} />
           ))}
         </section>
