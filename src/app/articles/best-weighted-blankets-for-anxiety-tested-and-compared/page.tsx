@@ -83,11 +83,11 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">1. YnM Weighted Blanket - 🏆 Best Overall</h3>
                         <p>YnM is the most popular weighted blanket on Amazon for a reason. It has a 7-layer design with 2x2-inch compartments, which means the glass beads stay evenly distributed. The microfiber is breathable enough for year-round use.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check YnM on Amazon →</a></p>
+                        <p><a href="https://amzn.to/4r06BtW" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check YnM on Amazon →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">2. Bare Home Weighted Blanket - 💰 Best Budget</h3>
                         <p>This is the best budget option if you want natural materials. It&#39;s 100% cotton with non-toxic glass beads, which is rare at this price point. The weight distribution is solid, and it&#39;s gentle on sensitive skin.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Bare Home on Amazon →</a></p>
+                        <p><a href="https://amzn.to/4cihPWY" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Bare Home on Amazon →</a></p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
@@ -100,27 +100,27 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">3. Gravity Weighted Blanket - 😴 Best for Easy Cleaning</h3>
                         <p>Gravity nailed the duvet cover system. The inner weighted blanket is separate from the outer cover, so you can wash the cover frequently without dealing with the heavy blanket. The weight distribution is excellent.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Gravity on Amazon →</a></p>
+                        <p><a href="https://amzn.to/4r0P3h4" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Gravity on Amazon →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">4. Casper Weighted Blanket - ✨ Best Premium Cotton</h3>
                         <p>Casper is known for quality sleep products, and their weighted blanket lives up to the reputation. The 100% cotton outer layer is breathable and soft. It&#39;s designed to work in all seasons.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Casper on Amazon →</a></p>
+                        <p><a href="https://amzn.to/3ODmwRk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Casper on Amazon →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">5. Bearaby Cotton Hand-Knit Weighted Blanket - 🌿 Best for Hot Sleepers</h3>
                         <p>This is completely different from traditional weighted blankets. Instead of beads, the weight comes from the thick, chunky knit cotton itself. This makes it incredibly breathable - no internal filling means air flows freely.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Bearaby on Amazon →</a></p>
+                        <p><a href="https://amzn.to/47gf8BH" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Bearaby on Amazon →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">6. LUXOME Luxury Weighted Blanket - 👑 Best Luxury</h3>
                         <p>This is the luxury option. The reversible cover has a cool bamboo side for warm nights and a plush minky side for cozy nights. The inner weighted blanket is 100% percale cotton.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check LUXOME on Amazon →</a></p>
+                        <p><a href="https://amzn.to/4rF7bhE" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check LUXOME on Amazon →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">7. Degrees of Comfort Weighted Blanket - 🔄 Best Reversible</h3>
                         <p>This comes with a removable minky plush cover that&#39;s perfect for winter. Remove the cover, and the inner blanket is breathable enough for hot sleepers or warmer weather. You&#39;re essentially getting two blankets in one.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Degrees of Comfort on Amazon →</a></p>
+                        <p><a href="https://amzn.to/4kYyvVH" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Degrees of Comfort on Amazon →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">8. Wemore Fleece Weighted Blanket - 🛋️ Best for Winter/Cozy</h3>
                         <p>This is the coziest, warmest option on the list. One side is jacquard fleece, the other side is fluffy sherpa. It&#39;s ultra-soft and perfect for cold climates or people who love being extra warm.</p>
-                        <p><a href="https://amzn.to/4aol6kK" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Wemore on Amazon →</a></p>
+                        <p><a href="https://amzn.to/4rF3XL4" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Check Wemore on Amazon →</a></p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">Does Science Actually Support Weighted Blankets for Anxiety?</h2>
                         <p>Yes. Weighted blankets work through <strong>deep pressure stimulation</strong> (also called deep touch pressure therapy).</p>
