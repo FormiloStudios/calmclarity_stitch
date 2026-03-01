@@ -7,6 +7,30 @@ import { ScrollObserver } from "@/components/ScrollObserver";
 
 const articles = [
   {
+    image: "/evergreen_1.jpg",
+    category: "Sleep Science",
+    readTime: "7 Min Read",
+    title: "Why You Can't Fall Asleep Even When You're Exhausted",
+    description: "Your body is tired, but your brain didn't get the memo. If you're exhausted but can't sleep, your nervous system is stuck in the wrong gear.",
+    href: "/articles/why-you-cant-fall-asleep-even-when-you-are-exhausted"
+  },
+  {
+    image: "/evergreen_2.jpg",
+    category: "Neurology",
+    readTime: "8 Min Read",
+    title: "Best Weighted Blankets for Anxiety (Tested & Compared)",
+    description: "Weighted blankets help regulate your nervous system through deep pressure stimulation. Here's which ones are actually worth your money.",
+    href: "/articles/best-weighted-blankets-for-anxiety-tested-and-compared"
+  },
+  {
+    image: "/evergreen_3.jpg",
+    category: "Lifestyle",
+    readTime: "6 Min Read",
+    title: "How to Stop Decision Fatigue From Wrecking Your Day",
+    description: "By 2 PM, you can't decide what to have for lunch. That's decision fatigue, and it's burning through your mental energy before the day is even half over.",
+    href: "/articles/how-to-stop-decision-fatigue-from-wrecking-your-day"
+  },
+  {
     image: "/val_article1.jpg",
     category: "Relationships",
     readTime: "6 Min Read",
