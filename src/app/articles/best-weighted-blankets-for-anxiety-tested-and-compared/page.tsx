@@ -144,8 +144,8 @@ export default function ArticlePage() {
                                         <td className="py-4 px-2 font-bold">YnM</td>
                                         <td className="py-4 px-2">Most People</td>
                                         <td className="py-4 px-2">Microfiber/Cotton</td>
-                                        <td className="py-4 px-2">$50-80</td>
-                                        <td className="py-4 px-2">15, 20, 25 lbs</td>
+                                        <td className="py-4 px-2">$30-40</td>
+                                        <td className="py-4 px-2">Multiple</td>
                                     </tr>
                                     <tr className="border-b border-slate-100 dark:border-slate-800">
                                         <td className="py-4 px-2 font-bold">Bare Home</td>
@@ -158,43 +158,43 @@ export default function ArticlePage() {
                                         <td className="py-4 px-2 font-bold">Gravity</td>
                                         <td className="py-4 px-2">Easy Cleaning</td>
                                         <td className="py-4 px-2">Microfiber + Duvet</td>
-                                        <td className="py-4 px-2">$124</td>
+                                        <td className="py-4 px-2">$100-125</td>
                                         <td className="py-4 px-2">15, 20, 35 lbs</td>
                                     </tr>
                                     <tr className="border-b border-slate-100 dark:border-slate-800">
                                         <td className="py-4 px-2 font-bold">Casper</td>
                                         <td className="py-4 px-2">Trusted Brand</td>
                                         <td className="py-4 px-2">Cotton</td>
-                                        <td className="py-4 px-2">$144</td>
-                                        <td className="py-4 px-2">15, 20, 25 lbs</td>
+                                        <td className="py-4 px-2">$120-145</td>
+                                        <td className="py-4 px-2">15 lbs</td>
                                     </tr>
                                     <tr className="border-b border-slate-100 dark:border-slate-800">
                                         <td className="py-4 px-2 font-bold">Bearaby</td>
                                         <td className="py-4 px-2">Hot Sleepers</td>
                                         <td className="py-4 px-2">Knit Cotton</td>
-                                        <td className="py-4 px-2">$199</td>
+                                        <td className="py-4 px-2">$150-200</td>
                                         <td className="py-4 px-2">10, 15, 20, 25 lbs</td>
                                     </tr>
                                     <tr className="border-b border-slate-100 dark:border-slate-800">
                                         <td className="py-4 px-2 font-bold">LUXOME</td>
                                         <td className="py-4 px-2">Luxury</td>
                                         <td className="py-4 px-2">Bamboo/Minky</td>
-                                        <td className="py-4 px-2">$205</td>
-                                        <td className="py-4 px-2">15, 20, 25 lbs</td>
+                                        <td className="py-4 px-2">$155-205</td>
+                                        <td className="py-4 px-2">15, 18, 25 lbs</td>
                                     </tr>
                                     <tr className="border-b border-slate-100 dark:border-slate-800">
                                         <td className="py-4 px-2 font-bold">Degrees of Comfort</td>
                                         <td className="py-4 px-2">Hot/Cold Versatility</td>
                                         <td className="py-4 px-2">Polyester + Minky</td>
-                                        <td className="py-4 px-2">$92</td>
-                                        <td className="py-4 px-2">15, 18, 20 lbs</td>
+                                        <td className="py-4 px-2">$75-95</td>
+                                        <td className="py-4 px-2">5, 18, 20, 25, 30 lbs</td>
                                     </tr>
                                     <tr className="border-b border-slate-100 dark:border-slate-800">
                                         <td className="py-4 px-2 font-bold">Wemore</td>
                                         <td className="py-4 px-2">Winter Warmth</td>
                                         <td className="py-4 px-2">Sherpa/Fleece</td>
-                                        <td className="py-4 px-2">$66</td>
-                                        <td className="py-4 px-2">15, 20, 25 lbs</td>
+                                        <td className="py-4 px-2">$45-70</td>
+                                        <td className="py-4 px-2">12, 15, 20 lbs</td>
                                     </tr>
                                 </tbody>
                             </table>
