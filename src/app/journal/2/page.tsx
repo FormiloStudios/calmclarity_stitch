@@ -18,9 +18,9 @@ const articles = [
     {
         image: "/ccmar262.2.jpg",
         category: "Physiology",
-        readTime: "Ready to Brew",
+        readTime: "7 Min Read",
         title: "Why Your Hands and Feet Are Always Cold",
-        description: "Article Brewing...",
+        description: "It isn't just poor circulation—it's your nervous system prioritizing survival. Learn why your body shifts blood flow and how to signal safety.",
         href: "/articles/why-your-hands-and-feet-are-always-cold"
     },
     {
