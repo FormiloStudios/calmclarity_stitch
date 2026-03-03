@@ -4,6 +4,7 @@ import { Footer } from "@/components/Footer";
 import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
+import Link from "next/link";
 
 const articles = [
   {
@@ -177,6 +178,15 @@ export default function Home() {
             );
           })}
         </section>
+
+        <div className="mt-32 text-center">
+          <Link
+            href="/journal/2"
+            className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
+          >
+            See More Entries →
+          </Link>
+        </div>
       </main>
 
       <NewsletterSection />
