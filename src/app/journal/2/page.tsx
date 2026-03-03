@@ -10,9 +10,9 @@ const articles = [
     {
         image: "/ccmar262.1.jpg",
         category: "Neurology",
-        readTime: "Ready to Brew",
+        readTime: "7 Min Read",
         title: "Why You Replay Conversations on Loop (And How to Stop)",
-        description: "Article Brewing...",
+        description: "Your brain isn't just overthinking—it's running a threat-detection program. Here is how to interrupt the loop and find closure.",
         href: "/articles/why-you-replay-conversations-on-loop"
     },
     {
