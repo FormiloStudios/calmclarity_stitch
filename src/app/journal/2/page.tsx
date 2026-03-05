@@ -26,9 +26,9 @@ const articles = [
     {
         image: "/ccmar262.3.jpg",
         category: "Tools",
-        readTime: "Ready to Brew",
+        readTime: "8 Min Read",
         title: "Best Fidget Rings for Anxiety (Tested & Compared)",
-        description: "Article Brewing...",
+        description: "Repetitive motion isn't just a habit—it's a grounding tool. Discover the best spinner, bead, and magnetic rings for silent, discreet anxiety relief.",
         href: "/articles/best-fidget-rings-for-anxiety-tested-and-compared"
     }
 ];
