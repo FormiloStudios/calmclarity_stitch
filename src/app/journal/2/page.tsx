@@ -62,12 +62,19 @@ export default function JournalPage2() {
                     })}
                 </section>
 
-                <div className="mt-32 text-center">
+                <div className="mt-32 flex flex-col md:flex-row items-center justify-center gap-8">
                     <Link
                         href="/"
                         className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
                     >
                         ← Back to Featured
+                    </Link>
+                    <Link
+                        href="/journal/3"
+                        className="group flex items-center space-x-3 text-sm font-bold tracking-widest uppercase hover:text-primary transition-colors border-b border-black/10 pb-1"
+                    >
+                        <span>See More Entries</span>
+                        <span className="group-hover:translate-x-1 transition-transform duration-300">→</span>
                     </Link>
                 </div>
             </main>
