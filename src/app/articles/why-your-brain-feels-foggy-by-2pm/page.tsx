@@ -115,7 +115,7 @@ export default function ArticlePage() {
                         <p><a href="https://amzn.to/4048DOk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Blue light blocking glasses</a> can reduce the wavelength that causes eye strain and mental fatigue. Wear them while you&#39;re working in the afternoon.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Give Your Hands Something to Do</h3>
-                        <p>A <a href="/articles/best-fidget-rings-for-anxiety-tested-and-compared" className="text-primary hover:underline font-bold">fidget ring</a> gives your hands a small, repetitive task that helps anchor your focus instead of letting it scatter.</p>
+                        <p>A <a href="/articles/best-fidget-rings-for-anxiety-tested-and-compared" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">fidget ring</a> gives your hands a small, repetitive task that helps anchor your focus instead of letting it scatter.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Lower Your Overall Stress Load</h3>
                         <p>If baseline stress is high, your brain is working harder than it should. <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium</a> helps regulate your stress response and supports cognitive function.</p>
