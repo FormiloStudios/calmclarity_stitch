@@ -1,5 +1,4 @@
 import { Nav } from "@/components/Nav";
-import { Hero } from "@/components/Hero";
 import { Footer } from "@/components/Footer";
 import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterSection } from "@/components/NewsletterSection";
@@ -30,6 +29,30 @@ const articles = [
         title: "Best Fidget Rings for Anxiety (Tested & Compared)",
         description: "Repetitive motion isn't just a habit—it's a grounding tool. Discover the best spinner, bead, and magnetic rings for silent, discreet anxiety relief.",
         href: "/articles/best-fidget-rings-for-anxiety-tested-and-compared"
+    },
+    {
+        image: "/ccmar263.1.jpg",
+        category: "Neurology",
+        readTime: "8 Min Read",
+        title: "How to Manage News Anxiety (When the World Feels Like It's Falling Apart)",
+        description: "Your brain wasn't designed to carry every global crisis 24/7. Learn how to set boundaries and protect your nervous system without checking out.",
+        href: "/articles/how-to-manage-news-anxiety"
+    },
+    {
+        image: "/ccmar263.2.jpg",
+        category: "Relationships",
+        readTime: "8 Min Read",
+        title: "Family Gathering Anxiety: Why Holidays and Events Feel So Draining",
+        description: "It's not just extroversion or introversion—it's the emotional labor of familial systems. Here is why you feel depleted and how to recover.",
+        href: "/articles/family-gathering-anxiety"
+    },
+    {
+        image: "/ccmar263.3.jpg",
+        category: "Physiology",
+        readTime: "7 Min Read",
+        title: "Why Your Brain Feels Foggy by 2 PM (And What Actually Helps)",
+        description: "Mid-afternoon sluggishness isn't random. It's the result of resource depletion. Discover how to fuel your focus and lift the cotton-wrapped fog.",
+        href: "/articles/why-your-brain-feels-foggy-by-2pm"
     }
 ];
 
@@ -38,7 +61,6 @@ export default function JournalPage2() {
         <>
             <ScrollObserver />
             <Nav />
-            {/* We skip the Hero for page 2 to keep it cleaner, or keep it if desired. The user said "new page" for the articles. */}
 
             <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
                 <div className="text-center mb-24">
@@ -62,19 +84,12 @@ export default function JournalPage2() {
                     })}
                 </section>
 
-                <div className="mt-32 flex flex-col md:flex-row items-center justify-center gap-8">
+                <div className="mt-32 text-center">
                     <Link
                         href="/"
                         className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
                     >
                         ← Back to Featured
-                    </Link>
-                    <Link
-                        href="/journal/3"
-                        className="group flex items-center space-x-3 text-sm font-bold tracking-widest uppercase hover:text-primary transition-colors border-b border-black/10 pb-1"
-                    >
-                        <span>See More Entries</span>
-                        <span className="group-hover:translate-x-1 transition-transform duration-300">→</span>
                     </Link>
                 </div>
             </main>
