@@ -101,7 +101,7 @@ export default function ArticlePage() {
                         <p>This is the hardest one, but it&#39;s also the most important. You don&#39;t need to check the news every hour. The world isn&#39;t going to end in the 60 minutes between now and when you check again.</p>
                         <ul>
                             <li><strong>Set designated news times.</strong> Check once in the morning and once in the evening. That&#39;s it. No scrolling in between.</li>
-                            <li><strong>No news before bed.</strong> Cut off news consumption at least two hours before bed. If you need to look at your phone, wear <Link className="text-primary hover:underline font-bold" href="#">blue light blocking glasses</Link>.</li>
+                            <li><strong>No news before bed.</strong> Cut off news consumption at least two hours before bed. If you need to look at your phone, wear <a href="https://amzn.to/4048DOk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">blue light blocking glasses</a>.</li>
                             <li><strong>No news first thing in the morning.</strong> Give yourself at least 30-60 minutes after waking up before you check anything. Let your nervous system wake up gently.</li>
                         </ul>
 
@@ -109,7 +109,7 @@ export default function ArticlePage() {
                         <p>Not all news sources are equal. Some are designed to inform. Others are designed to enrage, terrify, or keep you clicking. Unfollow accounts that sensationalize. Choose one or two trusted sources. Turn off push notifications. Every breaking news alert is a little jolt of adrenaline you don&#39;t need.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Redirect the Restless Energy</h3>
-                        <p>When you feel the urge to scroll, give your hands something else to do. A <a href="/articles/best-fidget-rings-for-anxiety-tested-and-compared" className="text-primary hover:underline font-bold">fidget ring</a> or <Link className="text-primary hover:underline font-bold" href="#">therapy putty</Link> gives your restless energy a physical outlet that doesn&#39;t involve checking your phone.</p>
+                        <p>When you feel the urge to scroll, give your hands something else to do. A <a href="/articles/best-fidget-rings-for-anxiety-tested-and-compared" className="text-primary hover:underline font-bold">fidget ring</a> or <a href="https://amzn.to/465CSIr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">therapy putty</a> gives your restless energy a physical outlet that doesn&#39;t involve checking your phone.</p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
@@ -121,13 +121,13 @@ export default function ArticlePage() {
                         </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Ground Your Nervous System in the Present</h3>
-                        <p>News anxiety pulls you into future scenarios. Grounding brings you back to right now. A <a href="/articles/best-weighted-blankets-for-anxiety-tested-and-compared" className="text-primary hover:underline font-bold">weighted blanket</a> provides deep pressure that signals: Right now, in this moment, you are safe. An <Link className="text-primary hover:underline font-bold" href="#">acupressure mat</Link> works similarly by forcing your nervous system to focus on something physical.</p>
+                        <p>News anxiety pulls you into future scenarios. Grounding brings you back to right now. A <a href="/articles/best-weighted-blankets-for-anxiety-tested-and-compared" className="text-primary hover:underline font-bold">weighted blanket</a> provides deep pressure that signals: Right now, in this moment, you are safe. An <a href="https://amzn.to/4kqM8MU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">acupressure mat</a> works similarly by forcing your nervous system to focus on something physical.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Take Action Where You Actually Can</h3>
                         <p>Part of what makes news anxiety so unbearable is the helplessness. Find one thing you can do. Donate to a cause you care about. Volunteer locally. Support a mutual aid network. Vote. Taking action shifts you out of passive doom-scrolling and into agency.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Support Your Nervous System</h3>
-                        <p><a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium Breakthrough</a> helps regulate your stress response and prevents your body from staying stuck in fight-or-flight mode. If you&#39;re struggling with sleep, something like <Link className="text-primary hover:underline font-bold" href="#">Yu Sleep</Link> can help your mind shut off at night.</p>
+                        <p><a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Magnesium Breakthrough</a> helps regulate your stress response and prevents your body from staying stuck in fight-or-flight mode. If you&#39;re struggling with sleep, something like <a href="https://4vitahealth.com/sp/4greatsleep-dg/#aff=Select_partner" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">4GreatSleep</a> can help your mind shut off at night.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-20 mb-6 font-bold">Accept That You Can&#39;t Carry It All</h2>
                         <p>You are one person. You cannot absorb the suffering of the entire world and still function. That doesn&#39;t make you selfish. It makes you human. You can care deeply about what&#39;s happening in the world without letting it consume every waking moment. You can hold space for both the reality of what&#39;s happening and your own need to protect your mental health.</p>

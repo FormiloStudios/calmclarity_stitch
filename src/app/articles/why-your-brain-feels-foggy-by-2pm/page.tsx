@@ -109,10 +109,10 @@ export default function ArticlePage() {
                         </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Support Your Brain Chemistry</h3>
-                        <p>If you&#39;re dealing with fog regularly, you might need extra support. <Link className="text-primary hover:underline font-bold" href="#">BrainAMP</Link> is designed specifically for mental clarity. <Link className="text-primary hover:underline font-bold" href="#">NeuroActiv6</Link> supports BDNF, which helps your brain adapt to stress and maintain function.</p>
+                        <p>If you&#39;re dealing with fog regularly, you might need extra support. <a href="https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm#aff=Select_partner" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">BrainAMP</a> is designed specifically for mental clarity. <a href="https://www.digistore24.com/redir/442614/Select_partner/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">NeuroActiv6</a> supports BDNF, which helps your brain adapt to stress and maintain function.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Reduce Blue Light Exposure</h3>
-                        <p><Link className="text-primary hover:underline font-bold" href="#">Blue light blocking glasses</Link> can reduce the wavelength that causes eye strain and mental fatigue. Wear them while you&#39;re working in the afternoon.</p>
+                        <p><a href="https://amzn.to/4048DOk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Blue light blocking glasses</a> can reduce the wavelength that causes eye strain and mental fatigue. Wear them while you&#39;re working in the afternoon.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Give Your Hands Something to Do</h3>
                         <p>A <a href="/articles/best-fidget-rings-for-anxiety-tested-and-compared" className="text-primary hover:underline font-bold">fidget ring</a> gives your hands a small, repetitive task that helps anchor your focus instead of letting it scatter.</p>
