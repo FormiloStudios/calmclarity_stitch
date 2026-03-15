@@ -7,30 +7,6 @@ import Link from "next/link";
 
 const articles = [
     {
-        image: "/ccmar264.1.jpg",
-        category: "Tools",
-        readTime: "12 Min Read",
-        title: "Best Ice Rollers on Amazon (Tested & Compared)",
-        description: "After researching every major ice roller category, comparing specs, and going through hundreds of reviews, here's exactly what's worth buying.",
-        href: "/articles/best-ice-rollers-on-amazon"
-    },
-    {
-        image: "/ccmar264.2.jpg",
-        category: "Physiology",
-        readTime: "8 Min Read",
-        title: "How Nerve Health Affects Anxiety (And What Actually Helps)",
-        description: "Your anxiety and physical symptoms aren't separate problems. They're coming from the same place: your nervous system.",
-        href: "/articles/how-nerve-health-affects-anxiety"
-    },
-    {
-        image: "/ccmar264.3.jpg",
-        category: "Psychology",
-        readTime: "10 Min Read",
-        title: "Why Social Anxiety Feels Impossible to Overcome",
-        description: "It isn't shyness or introversion. It's your nervous system treating social situations like a physical threat. Here is how to retrain it.",
-        href: "/articles/why-social-anxiety-feels-impossible-to-overcome"
-    },
-    {
         image: "/ccmar262.1.jpg",
         category: "Neurology",
         readTime: "7 Min Read",
@@ -108,12 +84,18 @@ export default function JournalPage2() {
                     })}
                 </section>
 
-                <div className="mt-32 text-center">
+                <div className="mt-32 text-center flex flex-col sm:flex-row items-center justify-center gap-8">
                     <Link
                         href="/"
                         className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
                     >
-                        ← Back to Featured
+                        ← Previous Page
+                    </Link>
+                    <Link
+                        href="/journal/3"
+                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
+                    >
+                        Next Page →
                     </Link>
                 </div>
             </main>
