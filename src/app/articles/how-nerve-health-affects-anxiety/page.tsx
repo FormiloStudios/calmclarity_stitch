@@ -49,11 +49,11 @@ export default function ArticlePage() {
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed">
                         <p>You&#39;ve been to the doctor. They run tests. Everything comes back &quot;normal.&quot; But you don&#39;t feel normal. What if I told you that your anxiety and your physical symptoms aren&#39;t separate problems?</p>
                         <p>What if they&#39;re both coming from the same place: your nervous system. Specifically, your nerve health.</p>
-                        <p className="font-bold text-slate-900 dark:text-white">When your nerves aren&#39;t functioning properly — whether from stress, nutrient deficiencies, inflammation, or other factors — it doesn&#39;t just cause physical symptoms. It affects your mood, your anxiety levels, and your ability to regulate stress.</p>
+                        <p className="font-bold text-slate-900 dark:text-white">When your nerves aren&#39;t functioning properly - whether from stress, nutrient deficiencies, inflammation, or other factors - it doesn&#39;t just cause physical symptoms. It affects your mood, your anxiety levels, and your ability to regulate stress.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What Nerve Health Actually Means</h2>
                         <p>Your nervous system has two main parts: The central nervous system (your brain and spinal cord) processes information and sends commands. The peripheral nervous system (the nerves throughout your body) carries those signals to and from your muscles, organs, and skin.</p>
-                        <p>When we talk about &quot;nerve health,&quot; we&#39;re usually referring to the peripheral nervous system — the network of nerves that runs through your entire body.</p>
+                        <p>When we talk about &quot;nerve health,&quot; we&#39;re usually referring to the peripheral nervous system - the network of nerves that runs through your entire body.</p>
                         <ul className="mb-8">
                             <li>Send sensory information to your brain (touch, temperature, pain)</li>
                             <li>Control your muscles (movement, coordination)</li>
@@ -65,7 +65,7 @@ export default function ArticlePage() {
                         <p>Nerve damage or dysfunction doesn&#39;t just cause physical symptoms like tingling or numbness. It directly affects your anxiety levels.</p>
                         
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Nerves Send False Alarm Signals</h3>
-                        <p>When nerves aren&#39;t functioning properly, they can send incorrect signals to your brain. Your brain might receive messages that something is wrong — pain, danger, discomfort — even when there&#39;s no actual threat.</p>
+                        <p>When nerves aren&#39;t functioning properly, they can send incorrect signals to your brain. Your brain might receive messages that something is wrong - pain, danger, discomfort - even when there&#39;s no actual threat.</p>
                         <p>This keeps your nervous system in a heightened state of alert. You feel anxious, on edge, or panicked, and you don&#39;t know why. It&#39;s not &quot;all in your head.&quot; Your brain is literally receiving faulty danger signals from damaged or dysfunctional nerves.</p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
@@ -79,10 +79,10 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">The Vagus Nerve Connection</h3>
                         <p>Your vagus nerve is the longest nerve in your body. It runs from your brainstem down through your neck, chest, and into your abdomen.</p>
-                        <p>This nerve is responsible for activating your parasympathetic nervous system — the part that calms you down after stress. When your vagus nerve isn&#39;t functioning well, your body has a harder time shifting out of fight-or-flight mode. You stay anxious longer. You can&#39;t calm down as easily.</p>
+                        <p>This nerve is responsible for activating your parasympathetic nervous system - the part that calms you down after stress. When your vagus nerve isn&#39;t functioning well, your body has a harder time shifting out of fight-or-flight mode. You stay anxious longer. You can&#39;t calm down as easily.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Chronic Pain Creates Chronic Stress</h3>
-                        <p>Nerve pain or dysfunction often leads to chronic discomfort. And chronic pain puts your nervous system under constant stress. When you&#39;re in pain — even low-level, nagging pain — your body produces stress hormones. Your nervous system stays activated. Over time, this chronic activation wears you down.</p>
+                        <p>Nerve pain or dysfunction often leads to chronic discomfort. And chronic pain puts your nervous system under constant stress. When you&#39;re in pain - even low-level, nagging pain - your body produces stress hormones. Your nervous system stays activated. Over time, this chronic activation wears you down.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What Causes Nerve Dysfunction</h2>
                         <ul className="mb-8">
@@ -97,13 +97,13 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Support Nerve Health From the Inside</h3>
                         <p>Your nerves need specific nutrients to repair and function properly. When you&#39;re deficient in these nutrients, nerve function suffers.</p>
-                        <p>Nervovive is designed specifically to support nerve health. It contains nutrients that help repair nerve tissue, reduce inflammation, and improve nerve signaling. When your nerves are functioning better, your body sends clearer signals. <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Nervovive to repair tissues →</a></p>
-                        <p>Nerve Armor works similarly. It supports the peripheral nervous system and helps protect nerves from oxidative stress and inflammation. When your nerves are less inflamed, they communicate more accurately with your brain. <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Nerve Armor for protection →</a></p>
+                        <p>Nervovive is designed specifically to support nerve health. It contains nutrients that help repair nerve tissue, reduce inflammation, and improve nerve signaling. When your nerves are functioning better, your body sends clearer signals. <a href="https://hop.clickbank.net/?affiliate=clickcham&vendor=nervovive&cbpage=tsl&affop=1" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Nervovive to repair tissues →</a></p>
+                        <p>Nerve Armor works similarly. It supports the peripheral nervous system and helps protect nerves from oxidative stress and inflammation. When your nerves are less inflamed, they communicate more accurately with your brain. <a href="https://52e676x9iel9o97fpgy0jmog6x.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Nerve Armor for protection →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Give Your Nerves the Building Blocks They Need</h3>
                         <p>Your nerves rely on specific vitamins and antioxidants to stay healthy and repair damage.</p>
-                        <p>Alpha Lipoic Acid is a powerful antioxidant that protects nerves from oxidative stress and helps regenerate damaged nerve tissue. Studies show that Alpha Lipoic Acid can improve nerve function, reduce nerve pain, and support overall nervous system health. <a href="https://amzn.to/3P1z4w6" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Get Nutricost Alpha Lipoic Acid →</a></p>
-                        <p>B vitamins — especially B12, B6, and folate — are essential for nerve health. They help build and repair the myelin sheath. A high-quality B-complex like Pure Encapsulations provides methylated B vitamins, which are better absorbed and more effective. <a href="https://amzn.to/3v7UvXJ" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Pure Encapsulations B-Complex →</a></p>
+                        <p>Alpha Lipoic Acid is a powerful antioxidant that protects nerves from oxidative stress and helps regenerate damaged nerve tissue. Studies show that Alpha Lipoic Acid can improve nerve function, reduce nerve pain, and support overall nervous system health. <a href="https://amzn.to/4sINfuC" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Get Nutricost Alpha Lipoic Acid →</a></p>
+                        <p>B vitamins - especially B12, B6, and folate - are essential for nerve health. They help build and repair the myelin sheath. A high-quality B-complex like Pure Encapsulations provides methylated B vitamins, which are better absorbed and more effective. <a href="https://amzn.to/4b4Ywzm" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Pure Encapsulations B-Complex →</a></p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
@@ -116,7 +116,7 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Stimulate Nerve Function Directly</h3>
                         <p>Sometimes your nerves need physical stimulation to function better.</p>
-                        <p>A TENS unit (Transcutaneous Electrical Nerve Stimulation) sends gentle electrical pulses through your skin to stimulate nerves. This can help reduce pain, improve nerve signaling, and calm an overactive nervous system. The TENS 7000 is one of the most trusted units available. <a href="https://amzn.to/4caq9r1" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try the TENS 7000 Unit →</a></p>
+                        <p>A TENS unit (Transcutaneous Electrical Nerve Stimulation) sends gentle electrical pulses through your skin to stimulate nerves. This can help reduce pain, improve nerve signaling, and calm an overactive nervous system. The TENS 7000 is one of the most trusted units available. <a href="https://amzn.to/4lrXJfq" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try the TENS 7000 Unit →</a></p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Lower Inflammation That Damages Nerves</h3>
                         <p>Chronic inflammation is one of the biggest contributors to nerve damage and dysfunction. Magnesium helps regulate inflammation and supports nerve function. Taking magnesium consistently can help reduce the inflammation that damages nerves. <a href="https://a2828zngl4s9kd09v-s2ng3l9p.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Try Magnesium Breakthrough →</a></p>

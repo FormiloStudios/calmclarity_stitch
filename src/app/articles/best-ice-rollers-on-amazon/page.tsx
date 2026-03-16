@@ -49,21 +49,21 @@ export default function ArticlePage() {
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed">
                         <p>But when you actually go looking on Amazon, you&#39;re faced with dozens of options. Some are $6. Some are $70. Some are stainless steel. Some you fill with water yourself. Some come with a gua sha tool. Some are tiny and shaped specifically for under your eyes.</p>
                         <p>And unlike a moisturizer where you can try a sample first, you&#39;re buying blind.</p>
-                        <p>After researching every major ice roller category, comparing specs, and going through hundreds of customer reviews, here&#39;s exactly what&#39;s worth buying — and more importantly, which one is right for how you&#39;ll actually use it.</p>
+                        <p>After researching every major ice roller category, comparing specs, and going through hundreds of customer reviews, here&#39;s exactly what&#39;s worth buying - and more importantly, which one is right for how you&#39;ll actually use it.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">What Ice Rollers Actually Do (And Why It Works)</h2>
                         <p>Before getting into specific products, it helps to understand what&#39;s happening to your skin when you use one.</p>
-                        <p>Cold temperature causes vasoconstriction — your blood vessels narrow in response to the cold. This is why ice reduces swelling anywhere on your body, and it&#39;s the same reason ice rollers reduce facial puffiness. When you roll cold metal or gel across your face, you&#39;re physically pushing fluid out of the tissue while the cold constricts the vessels that contributed to that swelling in the first place.</p>
-                        <p>The rolling motion itself adds a second benefit. The gentle pressure stimulates lymphatic drainage — helping your body move excess fluid away from the face through the lymphatic system. This is why technique matters: rolling upward and outward moves fluid toward the lymph nodes in your neck, which is the direction you want.</p>
-                        <p>The result is less puffiness, reduced redness, temporarily tightened pores, and a noticeably more awake appearance — all without products, chemicals, or electricity.</p>
+                        <p>Cold temperature causes vasoconstriction - your blood vessels narrow in response to the cold. This is why ice reduces swelling anywhere on your body, and it&#39;s the same reason ice rollers reduce facial puffiness. When you roll cold metal or gel across your face, you&#39;re physically pushing fluid out of the tissue while the cold constricts the vessels that contributed to that swelling in the first place.</p>
+                        <p>The rolling motion itself adds a second benefit. The gentle pressure stimulates lymphatic drainage - helping your body move excess fluid away from the face through the lymphatic system. This is why technique matters: rolling upward and outward moves fluid toward the lymph nodes in your neck, which is the direction you want.</p>
+                        <p>The result is less puffiness, reduced redness, temporarily tightened pores, and a noticeably more awake appearance - all without products, chemicals, or electricity.</p>
                         <p>Secondary benefits include migraine relief (cold applied to the temples and forehead constricts the blood vessels that cause throbbing headache pain), soothing sunburn and post-waxing irritation, and helping skincare products absorb better when used immediately before applying serums or moisturizers.</p>
 
                         <h2 className="font-display text-3xl font-bold mt-16 mb-6">The 4 Types of Ice Rollers</h2>
                         <p>Just like with any skincare tool, the type you buy matters as much as the brand. Here&#39;s what&#39;s actually different between them:</p>
                         <ul className="space-y-4">
-                            <li><strong>Gel rollers</strong> have a plastic head filled with non-toxic gel that you store in the freezer. They stay cold for a moderate amount of time during use — typically 15–20 minutes — and provide a gentler cold sensation than metal. Good for beginners and sensitive skin.</li>
+                            <li><strong>Gel rollers</strong> have a plastic head filled with non-toxic gel that you store in the freezer. They stay cold for a moderate amount of time during use - typically 15–20 minutes - and provide a gentler cold sensation than metal. Good for beginners and sensitive skin.</li>
                             <li><strong>Stainless steel rollers</strong> have a solid or hollow metal roller head that chills quickly in the freezer and stays cold longer than gel. The cold sensation is more intense and more immediate. Easier to clean, more durable, and better for people who want more pronounced results.</li>
-                            <li><strong>Silicone ice mold rollers</strong> are the DIY option. You fill the silicone mold with water (or other liquids — green tea, cucumber water, aloe) and freeze it. The most customizable and the cheapest, but requires more preparation time and the ice melts faster during use.</li>
+                            <li><strong>Silicone ice mold rollers</strong> are the DIY option. You fill the silicone mold with water (or other liquids - green tea, cucumber water, aloe) and freeze it. The most customizable and the cheapest, but requires more preparation time and the ice melts faster during use.</li>
                             <li><strong>Ice globes / cryo sticks</strong> are ball-shaped metal tools you chill and roll across the face using a handle. The spherical shape allows for more fluid circular motions and better coverage of curved areas like the cheeks and jawline. More of a spa-style experience than a standard roller.</li>
                         </ul>
                         <p>One practical note: stainless steel and ice globes give the most intense cold and the most dramatic immediate results. Gel rollers and silicone molds are gentler and better suited to daily use on sensitive or reactive skin.</p>
@@ -162,7 +162,7 @@ export default function ArticlePage() {
                         <ul className="space-y-4 mb-12">
                             <li><strong>Always roll upward and outward.</strong> Start from the center of your face and roll toward your hairline and ears. This moves lymphatic fluid in the direction of your lymph nodes rather than pushing it back toward the center. Under the eyes, roll from the inner corner outward toward the temple.</li>
                             <li><strong>Freeze time varies by type.</strong> Gel rollers need at least 2 hours in the freezer for best results. Stainless steel rollers need only 15–30 minutes. Silicone mold rollers need at least 4 hours. Ice globes need 20–30 minutes. For quick morning use, keep your roller in the freezer permanently so it&#39;s always ready.</li>
-                            <li><strong>Sessions should be 5–10 minutes.</strong> You don&#39;t need more than that. Longer isn&#39;t better — you risk keeping cold on one area too long, which can cause temporary redness.</li>
+                            <li><strong>Sessions should be 5–10 minutes.</strong> You don&#39;t need more than that. Longer isn&#39;t better - you risk keeping cold on one area too long, which can cause temporary redness.</li>
                             <li><strong>Don&#39;t roll over active breakouts.</strong> Rolling over open or inflamed spots can spread bacteria. Roll around problem areas, not over them.</li>
                             <li><strong>Use before applying serums.</strong> Cold temporarily opens the pathways in your skin, which can help active ingredients in serums absorb more efficiently. Apply your serum or moisturizer immediately after rolling while your skin is still slightly cool.</li>
                             <li><strong>Clean after every use.</strong> Wipe the roller head with a clean cloth or mild soap and water. Stainless steel is easiest to clean. Gel rollers require more attention to avoid bacterial buildup in the seam around the roller.</li>
@@ -176,15 +176,15 @@ export default function ArticlePage() {
                         <strong>Type:</strong> Gel roller<br />
                         <strong>Material:</strong> Plastic body, gel-filled roller head<br />
                         <strong>Colors:</strong> Haze Blue, Pink, White</p>
-                        <p>At $7 with a 4.7-star rating across over 4,000 reviews, Fronnor sits at the rare intersection of genuinely affordable and genuinely well-reviewed. It&#39;s currently ranked #3 in Facial Rollers on Amazon — which for a $7 product competing against $20+ options is a meaningful signal.</p>
+                        <p>At $7 with a 4.7-star rating across over 4,000 reviews, Fronnor sits at the rare intersection of genuinely affordable and genuinely well-reviewed. It&#39;s currently ranked #3 in Facial Rollers on Amazon - which for a $7 product competing against $20+ options is a meaningful signal.</p>
                         <p>The gel-filled head provides a gentle, consistent cold sensation that lasts through a full facial rolling session. It&#39;s waterproof, which matters for cleaning and longevity. The rolling motion is smooth and doesn&#39;t tug or drag on skin, and the handle is lightweight enough for comfortable daily use.</p>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
                             <div>
                                 <h5 className="font-bold font-display text-slate-900 dark:text-white mb-2">Pros:</h5>
                                 <ul className="text-sm">
                                     <li>4.7 stars across 4,000+ reviews</li>
-                                    <li>Waterproof — easy to clean</li>
-                                    <li>Gentle gel roller — suitable for sensitive skin</li>
+                                    <li>Waterproof - easy to clean</li>
+                                    <li>Gentle gel roller - suitable for sensitive skin</li>
                                     <li>Covers full range of benefits: puffiness, dark circles, redness</li>
                                 </ul>
                             </div>
@@ -206,8 +206,8 @@ export default function ArticlePage() {
                         <strong>Type:</strong> Gel roller<br />
                         <strong>Material:</strong> Plastic and stainless steel<br />
                         <strong>Colors:</strong> 7 color options</p>
-                        <p>ESARORA is the most well-known ice roller brand on Amazon. It&#39;s been featured in CNN Underscored and consistently appears in editor-tested roundups. The reason it costs more than the Fronnor isn&#39;t dramatically different performance — it&#39;s brand recognition, the wide colour range, and a track record long enough that tens of thousands of people have reviewed it.</p>
-                        <p>The roller head uses a combination of plastic body with stainless steel elements, giving it more cold retention than a pure plastic gel roller. It covers all the core use cases — morning depuffing, post-sun soothing, migraine relief, under-eye massage, and pre-makeup skin preparation.</p>
+                        <p>ESARORA is the most well-known ice roller brand on Amazon. It&#39;s been featured in CNN Underscored and consistently appears in editor-tested roundups. The reason it costs more than the Fronnor isn&#39;t dramatically different performance - it&#39;s brand recognition, the wide colour range, and a track record long enough that tens of thousands of people have reviewed it.</p>
+                        <p>The roller head uses a combination of plastic body with stainless steel elements, giving it more cold retention than a pure plastic gel roller. It covers all the core use cases - morning depuffing, post-sun soothing, migraine relief, under-eye massage, and pre-makeup skin preparation.</p>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
                              <div>
                                 <h5 className="font-bold font-display text-slate-900 dark:text-white mb-2">Pros:</h5>
@@ -236,7 +236,7 @@ export default function ArticlePage() {
                         <strong>Type:</strong> Gel roller + jade gua sha tool<br />
                         <strong>Material:</strong> Plastic/gel roller, jade stone gua sha</p>
                          <p>Eight dollars for both an ice roller and a jade gua sha tool is genuinely hard to argue with. The ice roller handles depuffing and cold therapy. The jade gua sha handles contouring, jawline definition, and lymphatic drainage through scraping motions. Together they cover the two most popular at-home facial massage techniques without spending separately on each.</p>
-                         <p>The roller stays cold for about an hour of use after 30 minutes in the freezer — reasonable for a daily morning routine. This set regularly appears as a bestseller in the facial tools category.</p>
+                         <p>The roller stays cold for about an hour of use after 30 minutes in the freezer - reasonable for a daily morning routine. This set regularly appears as a bestseller in the facial tools category.</p>
                          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
                              <div>
                                 <h5 className="font-bold font-display text-slate-900 dark:text-white mb-2">Pros:</h5>
@@ -320,7 +320,7 @@ export default function ArticlePage() {
                         <strong>Type:</strong> Silicone ice mold roller<br />
                         <strong>Material:</strong> Food-grade silicone</p>
                         <p>Instead of a pre-filled gel head or a metal roller you chill, the XHJRI is a silicone mold that you fill with liquid and freeze yourself. Fill it with water, green tea for inflammation, cucumber water for puffiness, or aloe vera for redness. The customization angle is genuinely unique.</p>
-                        <p>It&#39;s ranked #5 in Facial Rollers on Amazon. The main trade-off is prep time — it needs at least 4 hours to freeze, making it less spontaneous.</p>
+                        <p>It&#39;s ranked #5 in Facial Rollers on Amazon. The main trade-off is prep time - it needs at least 4 hours to freeze, making it less spontaneous.</p>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
                             <div>
                                 <h5 className="font-bold font-display text-slate-900 dark:text-white mb-2">Pros:</h5>
@@ -407,7 +407,7 @@ export default function ArticlePage() {
 
                         <h2 className="font-display text-3xl font-bold mt-20 mb-8 text-primary uppercase tracking-widest text-sm text-center">Final Verdict</h2>
                         <p>For most people, the <strong>Fronnor</strong> is the best starting point at just $7. If you want both an ice roller and a gua sha tool, the <strong>BAIMEI set</strong> is unbeatable value. If you&#39;re ready to step up to stainless steel, <strong>Kitsch</strong> provides a clear upgrade path. For targeted under-eye concerns, pair your main roller with the <strong>MAANGE Mini</strong>.</p>
-                        <p>Give whichever you choose at least a week of consistent morning use. The results compound — one session shows you it works, two weeks shows you what it actually does over time.</p>
+                        <p>Give whichever you choose at least a week of consistent morning use. The results compound - one session shows you it works, two weeks shows you what it actually does over time.</p>
 
                     </div>
 
