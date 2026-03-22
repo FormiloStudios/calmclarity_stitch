@@ -187,6 +187,7 @@ export default function Home() {
             See More Entries →
           </Link>
         </div>
+        <span style={{ opacity: 0.01, fontSize: '1px' }}>Impact-Site-Verification: d1e442b4-3ace-439e-8331-0a76459efa16</span>
       </main>
 
       <NewsletterSection />
