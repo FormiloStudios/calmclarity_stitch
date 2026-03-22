@@ -38,7 +38,7 @@ export default function ArticlePage() {
                         </div>
                         <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-xl rotate-1 hover:rotate-0 transition-transform duration-500">
                             <Image
-                                src="/clean_ccmar264.2.png"
+                                src="/ccmar264.2.jpg"
                                 alt="Abstract representation of glowing nerve endings"
                                 fill
                                 className="object-cover"
@@ -107,7 +107,7 @@ export default function ArticlePage() {
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/clean_ccmar264.2b.png"
+                                src="/ccmar264.2b.jpg"
                                 alt="Supplements and a TENS unit for nerve recovery"
                                 fill
                                 className="object-cover"

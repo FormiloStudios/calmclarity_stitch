@@ -7,7 +7,7 @@ import Link from "next/link";
 
 const articles = [
     {
-        image: "/clean_ccmar264.1.png",
+        image: "/ccmar264.1.jpg",
         category: "Tools",
         readTime: "12 Min Read",
         title: "Best Ice Rollers on Amazon (Tested & Compared)",
@@ -15,7 +15,7 @@ const articles = [
         href: "/articles/best-ice-rollers-on-amazon"
     },
     {
-        image: "/clean_ccmar264.2.png",
+        image: "/ccmar264.2.jpg",
         category: "Physiology",
         readTime: "8 Min Read",
         title: "How Nerve Health Affects Anxiety (And What Actually Helps)",
@@ -23,7 +23,7 @@ const articles = [
         href: "/articles/how-nerve-health-affects-anxiety"
     },
     {
-        image: "/clean_ccmar264.3.png",
+        image: "/ccmar264.3.jpg",
         category: "Psychology",
         readTime: "10 Min Read",
         title: "Why Social Anxiety Feels Impossible to Overcome",

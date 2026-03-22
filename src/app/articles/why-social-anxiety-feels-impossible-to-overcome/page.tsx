@@ -38,7 +38,7 @@ export default function ArticlePage() {
                         </div>
                         <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-xl rotate-1 hover:rotate-0 transition-transform duration-500">
                             <Image
-                                src="/clean_ccmar264.3.png"
+                                src="/ccmar264.3.jpg"
                                 alt="A person sitting alone on a park bench looking contemplative"
                                 fill
                                 className="object-cover"
@@ -65,7 +65,7 @@ export default function ArticlePage() {
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">
                             <Image
-                                src="/clean_ccmar264.3a.png"
+                                src="/ccmar264.3a.jpg"
                                 alt="A structured journal or workbook open next to coffee"
                                 fill
                                 className="object-cover"
