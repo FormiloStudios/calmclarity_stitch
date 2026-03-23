@@ -7,6 +7,30 @@ import Link from "next/link";
 
 const articles = [
     {
+        image: "/ccmar265.1.jpg",
+        category: "Tools",
+        readTime: "15 Min Read",
+        title: "Best Acupressure Mats for Anxiety & Stress Relief (Compared)",
+        description: "There's a reason acupressure mats have gone from ancient healing practice to one of the most consistently reviewed wellness tools. The science behind them is real.",
+        href: "/articles/best-acupressure-mats-for-anxiety-and-stress-relief"
+    },
+    {
+        image: "/ccmar265.2.jpg",
+        category: "Psychology",
+        readTime: "8 Min Read",
+        title: "Why You Can't Relax Even When You Have Free Time",
+        description: "You finally have time to yourself. No work. No obligations. Just free time to rest. So why does your body refuse to relax?",
+        href: "/articles/why-you-cant-relax-even-when-you-have-free-time"
+    },
+    {
+        image: "/ccmar265.3.jpg",
+        category: "Physiology",
+        readTime: "9 Min Read",
+        title: "How to Recover From a Panic Attack (What Actually Works in the Moment)",
+        description: "Your heart is pounding. You can't breathe. Your hands are shaking. This is a panic attack. Here's what to do.",
+        href: "/articles/how-to-recover-from-a-panic-attack"
+    },
+    {
         image: "/ccmar264.1.jpg",
         category: "Tools",
         readTime: "12 Min Read",
@@ -114,12 +138,6 @@ export default function JournalPage2() {
                         className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
                     >
                         ← Previous Page
-                    </Link>
-                    <Link
-                        href="/journal/3"
-                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
-                    >
-                        Next Page →
                     </Link>
                 </div>
             </main>
