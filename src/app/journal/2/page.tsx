@@ -139,6 +139,12 @@ export default function JournalPage2() {
                     >
                         ← Previous Page
                     </Link>
+                    <Link
+                        href="/journal/3"
+                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
+                    >
+                        Next Page →
+                    </Link>
                 </div>
             </main>
 
