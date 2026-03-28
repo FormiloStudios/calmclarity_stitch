@@ -4,6 +4,7 @@ import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
+import { cookies } from "next/headers";
 
 const articles = [
     {
@@ -104,7 +105,10 @@ const articles = [
     }
 ];
 
-export default function JournalPage2() {
+export default async function JournalPage2() {
+    const cookieStore = await cookies();
+    const canSeeDrafts = cookieStore.get('dev_access')?.value === 'true';
+
     return (
         <>
             <ScrollObserver />
@@ -139,12 +143,14 @@ export default function JournalPage2() {
                     >
                         ← Previous Page
                     </Link>
-                    <Link
-                        href="/journal/3"
-                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
-                    >
-                        Next Page →
-                    </Link>
+                    {canSeeDrafts && (
+                        <Link
+                            href="/journal/3"
+                            className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
+                        >
+                            Next Page →
+                        </Link>
+                    )}
                 </div>
             </main>
 
