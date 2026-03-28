@@ -8,6 +8,30 @@ import Link from "next/link";
 
 const articles = [
   {
+    image: "/ccmar266.1.jpg",
+    category: "Sleep Science",
+    readTime: "12 Min Read",
+    title: "Best Blue Light Blocking Glasses for Anxiety & Sleep (Compared)",
+    description: "Blue light from screens suppresses melatonin. For people managing anxiety, that alert state compounds stress. Here's exactly what's worth buying.",
+    href: "/articles/best-blue-light-blocking-glasses-for-anxiety-and-sleep"
+  },
+  {
+    image: "/ccmar266.2.jpg",
+    category: "Neurology",
+    readTime: "9 Min Read",
+    title: "Why Your Stomach Gets Upset Before Important Events (The Gut-Brain Anxiety Connection)",
+    description: "That tight, knotted feeling in your stomach before a big event isn't just nervousness. It's your gut and brain communicating in a way that makes you physically ill.",
+    href: "/articles/why-your-stomach-gets-upset-before-important-events"
+  },
+  {
+    image: "/ccmar266.3.jpg",
+    category: "Psychology",
+    readTime: "10 Min Read",
+    title: "Mother's Day Anxiety: Why This Holiday Feels So Stressful (And How to Handle It)",
+    description: "If Mother's Day makes you anxious instead of happy, you're not ungrateful. You're dealing with pressure to perform happiness and complicated family dynamics.",
+    href: "/articles/mothers-day-anxiety-why-this-holiday-feels-so-stressful"
+  },
+  {
     image: "/val_article1.jpg",
     category: "Relationships",
     readTime: "6 Min Read",
@@ -68,7 +92,7 @@ const articles = [
     category: "Sleep Science",
     readTime: "7 Min Read",
     title: "Why You Wake Up at 3AM Every Night (And How to Stop It)",
-    description: "That wide-awake-at-3AM feeling isn't random insomnia, it's a cortisol spike your body doesn't know how to stop.",
+    description: "That wide-awake-at-3AM feeling isn't random insomnia, it's a cortisol spike your body doesn&#39;t know how to stop.",
     href: "/articles/why-you-wake-up-at-3am-every-night"
   },
   {
