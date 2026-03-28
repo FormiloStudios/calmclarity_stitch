@@ -4,6 +4,8 @@ import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
+import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
 
 const articles = [
   {
@@ -32,7 +34,14 @@ const articles = [
   }
 ];
 
-export default function JournalPage3() {
+export default async function JournalPage3() {
+    const cookieStore = await cookies();
+    const canSeeDrafts = cookieStore.get('dev_access')?.value === 'true';
+
+    if (!canSeeDrafts) {
+        redirect('/');
+    }
+
     return (
         <>
             <ScrollObserver />

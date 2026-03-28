@@ -6,8 +6,15 @@ import { NewsletterSection } from "@/components/NewsletterSection";
 import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
+import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
 
-export default function ArticlePage() {
+export default async function ArticlePage() {
+    const cookieStore = await cookies();
+    if (cookieStore.get('dev_access')?.value !== 'true') {
+        redirect('/');
+    }
+
     return (
         <>
             <Nav />
