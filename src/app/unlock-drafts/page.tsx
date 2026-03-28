@@ -20,7 +20,8 @@ function UnlockDraftsContent() {
             document.cookie = `dev_access=true; path=/; expires=${expirationDate.toUTCString()}; SameSite=Lax`;
             
             // Redirect to the first draft page (Journal 3)
-            router.push('/journal/3');
+            // Using window.location.href to ensure a full refresh so Middleware sees the new cookie
+            window.location.href = '/journal/3';
         } else if (secret) {
             // Incorrect secret
             alert('Incorrect secret key.');
