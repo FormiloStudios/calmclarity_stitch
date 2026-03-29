@@ -1,11 +1,13 @@
+'use client';
+
+import { useEffect, useState } from 'react';
+import { useRouter } from 'next/navigation';
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
-import { cookies } from "next/headers";
-import { redirect } from "next/navigation";
 
 const articles = [
   {
@@ -34,13 +36,19 @@ const articles = [
   }
 ];
 
-export default async function JournalPage3() {
-    const cookieStore = await cookies();
-    const canSeeDrafts = cookieStore.get('dev_access')?.value === 'true';
+export default function JournalPage3() {
+    const [authorized, setAuthorized] = useState(false);
+    const router = useRouter();
 
-    if (!canSeeDrafts) {
-        redirect('/');
-    }
+    useEffect(() => {
+        if (localStorage.getItem('dev_access') === 'true') {
+            setAuthorized(true);
+        } else {
+            router.push('/');
+        }
+    }, [router]);
+
+    if (!authorized) return <div className="min-h-screen bg-white dark:bg-slate-950" />;
 
     return (
         <>

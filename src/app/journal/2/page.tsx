@@ -1,10 +1,12 @@
+'use client';
+
+import { useEffect, useState } from 'react';
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { ArticleCard } from "@/components/ArticleCard";
 import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
-import { cookies } from "next/headers";
 
 const articles = [
     {
@@ -105,9 +107,14 @@ const articles = [
     }
 ];
 
-export default async function JournalPage2() {
-    const cookieStore = await cookies();
-    const canSeeDrafts = cookieStore.get('dev_access')?.value === 'true';
+export default function JournalPage2() {
+    const [canSeeDrafts, setCanSeeDrafts] = useState(false);
+
+    useEffect(() => {
+        if (localStorage.getItem('dev_access') === 'true') {
+            setCanSeeDrafts(true);
+        }
+    }, []);
 
     return (
         <>

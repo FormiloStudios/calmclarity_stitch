@@ -1,3 +1,7 @@
+'use client';
+
+import { useEffect, useState } from 'react';
+import { useRouter } from 'next/navigation';
 import Image from "next/image";
 import Link from "next/link";
 import { Nav } from "@/components/Nav";
@@ -6,14 +10,20 @@ import { NewsletterSection } from "@/components/NewsletterSection";
 import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
-import { cookies } from "next/headers";
-import { redirect } from "next/navigation";
 
-export default async function ArticlePage() {
-    const cookieStore = await cookies();
-    if (cookieStore.get('dev_access')?.value !== 'true') {
-        redirect('/');
-    }
+export default function ArticlePage() {
+    const [authorized, setAuthorized] = useState(false);
+    const router = useRouter();
+
+    useEffect(() => {
+        if (localStorage.getItem('dev_access') === 'true') {
+            setAuthorized(true);
+        } else {
+            router.push('/');
+        }
+    }, [router]);
+
+    if (!authorized) return <div className="min-h-screen bg-white dark:bg-slate-950" />;
 
     return (
         <>
@@ -112,7 +122,7 @@ export default async function ArticlePage() {
                         <p>You don&#39;t owe anyone a perfect Mother&#39;s Day or a flawless performance. What you owe yourself is honesty and protection. Mother&#39;s Day will come and go, but you have to live with yourself after. Set the boundaries you need, feel the real emotions, and let that be enough.</p>
                     </div>
 
-                    <ShareSection title="Mother's Day Anxiety: Why This Holiday Feels So Stressful (And How to Handle It)" />
+                    <ShareSection title="Mother&#39;s Day Anxiety: Why This Holiday Feels So Stressful (And How to Handle It)" />
                     <CommentsSection articleId="mothers-day-anxiety" />
                 </article>
             </main>
