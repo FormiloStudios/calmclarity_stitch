@@ -180,7 +180,7 @@ export default function ArticlePage() {
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">At $7, currently half their regular price, these are the easiest recommendation on this list. With 58,000 reviews at 4.4 stars, they are the gold standard for daily screen use without the &quot;computer glasses&quot; look.</p>
-                                        <a href="https://amzn.to/40JpzKF" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/40JpzKF" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">View on Amazon</a>
                                     </div>
                                 </div>
                             </section>
@@ -206,7 +206,7 @@ export default function ArticlePage() {
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">Ideal for families or anyone who tends to misplace things. High quality consistency across all six pairs with flexible, durable frames.</p>
-                                        <a href="https://amzn.to/3NHBcP5" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/3NHBcP5" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">View on Amazon</a>
                                     </div>
                                 </div>
                             </section>
