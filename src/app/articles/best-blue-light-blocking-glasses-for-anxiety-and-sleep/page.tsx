@@ -31,7 +31,7 @@ export default function ArticlePage() {
         <>
             <Nav />
             <main className="pt-32 pb-24 text-slate-900 dark:text-slate-100">
-                <article className="max-w-4xl mx-auto px-6">
+                <article className="max-w-4xl mx-auto px-6 font-sans">
                     {/* Header */}
                     <header className="mb-12 text-center">
                         <span className="text-xs font-bold tracking-[0.2em] uppercase text-primary mb-4 block">
@@ -117,8 +117,8 @@ export default function ArticlePage() {
                         <p>The lens color determines everything about when and how to use them - and a clear lens glasses worn before bed will provide almost no sleep benefit, while amber glasses worn during work will distort your color perception unnecessarily.</p>
 
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 my-16 text-center">
-                            <div className="p-8 bg-white dark:bg-slate-900 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-sm outline outline-1 outline-slate-100 dark:outline-slate-800">
-                                <div className="w-16 h-16 bg-slate-100 rounded-full mx-auto mb-6 flex items-center justify-center">👓</div>
+                            <div className="p-8 bg-white dark:bg-slate-900 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-sm">
+                                <div className="w-16 h-16 bg-slate-100 dark:bg-slate-800 rounded-full mx-auto mb-6 flex items-center justify-center">👓</div>
                                 <h4 className="font-bold mb-4 uppercase text-xs tracking-widest text-primary">Clear Lenses</h4>
                                 <p className="text-sm text-slate-600 dark:text-slate-400">Block 20-40%. Designed for daytime screen work without altering color perception. Not effective for sleep.</p>
                             </div>
@@ -138,25 +138,25 @@ export default function ArticlePage() {
 
                         <h2 id="when-to-wear" className="font-display text-4xl font-bold mt-16 mb-8 text-center uppercase tracking-tighter leading-none">When to Wear Them</h2>
                         
-                        <div className="space-y-12 my-12 border-l-2 border-slate-100 dark:border-slate-800 pl-12 ml-4 relative">
+                        <div className="space-y-12 my-12 border-l-2 border-slate-100 dark:border-slate-800 pl-12 ml-4 relative text-slate-700 dark:text-slate-300">
                             <div className="relative">
                                 <div className="absolute -left-[calc(3rem+6px)] top-2 w-4 h-4 bg-primary rounded-full ring-8 ring-white dark:ring-slate-950"></div>
                                 <h4 className="font-display text-2xl font-bold mb-2">Morning (6am-12pm)</h4>
-                                <p className="text-slate-600 dark:text-slate-300"><strong>Don&#39;t wear them.</strong> Morning blue light from sunlight helps set your circadian clock. Blocking it can disrupt your sleep-wake cycle.</p>
+                                <p><strong>Don&#39;t wear them.</strong> Morning blue light from sunlight helps set your circadian clock. Blocking it can disrupt your sleep-wake cycle.</p>
                             </div>
                             <div className="relative">
                                 <div className="absolute -left-[calc(3rem+6px)] top-2 w-4 h-4 bg-slate-200 dark:bg-slate-700 rounded-full ring-8 ring-white dark:ring-slate-950"></div>
                                 <h4 className="font-display text-2xl font-bold mb-2">Daytime (12pm-6pm)</h4>
-                                <p className="text-slate-600 dark:text-slate-300"><strong>Clear lenses</strong> if you feel eye strain. The benefit is modest but the risk is zero.</p>
+                                <p><strong>Clear lenses</strong> if you feel eye strain. The benefit is modest but the risk is zero.</p>
                             </div>
                             <div className="relative">
                                 <div className="absolute -left-[calc(3rem+6px)] top-2 w-4 h-4 bg-amber-500 rounded-full ring-8 ring-white dark:ring-slate-950"></div>
                                 <h4 className="font-display text-2xl font-bold mb-2">Evening (6pm-Bedtime)</h4>
-                                <p className="text-slate-600 dark:text-slate-300">Switch to <strong>Amber lenses</strong>. Target: 2 hours before sleep. Consistency matters more than duration.</p>
+                                <p>Switch to <strong>Amber lenses</strong>. Target: 2 hours before sleep. Consistency matters more than duration.</p>
                             </div>
                         </div>
 
-                        <h2 className="font-display text-4xl md:text-5xl lg:text-7xl font-bold mt-44 mb-24 text-center leading-tighter uppercase tracking-tighter">8 Best Blue Light Glasses Compared</h2>
+                        <h2 className="font-display text-4xl md:text-5xl lg:text-7xl font-bold mt-44 mb-24 text-center leading-tighter uppercase tracking-tighter">The 8 Best Pairs Compared</h2>
 
                         <div className="space-y-64">
                             {/* Product 1: TIJN (ccmar266.1c.jpg) */}
@@ -171,16 +171,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">The most socially validated pair on Amazon, combining retro-square style with genuine daytime relief.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$7</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Blocking</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Blocking</span>
                                                 <span className="font-bold text-lg leading-none font-display">Day / Yellow</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">At $7, currently half their regular price, these are the easiest recommendation on this list. With 58,000 reviews at 4.4 stars, they are the gold standard for daily screen use without the &quot;computer glasses&quot; look.</p>
-                                        <a href="https://amzn.to/40JpzKF" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/40JpzKF" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -197,16 +197,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">Six pairs for $12 works out to $2 per pair - keep one in every room.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$12 (Total)</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Quantity</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Quantity</span>
                                                 <span className="font-bold text-lg leading-none font-display">6 Pairs</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">Ideal for families or anyone who tends to misplace things. High quality consistency across all six pairs with flexible, durable frames.</p>
-                                        <a href="https://amzn.to/3NHBcP5" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/3NHBcP5" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -223,16 +223,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">Endurance and reliability for 6-8 hours of daily office work.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$15</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Warranty</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Warranty</span>
                                                 <span className="font-bold text-lg leading-none font-display">Lifetime</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">Polycarbonate lenses are 60x more impact-resistant than glass. Includes anti-glare coating and the best lifetime warranty on this list.</p>
-                                        <a href="https://amzn.to/4bP4KCK" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/4bP4KCK" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -249,16 +249,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">The most recommended budget amber lens for serious melatonin preservation.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$20</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Blocking</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Blocking</span>
                                                 <span className="font-bold text-lg leading-none font-display">98% Blue</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">Technically safety glasses, they absorb almost all blue light. They aren&#39;t stylish but they work better than anything under $100 for sleep optimization.</p>
-                                        <a href="https://amzn.to/3PCDDTH" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/3PCDDTH" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -275,16 +275,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">7-layer anti-reflective coating targets the glare that kills your end-of-day concentration.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$29</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Coating</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Coating</span>
                                                 <span className="font-bold text-lg leading-none font-display">7-Layer AR</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">Includes two lens options (LCD clear or HD amber) and premium spring hinges for zero pinching during 8+ hour sessions.</p>
-                                        <a href="https://amzn.to/47KTu92" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/47KTu92" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -301,16 +301,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">Maximum blocking including peripheral light that standard frames miss.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$36</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Blocking</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Blocking</span>
                                                 <span className="font-bold text-lg leading-none font-display">99.9%</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">The wraparound TR90 frame ensures no blue light enters from the sides or top. The serious sleep tool at a non-serious price.</p>
-                                        <a href="https://amzn.to/4smWGjv" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/4smWGjv" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -327,16 +327,16 @@ export default function ArticlePage() {
                                         <p className="text-lg text-slate-700 dark:text-slate-300 mb-8 leading-relaxed italic">Safe, flexible silicone for children 6-15 whose eyes are more sensitive to blue light.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$25</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Weight</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Weight</span>
                                                 <span className="font-bold text-lg leading-none font-display">17.5g</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 text-slate-600 dark:text-slate-400">Built to bend rather than snap. Targets the 380-450nm range most harmful to developing retinas during tablet and game use.</p>
-                                        <a href="https://amzn.to/4sZ4h7F" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/4sZ4h7F" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -353,16 +353,16 @@ export default function ArticlePage() {
                                         <p className="text-lg mb-8 leading-relaxed italic">The most recognized luxury choice in the sleep optimization community.</p>
                                         <div className="grid grid-cols-2 gap-8 mb-10 text-sm border-t border-slate-100 dark:border-slate-800 pt-8">
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Price</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Price</span>
                                                 <span className="font-bold text-lg leading-none font-display">$130</span>
                                             </div>
                                             <div>
-                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans">Blocking</span>
+                                                <span className="block opacity-40 uppercase text-[0.6rem] font-bold tracking-widest mb-2 font-sans font-bold">Blocking</span>
                                                 <span className="font-bold text-lg leading-none font-display">99%+</span>
                                             </div>
                                         </div>
                                         <p className="mb-10 opacity-70">Block 99%+ from 400-500nm in a frame you&#39;ll be proud to keep on your nightstand. Includes the 47-Day Habit Hacker program.</p>
-                                        <a href="https://amzn.to/4uNlLFO" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-white text-center px-12 py-5 rounded-full font-bold uppercase text-[0.75rem] tracking-[0.3em] shadow-xl hover:scale-105 transition-all">Check Price on Amazon →</a>
+                                        <a href="https://amzn.to/4uNlLFO" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Check Price on Amazon →</a>
                                     </div>
                                 </div>
                             </section>
@@ -399,7 +399,7 @@ export default function ArticlePage() {
                         </div>
 
                         <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto mb-20 italic">
-                            <div className="uppercase tracking-[0.6em] text-[0.65rem] font-bold mb-8 opacity-40 font-sans not-italic">Final Evaluation</div>
+                            <div className="uppercase tracking-[0.6em] text-[0.65rem] font-bold mb-8 opacity-40 font-sans not-italic font-bold">Final Evaluation</div>
                             <h2 className="font-display text-5xl md:text-6xl font-bold mb-8 leading-none uppercase tracking-tighter">The Verdict</h2>
                             <p className="text-xl max-w-2xl mx-auto opacity-70 leading-relaxed font-light">One evening tells you how they feel. Two consistent weeks tells you what they actually do to your sleep.</p>
                         </div>
