@@ -56,12 +56,14 @@ export default function ArticlePage() {
                                 You have a presentation tomorrow. A job interview. A difficult conversation. An event that matters. And your stomach is already upset.
                             </p>
                         </div>
-                        <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-2xl rotate-1">
+                        <div className="lg:w-1/2 relative w-full rounded-2xl overflow-hidden shadow-2xl rotate-1">
                             <Image
                                 src="/ccmar266.2.jpg"
                                 alt="Nervous stomach"
-                                fill
-                                className="object-cover"
+                                width={800}
+                                height={1000}
+                                className="w-full h-auto"
+                                unoptimized
                             />
                         </div>
                     </div>
@@ -79,13 +81,15 @@ export default function ArticlePage() {
                         <p>Your amygdala (the fear center) activates. Stress hormones flood your system. And your body prepares to fight or run. Part of that preparation involves shutting down your digestive system. Because if you&#39;re about to fight a predator, your body doesn&#39;t want to waste energy digesting breakfast. It redirects blood flow away from your gut and toward your muscles and brain.</p>
                         <p>The problem is, there&#39;s no predator. There&#39;s just a meeting. But your body doesn&#39;t know the difference. So your digestion slows or stops. Food sits in your stomach. Acid builds up. Your intestines cramp. And you feel sick.</p>
 
-                        {/* Image: ccmar214.1a.jpg (The Highway) */}
-                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-2xl my-16 group">
+                        {/* Image: ccmar266.2a.jpg (The Highway) */}
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl my-16 group">
                             <Image
                                 src="/ccmar266.2a.jpg"
                                 alt="Gut-brain connection"
-                                fill
-                                className="object-cover transition-transform duration-700 group-hover:scale-105"
+                                width={1200}
+                                height={675}
+                                className="w-full h-auto transition-transform duration-700 group-hover:scale-105"
+                                unoptimized
                             />
                         </div>
 
@@ -128,13 +132,15 @@ export default function ArticlePage() {
                         <p>If you&#39;re dealing with pre-event stomach upset regularly, your gut microbiome is probably out of balance. A probiotic designed specifically for the gut-brain-mood connection can help. Garden of Life&#39;s Mood+ Probiotics includes 50 billion CFU of beneficial bacteria, plus ashwagandha - an adaptogen that helps your body manage stress. The probiotic strains in this formula have been clinically studied for their ability to support mood and relaxation while also improving digestive health.</p>
                         <p>This isn&#39;t a quick fix for today&#39;s event. But taken consistently, it helps rebalance your gut microbiome so your gut-brain axis isn&#39;t so reactive. Over time, your stomach stops treating every important event like an emergency.</p>
 
-                        {/* Image: ccmar214.1b.jpg (Relief) */}
-                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-2xl my-16 group">
+                        {/* Image: ccmar266.2b.jpg (Relief) */}
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl my-16 group">
                             <Image
                                 src="/ccmar266.2b.jpg"
                                 alt="Gut health relief"
-                                fill
-                                className="object-cover transition-transform duration-700 group-hover:scale-105"
+                                width={1200}
+                                height={675}
+                                className="w-full h-auto transition-transform duration-700 group-hover:scale-105"
+                                unoptimized
                             />
                         </div>
 

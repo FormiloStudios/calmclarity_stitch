@@ -56,12 +56,14 @@ export default function ArticlePage() {
                                 Mother&#39;s Day is supposed to be simple. You show up. You give a gift. You say the right things. Everyone smiles. It&#39;s nice. Except it&#39;s not that simple. And it&#39;s rarely nice.
                             </p>
                         </div>
-                        <div className="lg:w-1/2 relative aspect-[4/5] w-full rounded-2xl overflow-hidden shadow-2xl rotate-1">
+                        <div className="lg:w-1/2 relative w-full rounded-2xl overflow-hidden shadow-2xl rotate-1">
                             <Image
                                 src="/ccmar266.3.jpg"
                                 alt="Quiet reflection"
-                                fill
-                                className="object-cover"
+                                width={800}
+                                height={1000}
+                                className="w-full h-auto"
+                                unoptimized
                             />
                         </div>
                     </div>
@@ -80,12 +82,14 @@ export default function ArticlePage() {
                         <p>The guilt is exhausting. Because even when you do everything right, it doesn&#39;t always feel like enough. And when it doesn&#39;t go perfectly, you replay it for days.</p>
 
                         {/* Image: ccmar212.1a.jpg (The Minefield) */}
-                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-2xl my-16 group">
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl my-16 group">
                             <Image
                                 src="/ccmar266.3a.jpg"
                                 alt="The pressure of expectations"
-                                fill
-                                className="object-cover transition-transform duration-700 group-hover:scale-105"
+                                width={1200}
+                                height={675}
+                                className="w-full h-auto transition-transform duration-700 group-hover:scale-105"
+                                unoptimized
                             />
                         </div>
 

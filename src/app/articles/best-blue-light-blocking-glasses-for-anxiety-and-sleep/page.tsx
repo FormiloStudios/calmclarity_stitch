@@ -50,12 +50,14 @@ export default function ArticlePage() {
                     <AffiliateDisclosure />
 
                     {/* Image: ccmar266.1.jpg (Hero) */}
-                    <div className="relative aspect-[16/9] w-full rounded-2xl overflow-hidden shadow-2xl mb-16">
+                    <div className="relative w-full mb-16 rounded-2xl overflow-hidden shadow-2xl">
                         <Image
                             src="/ccmar266.1.jpg"
                             alt="Best Blue Light Blocking Glasses"
-                            fill
-                            className="object-cover"
+                            width={1600}
+                            height={900}
+                            className="w-full h-auto"
+                            unoptimized
                         />
                     </div>
 
@@ -75,12 +77,14 @@ export default function ArticlePage() {
                         <p>This mechanism is well-documented. The question is whether glasses that filter blue light reverse it meaningfully.</p>
 
                         {/* Image: ccmar266.1a.jpg (Science) */}
-                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-xl my-12">
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-xl my-12">
                             <Image
                                 src="/ccmar266.1a.jpg"
                                 alt="The Science of Blue Light"
-                                fill
-                                className="object-cover"
+                                width={1200}
+                                height={675}
+                                className="w-full h-auto"
+                                unoptimized
                             />
                         </div>
 
@@ -101,12 +105,14 @@ export default function ArticlePage() {
                         <p><strong>Amber or orange lenses</strong> block 85-99% of blue light. They have a visible yellow-orange tint that alters how colors appear. They&#39;re designed for evening use - put them on two hours before bed to preserve melatonin production and signal to your body that the day is ending. They are the lens type with the most plausible evidence for sleep benefits. They are not ideal for daytime work where color accuracy matters.</p>
 
                         {/* Image: ccmar266.1b.jpg (Lens Color Comparison) */}
-                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-xl my-12">
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-xl my-12">
                             <Image
                                 src="/ccmar266.1b.jpg"
                                 alt="Lens Color Comparison"
-                                fill
-                                className="object-cover"
+                                width={1200}
+                                height={675}
+                                className="w-full h-auto"
+                                unoptimized
                             />
                         </div>
 
@@ -165,8 +171,8 @@ export default function ArticlePage() {
                         {/* 1. TIJN */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1c.jpg" alt="TIJN Blue Light Glasses" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1c.jpg" alt="TIJN Blue Light Glasses" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">1. TIJN Blue Light Blocking Glasses</h3>
@@ -211,8 +217,8 @@ export default function ArticlePage() {
                         {/* 2. MIGSIR */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row-reverse">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1d.jpg" alt="MIGSIR 6-Pack" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1d.jpg" alt="MIGSIR 6-Pack" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">2. MIGSIR 6-Pack Blue Light Blocking Glasses</h3>
@@ -255,8 +261,8 @@ export default function ArticlePage() {
                         {/* 3. Cyxus */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1e.jpg" alt="Cyxus Blue Light Glasses" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1e.jpg" alt="Cyxus Blue Light Glasses" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">3. Cyxus Blue Light Blocking Glasses</h3>
@@ -297,8 +303,8 @@ export default function ArticlePage() {
                         {/* 4. Uvex */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row-reverse">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1f.jpg" alt="Uvex Skyper" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1f.jpg" alt="Uvex Skyper" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">4. Uvex Skyper Blue Light Blocking Glasses</h3>
@@ -339,8 +345,8 @@ export default function ArticlePage() {
                         {/* 5. J+S Vision */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1g.jpg" alt="J+S Vision" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1g.jpg" alt="J+S Vision" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">5. J+S Vision Blue Light Blocking Glasses</h3>
@@ -380,8 +386,8 @@ export default function ArticlePage() {
                         {/* 6. Spectra479 */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row-reverse">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1h.jpg" alt="Spectra479" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1h.jpg" alt="Spectra479" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">6. Spectra479 Blue Light Blocking Glasses</h3>
@@ -421,8 +427,8 @@ export default function ArticlePage() {
                         {/* 7. Cyxus Kids */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1i.jpg" alt="Cyxus Kids" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1i.jpg" alt="Cyxus Kids" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">7. Cyxus Kids Blue Light Blocking Glasses</h3>
@@ -464,8 +470,8 @@ export default function ArticlePage() {
                         {/* 8. Swanwick */}
                         <section className="mb-32 bg-slate-50 dark:bg-slate-900/50 rounded-[2.5rem] overflow-hidden border border-slate-100 dark:border-slate-800 shadow-xl transition-all hover:shadow-2xl">
                             <div className="flex flex-col md:flex-row-reverse">
-                                <div className="md:w-1/2 relative aspect-square">
-                                    <Image src="/ccmar266.1j.jpg" alt="Swanwick Night Swannies" fill className="object-cover" />
+                                <div className="md:w-1/2 relative">
+                                    <Image src="/ccmar266.1j.jpg" alt="Swanwick Night Swannies" width={800} height={800} className="w-full h-auto" unoptimized />
                                 </div>
                                 <div className="md:w-1/2 p-12 flex flex-col justify-center">
                                     <h3 className="font-display text-4xl font-bold mb-6">8. Swanwick Crystal Night Swannies</h3>
