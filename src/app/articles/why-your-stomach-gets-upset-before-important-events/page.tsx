@@ -49,7 +49,7 @@ export default function ArticlePage() {
 
                     <AffiliateDisclosure />
 
-                    {/* Image: ccmar214.1.jpg (Header) */}
+                    {/* Image: ccmar266.2.jpg (Header) */}
                     <div className="flex flex-col lg:flex-row gap-12 items-center mb-20 text-slate-700 dark:text-slate-300">
                         <div className="lg:w-1/2">
                             <p className="text-xl md:text-2xl leading-relaxed font-display italic">
@@ -93,7 +93,7 @@ export default function ArticlePage() {
                             />
                         </div>
 
-                        <h2 className="font-display text-4xl font-bold mt-12 mb-4 uppercase tracking-tighter">Your Gut Bacteria Are Listening Too</h2>
+                        <h2 className="font-display text-4xl font-bold mt-16 mb-8 uppercase tracking-tighter">Your Gut Bacteria Are Listening Too</h2>
                         <p>Your gut contains trillions of bacteria - your microbiome. And these bacteria produce neurotransmitters that affect your mood and anxiety levels. When you&#39;re chronically anxious, your gut bacteria composition shifts. The balance tips toward bacteria that produce more inflammatory compounds and fewer calming neurotransmitters like serotonin.</p>
                         <p>That means anxiety doesn&#39;t just affect your gut in the moment. Over time, it changes the bacterial ecosystem in your gut, which then feeds back and makes you more anxious. It&#39;s a loop. Your brain stresses your gut. Your gut microbiome shifts. The shifted microbiome sends signals back to your brain that increase anxiety. Which stresses your gut more. And events - presentations, interviews, social situations - trigger this loop intensely and suddenly.</p>
 
@@ -153,8 +153,7 @@ export default function ArticlePage() {
                         <p>Gut Vita is a comprehensive gut support formula designed to address all three issues. It works in three steps: clearing waste buildup that&#39;s causing sluggishness, nourishing the muscles of your digestive tract to restore normal rhythm, and reinforcing your microbiome with live probiotic strains. It&#39;s not a same-day solution. But if you&#39;re tired of your stomach sabotaging you before every important event, this is the kind of foundational support that helps your gut-brain connection stop being so reactive.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Lower Your Baseline Nervous System Activation</h3>
-                        <p>Here&#39;s the thing: if your nervous system is already running hot, even small stressors feel huge. An event that should register as &quot;mildly stressful&quot; gets amplified into &quot;full-body panic,&quot; and your gut responds accordingly.</p>
-                        <p>Magnesium helps regulate your stress response at the baseline level. When you take it consistently, your nervous system doesn&#39;t spike as easily. Events still feel important, but your body doesn&#39;t interpret them as life-threatening. That means your gut-brain signals stay proportional to the actual stress level instead of overreacting.</p>
+                        <p>Here&#39;s the thing: if your nervous system is already running hot, even small stressors feel huge. An event that should register as &quot;mildly stressful&quot; gets amplified into &quot;full-body panic,&quot; and your gut responds accordingly. Magnesium helps regulate your stress response at the baseline level. When you take it consistently, your nervous system doesn&#39;t spike as easily. Events still feel important, but your body doesn&#39;t interpret them as life-threatening. That means your gut-brain signals stay proportional to the actual stress level instead of overreacting.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Rebuild Your Gut Over Time</h3>
                         <p>If this has been going on for months or years, your gut needs more than just probiotics. DigestSync is designed to support long-term gut healing. It works on the gut lining, digestion, and microbiome balance simultaneously - addressing the root dysfunction that makes your gut so reactive to stress. Think of it as rebuilding the infrastructure. Probiotics repopulate the bacteria. But if the environment is still damaged, the bacteria can&#39;t thrive. DigestSync repairs the environment so the beneficial bacteria can actually do their job.</p>
@@ -163,12 +162,12 @@ export default function ArticlePage() {
                             <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none">It&#39;s Not Just &quot;Nerves&quot;</h2>
                             <p className="opacity-70 leading-relaxed font-light mb-8 italic">People will tell you it&#39;s just nerves. That you need to relax. That everyone gets a little nervous before important things. But what you&#39;re experiencing isn&#39;t normal nervousness. It&#39;s a gut-brain connection that&#39;s stuck in overdrive, treating every stressful event like a survival threat.</p>
                             <p className="text-2xl font-bold uppercase tracking-tighter leading-tight italic">You&#39;re not broken. Your gut and brain are just communicating too intensely, and that communication is making you physically sick. With the right support - breathing techniques, microbiome rebalancing, gut healing - you can calm that connection.</p>
-                            <p className="mt-8 text-3xl font-display font-bold uppercase tracking-tighter italic">Events will still feel important. But your stomach won&#39;t sabotage you every time something matters. You&#39;ll just... show up. And do the thing. Without your gut betraying you first.</p>
+                            <p className="mt-8 text-3xl font-display font-bold uppercase tracking-tighter italic">Events will still feel important. But your stomach won&#39;t sabotage you every time something matters. Your gut-brain axis can learn to respond proportionally again. And when it does, you&#39;ll stop spending the morning of every important event trapped in the bathroom or fighting nausea. You&#39;ll just... show up. And do the thing. Without your gut betraying you first.</p>
                         </div>
                     </div>
 
                     <ShareSection title="Why Your Stomach Gets Upset Before Important Events" />
-                    <CommentsSection articleId="stomach-upset-anxiety" />
+                    <CommentsSection articleId="stomach-upset-before-events" />
                 </article>
             </main>
             <NewsletterSection />
