@@ -130,6 +130,9 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Support Your Gut-Brain Microbiome Balance</h3>
                         <p>If you&#39;re dealing with pre-event stomach upset regularly, your gut microbiome is probably out of balance. A probiotic designed specifically for the gut-brain-mood connection can help. Garden of Life&#39;s Mood+ Probiotics includes 50 billion CFU of beneficial bacteria, plus ashwagandha - an adaptogen that helps your body manage stress. The probiotic strains in this formula have been clinically studied for their ability to support mood and relaxation while also improving digestive health.</p>
+                        <div className="my-10">
+                            <a href="https://amzn.to/4lPZbZa" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">View on Amazon</a>
+                        </div>
                         <p>This isn&#39;t a quick fix for today&#39;s event. But taken consistently, it helps rebalance your gut microbiome so your gut-brain axis isn&#39;t so reactive. Over time, your stomach stops treating every important event like an emergency.</p>
 
                         {/* Image: ccmar266.2b.jpg (Relief) */}
@@ -146,17 +149,35 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Calm Immediate Nausea With Peppermint</h3>
                         <p>If you&#39;re dealing with active nausea or cramping right now, peppermint oil can help. Peppermint relaxes the smooth muscles in your digestive tract. It eases cramping, reduces nausea, and helps food move through your system instead of sitting heavily in your stomach.</p>
+                        <div className="my-10">
+                            <a href="https://amzn.to/4uSnvOg" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">View on Amazon</a>
+                        </div>
                         <p>Mason Natural Peppermint Oil capsules are enteric-coated, which means they don&#39;t dissolve in your stomach - they dissolve in your intestines, where they&#39;re most effective. Take one capsule 30-60 minutes before the event. If capsules feel like too much when you&#39;re already nauseous, brew a cup of peppermint or chamomile tea instead. Chamomile has a similar calming effect on the gut and also helps reduce overall anxiety. Sip it slowly while you&#39;re getting ready.</p>
+                        <div className="flex flex-col sm:flex-row gap-4 my-10">
+                            <a href="https://amzn.to/4suWJdf" target="_blank" rel="noopener noreferrer" className="flex-1 text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">View Chamomile Tea</a>
+                            <a href="https://amzn.to/4bKBPiU" target="_blank" rel="noopener noreferrer" className="flex-1 text-center border-2 border-slate-900 dark:border-white text-slate-900 dark:text-white py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-slate-900 transition-all">View Digestive Enzymes</a>
+                        </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Address the Underlying Gut Dysfunction</h3>
                         <p>If your stomach reacts this intensely to stress, there&#39;s usually an underlying issue beyond just anxiety. Your gut might be inflamed. Your digestive enzymes might be depleted. Your gut lining might be compromised from months or years of chronic stress.</p>
+                        <div className="flex flex-col sm:flex-row gap-4 my-10">
+                            <a href="https://0ab477q7ieodh923xd0f648mfq.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="flex-1 text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Explore Gut Vita</a>
+                            <a href="https://hop.clickbank.net/?affiliate=clickcham&vendor=gutoptim&cbpage=tsl&affop=1" target="_blank" rel="noopener noreferrer" className="flex-1 text-center border-2 border-slate-900 dark:border-white text-slate-900 dark:text-white py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-slate-900 transition-all">Try Gut Optim</a>
+                        </div>
                         <p>Gut Vita is a comprehensive gut support formula designed to address all three issues. It works in three steps: clearing waste buildup that&#39;s causing sluggishness, nourishing the muscles of your digestive tract to restore normal rhythm, and reinforcing your microbiome with live probiotic strains. It&#39;s not a same-day solution. But if you&#39;re tired of your stomach sabotaging you before every important event, this is the kind of foundational support that helps your gut-brain connection stop being so reactive.</p>
+                        <div className="my-10">
+                            <a href="https://67d266y6rghahbf1g5xwk60w20.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="inline-block w-full text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Try BellyFlush</a>
+                        </div>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Lower Your Baseline Nervous System Activation</h3>
                         <p>Here&#39;s the thing: if your nervous system is already running hot, even small stressors feel huge. An event that should register as &quot;mildly stressful&quot; gets amplified into &quot;full-body panic,&quot; and your gut responds accordingly. Magnesium helps regulate your stress response at the baseline level. When you take it consistently, your nervous system doesn&#39;t spike as easily. Events still feel important, but your body doesn&#39;t interpret them as life-threatening. That means your gut-brain signals stay proportional to the actual stress level instead of overreacting.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Rebuild Your Gut Over Time</h3>
                         <p>If this has been going on for months or years, your gut needs more than just probiotics. DigestSync is designed to support long-term gut healing. It works on the gut lining, digestion, and microbiome balance simultaneously - addressing the root dysfunction that makes your gut so reactive to stress. Think of it as rebuilding the infrastructure. Probiotics repopulate the bacteria. But if the environment is still damaged, the bacteria can&#39;t thrive. DigestSync repairs the environment so the beneficial bacteria can actually do their job.</p>
+                        <div className="flex flex-col sm:flex-row gap-4 my-10">
+                            <a href="https://064371m7v-r2pckv-g26rk1b2e.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="flex-1 text-center bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] shadow-2xl hover:bg-primary hover:text-white transition-all">Try DigestSync</a>
+                            <a href="https://d0a3dzhdpbtep042-32a26s95d.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="flex-1 text-center border-2 border-slate-900 dark:border-white text-slate-900 dark:text-white py-6 rounded-full font-bold uppercase text-[0.85rem] tracking-[0.4em] hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-slate-900 transition-all">Try GutGo</a>
+                        </div>
 
                         <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
                             <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none">It&#39;s Not Just &quot;Nerves&quot;</h2>
