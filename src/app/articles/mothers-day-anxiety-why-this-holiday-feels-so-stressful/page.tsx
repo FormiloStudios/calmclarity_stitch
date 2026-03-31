@@ -135,13 +135,15 @@ export default function ArticlePage() {
                         <p>If you&#39;re spending the day trying to suppress the &quot;wrong&quot; emotions and only express the &quot;right&quot; ones, you&#39;re going to be miserable. Let yourself feel what you actually feel. You don&#39;t have to perform happiness if you&#39;re not happy.</p>
                         <p>If navigating difficult emotions feels impossible - if you&#39;re constantly trying to fight them down or make them go away - that&#39;s also a skill you can learn. The Befriend Difficult Emotions course from Mindful teaches you how to work with hard feelings instead of against them. It&#39;s designed for people who are tired of pretending everything is fine when it&#39;s not.</p>
 
-                        {/* Image: ccmar212.1b.jpg (Recovery) */}
-                        <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-2xl my-16 group border border-slate-100 dark:border-slate-800">
+                        {/* Image: ccmar266.3b.jpg (Recovery) */}
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl my-16 group border border-slate-100 dark:border-slate-800">
                             <Image
-                                src="/ccmar212.1b.jpg"
+                                src="/ccmar266.3b.jpg"
                                 alt="Self-care and recovery"
-                                fill
-                                className="object-cover transition-transform duration-700 group-hover:scale-105"
+                                width={1200}
+                                height={675}
+                                className="w-full h-auto transition-transform duration-700 group-hover:scale-105"
+                                unoptimized
                             />
                         </div>
 
