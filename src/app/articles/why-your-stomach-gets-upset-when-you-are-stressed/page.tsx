@@ -21,8 +21,6 @@ export default function ArticlePage() {
                             Why Your Stomach Gets Upset When You&#39;re Stressed (The Gut-Brain Connection)
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
-                            <span>6 Min Read</span>
-                            <span className="w-1 h-1 bg-current rounded-full"></span>
                             <span>February 2026</span>
                         </div>
                     </header>
@@ -92,7 +90,7 @@ export default function ArticlePage() {
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4">Support Your Gut Directly</h3>
                         <p>If stress has thrown off your digestion, you need to give your gut what it needs to restore balance.</p>
-                        <p><a href="https://4vitahealth.com/sp/gutgo-dg/#aff=Select_partner" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Gut Go</a> and <a href="https://af7d86x8jch3icc49m-a3x0ubk.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Gut Vita</a> are both designed to support healthy digestion and the gut-brain connection. They help restore the balance of bacteria in your gut and support the vagus nerve pathway between your gut and brain.</p>
+                        <p><a href="https://dcfc75ycggm8d6170qkcct6m60.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Gut Go</a> and <a href="https://af7d86x8jch3icc49m-a3x0ubk.hop.clickbank.net" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-bold">Gut Vita</a> are both designed to support healthy digestion and the gut-brain connection. They help restore the balance of bacteria in your gut and support the vagus nerve pathway between your gut and brain.</p>
                         <p>When your gut is functioning better, it sends fewer stress signals to your brain. That helps break the anxiety-digestion feedback loop.</p>
 
                         <div className="relative aspect-video w-full rounded-2xl overflow-hidden shadow-lg my-12">

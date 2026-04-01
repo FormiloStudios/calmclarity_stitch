@@ -41,8 +41,6 @@ export default function ArticlePage() {
                             Mother&#39;s Day Anxiety: Why This Holiday Feels So Stressful (And How to Handle It)
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
-                            <span>18 Min Read</span>
-                            <span className="w-1 h-1 bg-current rounded-full"></span>
                             <span>March 2026</span>
                         </div>
                     </header>
@@ -127,13 +125,12 @@ export default function ArticlePage() {
                             <li>What topics are off-limits (your job, your relationship, your life choices)</li>
                             <li>What you&#39;ll do if she crosses a line (leave, change the subject, end the call)</li>
                         </ul>
-                        <p>If you struggle with setting boundaries - if you say yes when you mean no, if you let people guilt you into things you don&#39;t want to do, if you&#39;re always managing other people&#39;s feelings at your own expense - that&#39;s a skill you can build. The <a href="https://amzn.to/4bKBPiU" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Healthy Boundaries Toolkit</a> is a step-by-step guide created by a registered psychotherapist specifically for people who have trouble holding limits with family. It includes over 130 boundary-setting strategies and scripts for hard conversations - the exact words to use when someone pushes back or tries to make you feel guilty.</p>
+                        <p>If you struggle with setting boundaries - if you say yes when you mean no, if you let people guilt you into things you don&#39;t want to do, if you&#39;re always managing other people&#39;s feelings at your own expense - that&#39;s a skill you can build. The <a href="https://www.fleximind.ca/healthyboundsale58ywqk#aff=Select_partner" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Healthy Boundaries Toolkit</a> is a step-by-step guide created by a registered psychotherapist specifically for people who have trouble holding limits with family. It includes over 130 boundary-setting strategies and scripts for hard conversations - the exact words to use when someone pushes back or tries to make you feel guilty.</p>
                         <p>It&#39;s not about becoming cold or cutting people off. It&#39;s about protecting your peace so you can show up without destroying yourself.</p>
 
                         <h3 className="font-display text-2xl font-bold mt-12 mb-4 uppercase tracking-tight">Give Yourself Permission to Feel Complicated Emotions</h3>
                         <p>You don&#39;t have to feel only gratitude on Mother&#39;s Day. You can feel grateful and angry. Loving and resentful. Happy to see your mother and exhausted by her at the same time. Those contradictions are normal. Relationships - especially with mothers - are complicated.</p>
-                        <p>If you&#39;re spending the day trying to suppress the &quot;wrong&quot; emotions and only express the &quot;right&quot; ones, you&#39;re going to be miserable. Let yourself feel what you actually feel. You don&#39;t have to perform happiness if you&#39;re not happy.</p>
-                        <p>If navigating difficult emotions feels impossible - if you&#39;re constantly trying to fight them down or make them go away - that&#39;s also a skill you can learn. The <a href="https://mindful.shorthandstories.com/befriend-difficult-emotions/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Befriend Difficult Emotions</a> course from Mindful teaches you how to work with hard feelings instead of against them. It&#39;s designed for people who are tired of pretending everything is fine when it&#39;s not. You might also benefit from the <a href="https://mindful.shorthandstories.com/radical-self-care/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Radical Self-Care Course</a>.</p>
+                        <p>If you&#39;re spending the day trying to suppress the &quot;wrong&quot; emotions and only express the &quot;right&quot; ones, you&#39;re going to be miserable. Let yourself feel what you actually feel. You don&#39;t have to perform happiness if you&#39;re not happy. You might also benefit from the <a href="https://shop.mindful.org/products/radical-self-care-course?sca_ref=10870558.SjISUzYe2p" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:underline">Radical Self-Care Course</a>.</p>
 
                         {/* Image: ccmar266.3b.jpg (Recovery) */}
                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl my-16 group border border-slate-100 dark:border-slate-800">
