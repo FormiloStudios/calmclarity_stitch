@@ -68,7 +68,6 @@ const articles = [
     {
         image: "/ccmar262.2.jpg",
         category: "Physiology",
-        readTime: "7 Min Read",
         title: "Why Your Hands and Feet Are Always Cold",
         description: "It isn't just poor circulation—it's your nervous system prioritizing survival. Learn why your body shifts blood flow and how to signal safety.",
         href: "/articles/why-your-hands-and-feet-are-always-cold"
@@ -104,6 +103,27 @@ const articles = [
         title: "Why Your Brain Feels Foggy by 2 PM (And What Actually Helps)",
         description: "Mid-afternoon sluggishness isn't random. It's the result of resource depletion. Discover how to fuel your focus and lift the cotton-wrapped fog.",
         href: "/articles/why-your-brain-feels-foggy-by-2pm"
+    },
+    {
+        image: "/ccmar266.1.jpg",
+        category: "Sleep Science",
+        title: "Best Blue Light Blocking Glasses for Anxiety & Sleep (Compared)",
+        description: "Blue light from screens suppresses melatonin. For people managing anxiety, that alert state compounds stress. Here's exactly what's worth buying.",
+        href: "/articles/best-blue-light-blocking-glasses-for-anxiety-and-sleep"
+    },
+    {
+        image: "/ccmar266.2.jpg",
+        category: "Neurology",
+        title: "Why Your Stomach Gets Upset Before Important Events (The Gut-Brain Anxiety Connection)",
+        description: "That tight, knotted feeling in your stomach before a big event isn't just nervousness. It's your gut and brain communicating in a way that makes you physically ill.",
+        href: "/articles/why-your-stomach-gets-upset-before-important-events"
+    },
+    {
+        image: "/ccmar266.3.jpg",
+        category: "Psychology",
+        title: "Mother's Day Anxiety: Why This Holiday Feels So Stressful (And How to Handle It)",
+        description: "If Mother's Day makes you anxious instead of happy, you're not ungrateful. You're dealing with pressure to perform happiness and complicated family dynamics.",
+        href: "/articles/mothers-day-anxiety-why-this-holiday-feels-so-stressful"
     }
 ];
 
