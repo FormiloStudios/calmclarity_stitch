@@ -124,6 +124,20 @@ const articles = [
         title: "Mother's Day Anxiety: Why This Holiday Feels So Stressful (And How to Handle It)",
         description: "If Mother's Day makes you anxious instead of happy, you're not ungrateful. You're dealing with pressure to perform happiness and complicated family dynamics.",
         href: "/articles/mothers-day-anxiety-why-this-holiday-feels-so-stressful"
+    },
+    {
+        image: "/welllnesstools.jpg",
+        category: "Aromatherapy",
+        title: "Best Essential Oils for Anxiety (Compared): Single Oils, Blends & Roll-Ons",
+        description: "Discover the real science behind essential oils and which specific oils match your type of anxiety across single oils, blends, and convenient roll-ons.",
+        href: "/articles/best-essential-oils-for-anxiety-compared"
+    },
+    {
+        image: "/hero.png",
+        category: "Sleep Science",
+        title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
+        description: "Ripping yourself out of sleep with a blaring alarm spikes your cortisol. Learn how sunrise simulation anchors your circadian rhythm and reduces morning anxiety.",
+        href: "/articles/best-sunrise-alarm-clocks-for-anxiety-and-sleep"
     }
 ];
 
