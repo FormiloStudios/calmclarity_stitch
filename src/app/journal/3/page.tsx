@@ -9,7 +9,16 @@ import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
 
-const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [];
+const articles = [
+    {
+        image: "/ccmar277.1.jpg",
+        category: "Sleep & Reset",
+        readTime: "22 Min Read",
+        title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
+        description: "Waking up to a blaring alarm is a nervous system shock. We tested 6 clinically-backed sunrise clocks to find the gentlest way to start your day.",
+        href: "/articles/best-sunrise-alarm-clocks-for-anxiety-and-sleep"
+    }
+];
 
 export default function JournalPage3() {
     const [authorized, setAuthorized] = useState(false);
