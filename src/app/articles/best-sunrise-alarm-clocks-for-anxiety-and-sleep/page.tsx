@@ -49,10 +49,10 @@ export default function ArticlePage() {
 
                     <AffiliateDisclosure />
 
-                    {/* Image: ccmar277.1.jpg (Hero) */}
+                    {/* Image: sunriseclock_1.jpg (Hero) */}
                     <div className="relative w-full mb-16 rounded-2xl overflow-hidden shadow-2xl">
                         <Image
-                            src="/ccmar277.1.jpg"
+                            src="/sunriseclock_1.jpg"
                             alt="Best Sunrise Alarm Clocks"
                             width={1600}
                             height={900}
@@ -80,10 +80,10 @@ export default function ArticlePage() {
 
                         <p>Your body&#39;s master clock - the suprachiasmatic nucleus in your brain - is exquisitely sensitive to light. When light hits your retinas in the morning, it triggers a cascade of responses: melatonin production slows, cortisol begins rising (in a controlled, healthy way called the cortisol awakening response), and your body temperature starts climbing. These are the signals that move you from deep sleep toward lighter sleep stages and eventually wakefulness.</p>
 
-                        {/* Image: ccmar277.1a.jpg (Mechanism) */}
+                        {/* Image: sunriseclock_2.jpg (Mechanism) */}
                         <div className="relative w-full rounded-2xl overflow-hidden shadow-xl my-12 group">
                             <Image
-                                src="/ccmar277.1a.jpg"
+                                src="/sunriseclock_2.jpg"
                                 alt="Circadian rhythm and light"
                                 width={1200}
                                 height={675}
@@ -182,7 +182,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.1b.jpg" alt="Wake Up Light" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                                <Image src="/sunriseclock_3.jpg" alt="Wake Up Light" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -241,7 +241,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.1c.jpg" alt="REACHER Alarm" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                                <Image src="/sunriseclock_4.jpg" alt="REACHER Alarm" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -299,7 +299,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.1d.jpg" alt="Dreamegg" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                                <Image src="/sunriseclock_5.jpg" alt="Dreamegg" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -358,7 +358,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.1e.jpg" alt="Philips" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                                <Image src="/sunriseclock_6.jpg" alt="Philips" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -416,7 +416,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.1f.jpg" alt="LittleHippo" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                                <Image src="/sunriseclock_7.jpg" alt="LittleHippo" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -474,7 +474,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.1g.jpg" alt="Hatch Restore 3" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                                <Image src="/sunriseclock_8.jpg" alt="Hatch Restore 3" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -577,6 +577,9 @@ export default function ArticlePage() {
 
                         <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
                             <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none">Final Verdict</h2>
+                            <div className="relative w-full rounded-2xl overflow-hidden mb-12 shadow-md">
+                                <Image src="/sunriseclock_9.jpg" alt="Final Verdict" width={1000} height={563} className="w-full h-auto" unoptimized />
+                            </div>
                             <p>For most people, the <strong>Generic Wake Up Light at $33</strong> is the right starting point. It covers every core feature at a price that makes the experiment cost almost nothing. Use it consistently for two weeks and you&#39;ll know quickly whether waking up to gradual light changes how your mornings and anxiety levels feel.</p>
                             <p>If you want one device that handles both your sleep environment and your wake-up, <strong>REACHER at $37</strong> is the smarter purchase - 26 sleep sounds plus a sunrise clock for essentially the same price.</p>
                             <p>For clinical credibility and the added benefit of sunset simulation for your evening wind-down, <strong>Philips SmartSleep at $76</strong> is the step up that most clearly earns its higher price through evidence-backed performance.</p>
