@@ -11,18 +11,28 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
-        image: "/hero.png",
-        category: "Sleep Science",
-        title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
-        description: "Ripping yourself out of sleep with a blaring alarm spikes your cortisol. Learn how sunrise simulation anchors your circadian rhythm and reduces morning anxiety.",
-        href: "/articles/best-sunrise-alarm-clocks-for-anxiety-and-sleep"
+        image: "/ccmar277.2.jpg",
+        category: "Sleep & Reset",
+        readTime: "18 Min Read",
+        title: "Best White Noise Machines for Anxiety & Sleep (Compared)",
+        description: "Silence isn't always peaceful. Discover how consistent acoustic backdrops anchor the nervous system and help quiet the mental noise of anxiety.",
+        href: "/articles/best-white-noise-machines-for-anxiety-and-sleep"
     },
     {
-        image: "/welllnesstools.jpg",
-        category: "Aromatherapy",
-        title: "Best Essential Oils for Anxiety (Compared): Single Oils, Blends & Roll-Ons",
-        description: "Discover the real science behind essential oils and which specific oils match your type of anxiety across single oils, blends, and convenient roll-ons.",
+        image: "/ccmar277.3.jpg",
+        category: "Wellness",
+        readTime: "24 Min Read",
+        title: "Best Essential Oils for Anxiety (Compared)",
+        description: "That moment of calm isn't just placebo—it's biology. Learn which oils actually lower cortisol and how to use them effectively for anxiety management.",
         href: "/articles/best-essential-oils-for-anxiety-compared"
+    },
+    {
+        image: "/ccmar277.1.jpg",
+        category: "Sleep & Reset",
+        readTime: "22 Min Read",
+        title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
+        description: "Ripping yourself out of sleep spikes your cortisol. Discover how sunrise clocks solve this by simulating a natural morning, gradually anchoring your circadian rhythm.",
+        href: "/articles/best-sunrise-alarm-clocks-for-anxiety-and-sleep"
     }
 ];
 

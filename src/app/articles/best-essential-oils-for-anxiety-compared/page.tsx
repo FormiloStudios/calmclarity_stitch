@@ -47,10 +47,10 @@ export default function ArticlePage() {
 
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed max-w-none">
                         <p className="text-xl md:text-2xl leading-relaxed font-display italic mb-12 text-slate-700 dark:text-slate-300">
-                            You&#39;ve probably smelled lavender in a candle, a lotion, or a spa and felt something shift. That moment of calm isn&#39;t just nostalgia or placebo. There&#39;s a real biological mechanism behind it — and understanding it will help you use essential oils for anxiety far more effectively than most people do.
+                            You&#39;ve probably smelled lavender in a candle, a lotion, or a spa and felt something shift. That moment of calm isn&#39;t just nostalgia or placebo. There&#39;s a real biological mechanism behind it - and understanding it will help you use essential oils for anxiety far more effectively than most people do.
                         </p>
 
-                        <p>The challenge with essential oils on Amazon is that there are thousands of options, dozens of brands making impossible-sounding claims, and almost no guidance on what the difference between a $8 lavender oil and a $50 one actually means. Some brands sell pure, third-party tested oils. Others sell fragrance oils with synthetic compounds that smell similar but have none of the therapeutic properties. And some oils that work brilliantly for anxiety — ylang ylang, frankincense, roman chamomile — most people have never even considered.</p>
+                        <p>The challenge with essential oils on Amazon is that there are thousands of options, dozens of brands making impossible-sounding claims, and almost no guidance on what the difference between a $8 lavender oil and a $50 one actually means. Some brands sell pure, third-party tested oils. Others sell fragrance oils with synthetic compounds that smell similar but have none of the therapeutic properties. And some oils that work brilliantly for anxiety - ylang ylang, frankincense, roman chamomile - most people have never even considered.</p>
 
                         <p>This article covers two things: the oils themselves (what each one does and why), and the best products to buy on Amazon across single oils, pre-made blends, and ready-to-use roll-ons. By the end, you&#39;ll know exactly which oil matches your type of anxiety and which brand to trust.</p>
 
@@ -58,47 +58,47 @@ export default function ArticlePage() {
 
                         <h2 className="font-display text-4xl font-bold mb-8 uppercase tracking-tighter">How Essential Oils Actually Work for Anxiety</h2>
 
-                        <p>When you inhale an essential oil, the aromatic molecules travel through your nose to the olfactory bulb — the part of your brain that processes smell. The olfactory bulb has a direct neural connection to the limbic system, which is the brain&#39;s emotional processing center and the same system involved in the anxiety response. No other sensory input has this direct a pathway to the limbic system. This is why scent can trigger emotional states faster than sight, sound, or touch.</p>
+                        <p>When you inhale an essential oil, the aromatic molecules travel through your nose to the olfactory bulb - the part of your brain that processes smell. The olfactory bulb has a direct neural connection to the limbic system, which is the brain&#39;s emotional processing center and the same system involved in the anxiety response. No other sensory input has this direct a pathway to the limbic system. This is why scent can trigger emotional states faster than sight, sound, or touch.</p>
 
-                        <p>When certain aromatic compounds reach the limbic system, they interact with receptors that regulate mood, stress hormones, heart rate, and sleep. Lavender&#39;s primary compound, linalool, for example, has been shown to increase GABA activity — the same neurotransmitter that anti-anxiety medications target, though through a gentler mechanism. Bergamot compounds reduce cortisol production. Ylang ylang has been shown in studies to lower blood pressure and heart rate within minutes of inhalation.</p>
+                        <p>When certain aromatic compounds reach the limbic system, they interact with receptors that regulate mood, stress hormones, heart rate, and sleep. Lavender&#39;s primary compound, linalool, for example, has been shown to increase GABA activity - the same neurotransmitter that anti-anxiety medications target, though through a gentler mechanism. Bergamot compounds reduce cortisol production. Ylang ylang has been shown in studies to lower blood pressure and heart rate within minutes of inhalation.</p>
 
                         <p>Topical application adds a secondary mechanism. When diluted essential oils are applied to the skin, their compounds absorb into the bloodstream and can reach the same receptor systems through circulation rather than the olfactory route.</p>
 
-                        <p>The honest caveat: essential oils are a complementary tool, not a clinical treatment. The research is promising but often involves small studies. They work best as part of a broader approach to anxiety management — not as a standalone solution. That said, the risk profile is extremely low, the cost is minimal, and for many people the practical benefit is real and immediate.</p>
+                        <p>The honest caveat: essential oils are a complementary tool, not a clinical treatment. The research is promising but often involves small studies. They work best as part of a broader approach to anxiety management - not as a standalone solution. That said, the risk profile is extremely low, the cost is minimal, and for many people the practical benefit is real and immediate.</p>
 
                         <hr className="my-16 opacity-10" />
 
                         <h2 className="font-display text-4xl font-bold mb-8 uppercase tracking-tighter">What Makes an Essential Oil Worth Buying</h2>
 
-                        <p>Before looking at any specific product, understand what separates a quality essential oil from a cheap one. This matters more here than in any other product category — because a poor-quality oil doesn&#39;t just underperform, it may cause skin irritation or respiratory sensitivity.</p>
+                        <p>Before looking at any specific product, understand what separates a quality essential oil from a cheap one. This matters more here than in any other product category - because a poor-quality oil doesn&#39;t just underperform, it may cause skin irritation or respiratory sensitivity.</p>
 
-                        <p><strong>GC/MS testing</strong> is the gold standard. Gas Chromatography-Mass Spectrometry testing analyzes the precise chemical composition of an oil, confirming it contains the right therapeutic compounds and no synthetic additives. The best brands publish these reports publicly, batch by batch, so you can verify what you&#39;re buying. Plant Therapy and Edens Garden both do this — it&#39;s a major reason they dominate every credible recommendation list.</p>
+                        <p><strong>GC/MS testing</strong> is the gold standard. Gas Chromatography-Mass Spectrometry testing analyzes the precise chemical composition of an oil, confirming it contains the right therapeutic compounds and no synthetic additives. The best brands publish these reports publicly, batch by batch, so you can verify what you&#39;re buying. Plant Therapy and Edens Garden both do this - it&#39;s a major reason they dominate every credible recommendation list.</p>
 
-                        <p><strong>&quot;100% pure&quot; vs &quot;therapeutic grade&quot;</strong> — understand that &quot;therapeutic grade&quot; is not a regulated term. Any brand can print it on a bottle. It means nothing on its own. &quot;100% pure&quot; combined with third-party GC/MS testing means something. Prioritize transparency over marketing language.</p>
+                        <p><strong>&quot;100% pure&quot; vs &quot;therapeutic grade&quot;</strong> - understand that &quot;therapeutic grade&quot; is not a regulated term. Any brand can print it on a bottle. It means nothing on its own. &quot;100% pure&quot; combined with third-party GC/MS testing means something. Prioritize transparency over marketing language.</p>
 
-                        <p><strong>Single oils vs blends</strong> — single oils contain only one botanical source and give you more control over what you&#39;re using. Blends combine multiple oils, pre-formulated for a specific purpose. Both have a place: single oils for targeted use, blends for convenience.</p>
+                        <p><strong>Single oils vs blends</strong> - single oils contain only one botanical source and give you more control over what you&#39;re using. Blends combine multiple oils, pre-formulated for a specific purpose. Both have a place: single oils for targeted use, blends for convenience.</p>
 
-                        <p><strong>Dilution</strong> — pure essential oils should almost never be applied directly to skin. They need to be diluted in a carrier oil (coconut, jojoba, sweet almond) at 1–3% concentration. Roll-ons come pre-diluted, which removes the guesswork. When buying a pure oil for topical use, you&#39;ll need a carrier oil separately.</p>
+                        <p><strong>Dilution</strong> - pure essential oils should almost never be applied directly to skin. They need to be diluted in a carrier oil (coconut, jojoba, sweet almond) at 1–3% concentration. Roll-ons come pre-diluted, which removes the guesswork. When buying a pure oil for topical use, you&#39;ll need a carrier oil separately.</p>
 
                         <hr className="my-16 opacity-10" />
 
                         <h2 className="font-display text-4xl font-bold mb-8 uppercase tracking-tighter">The 7 Best Essential Oils for Anxiety: What Each One Does</h2>
 
-                        <p>Before the product recommendations, here&#39;s what the most researched anxiety oils actually do — so you can choose based on your specific anxiety pattern rather than just picking the most popular one.</p>
+                        <p>Before the product recommendations, here&#39;s what the most researched anxiety oils actually do - so you can choose based on your specific anxiety pattern rather than just picking the most popular one.</p>
 
                         <p><strong>Lavender</strong> is the most studied essential oil for anxiety by a significant margin. Its primary compound, linalool, increases GABA activity, lowers cortisol, reduces heart rate, and has been compared in some studies to low-dose anti-anxiety medication for mild generalized anxiety. It&#39;s calming without being sedating during the day, and mildly sleep-promoting in the evening. The most versatile anxiety oil for most people.</p>
 
-                        <p><strong>Bergamot</strong> is unique because it&#39;s simultaneously uplifting and calming — it reduces anxiety without making you drowsy. Studies show bergamot inhalation lowers cortisol and blood pressure during stressful situations. It&#39;s the best choice for anxiety that comes with low mood, morning anxiety, or situations where you need to stay functional while reducing stress.</p>
+                        <p><strong>Bergamot</strong> is unique because it&#39;s simultaneously uplifting and calming - it reduces anxiety without making you drowsy. Studies show bergamot inhalation lowers cortisol and blood pressure during stressful situations. It&#39;s the best choice for anxiety that comes with low mood, morning anxiety, or situations where you need to stay functional while reducing stress.</p>
 
-                        <p><strong>Ylang Ylang</strong> works quickly on the physical symptoms of anxiety. Research shows it reduces blood pressure and heart rate within minutes of inhalation — making it particularly effective for acute stress, moments of panic, or the physical heart-racing sensation that accompanies anxiety. The scent is intensely floral and heady — use in small amounts, as it can feel overwhelming if overdiffused.</p>
+                        <p><strong>Ylang Ylang</strong> works quickly on the physical symptoms of anxiety. Research shows it reduces blood pressure and heart rate within minutes of inhalation - making it particularly effective for acute stress, moments of panic, or the physical heart-racing sensation that accompanies anxiety. The scent is intensely floral and heady - use in small amounts, as it can feel overwhelming if overdiffused.</p>
 
                         <p><strong>Frankincense</strong> slows and deepens breathing, quiets mental noise, and creates a grounding effect through its primary compounds (boswellic acids and incensole acetate). It&#39;s the best oil for anxiety connected to racing thoughts, difficulty meditating, or the kind of chronic background stress that accumulates over time. It&#39;s also particularly effective paired with lavender for nighttime use.</p>
 
-                        <p><strong>Roman Chamomile</strong> has mild sedative properties that work on the central nervous system. It&#39;s particularly effective for anxiety that presents as irritability, overthinking, or difficulty winding down at night. It&#39;s more expensive than most oils because of the low yield from chamomile flowers — but a little goes a long way.</p>
+                        <p><strong>Roman Chamomile</strong> has mild sedative properties that work on the central nervous system. It&#39;s particularly effective for anxiety that presents as irritability, overthinking, or difficulty winding down at night. It&#39;s more expensive than most oils because of the low yield from chamomile flowers - but a little goes a long way.</p>
 
-                        <p><strong>Clary Sage</strong> reduces cortisol levels and supports emotional balance. It&#39;s particularly effective for anxiety related to hormonal fluctuations — it&#39;s one of the most commonly recommended oils for PMS-related anxiety, mood swings, and emotional volatility.</p>
+                        <p><strong>Clary Sage</strong> reduces cortisol levels and supports emotional balance. It&#39;s particularly effective for anxiety related to hormonal fluctuations - it&#39;s one of the most commonly recommended oils for PMS-related anxiety, mood swings, and emotional volatility.</p>
 
-                        <p><strong>Sweet Orange / Citrus</strong> oils are uplifting without being sedating, making them the best daytime anxiety support. Research shows citrus inhalation can reduce anxiety and improve mood without affecting alertness. The most accessible, affordable, and socially acceptable anxiety oil — the scent reads as &quot;fresh&quot; rather than &quot;wellness product.&quot;</p>
+                        <p><strong>Sweet Orange / Citrus</strong> oils are uplifting without being sedating, making them the best daytime anxiety support. Research shows citrus inhalation can reduce anxiety and improve mood without affecting alertness. The most accessible, affordable, and socially acceptable anxiety oil - the scent reads as &quot;fresh&quot; rather than &quot;wellness product.&quot;</p>
 
                         <h2 className="font-display text-4xl font-bold mt-20 mb-8 uppercase tracking-tighter">Quick Comparison Table</h2>
                         <div className="overflow-x-auto my-12 border border-slate-100 dark:border-slate-800 rounded-2xl">
@@ -157,7 +157,7 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <p>Plant Therapy Lavender is the starting point for anyone new to essential oils for anxiety — and often the only oil experienced users need. Twenty-five thousand reviews at 4.5 stars make this the most socially validated essential oil on this list by a wide margin, and the price-to-quality ratio at $10 for 10mL of GC/MS-tested pure lavender is genuinely exceptional.</p>
+                            <p>Plant Therapy Lavender is the starting point for anyone new to essential oils for anxiety - and often the only oil experienced users need. Twenty-five thousand reviews at 4.5 stars make this the most socially validated essential oil on this list by a wide margin, and the price-to-quality ratio at $10 for 10mL of GC/MS-tested pure lavender is genuinely exceptional.</p>
                             <p>Plant Therapy&#39;s approach to quality is worth understanding: they never standardize their batches (meaning they don&#39;t adulterate the oil to create a consistent scent profile), publish batch-specific test reports that anyone can download, and have certified aromatherapists on staff for customer questions. This transparency is what separates them from the dozens of cheaper brands on Amazon that sell synthetic fragrance oils labeled as essential oils.</p>
                             <p>The lavender itself is versatile enough to cover almost every anxiety use case: diffuse in the evening for a calm, sleep-ready atmosphere; dilute in a carrier oil and apply to wrists and temples during anxious moments; add to a bath for deep relaxation; or apply to your pillow before sleep. It blends well with bergamot, roman chamomile, frankincense, and almost everything else on this list.</p>
 
@@ -165,20 +165,20 @@ export default function ArticlePage() {
                                 <div className="bg-green-50/50 dark:bg-green-900/10 p-8 rounded-2xl border border-green-100 dark:border-green-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-green-700 dark:text-green-400">Pros</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>25,419 reviews at 4.5 stars — the most validated product on this list</li>
-                                        <li>Batch-specific GC/MS reports publicly downloadable — highest transparency available</li>
-                                        <li>Never standardized or adulterated — pure botanical oil</li>
+                                        <li>25,419 reviews at 4.5 stars - the most validated product on this list</li>
+                                        <li>Batch-specific GC/MS reports publicly downloadable - highest transparency available</li>
+                                        <li>Never standardized or adulterated - pure botanical oil</li>
                                         <li>Certified aromatherapists on staff for support</li>
-                                        <li>Most versatile anxiety oil — works for daytime calm, nighttime sleep, and everything between</li>
-                                        <li>$10 for 10mL — exceptional value for third-party tested pure oil</li>
+                                        <li>Most versatile anxiety oil - works for daytime calm, nighttime sleep, and everything between</li>
+                                        <li>$10 for 10mL - exceptional value for third-party tested pure oil</li>
                                     </ul>
                                 </div>
                                 <div className="bg-red-50/50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-red-700 dark:text-red-400">Cons</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>10mL is a small bottle — heavy users will need to reorder frequently</li>
-                                        <li>Scent can vary batch to batch (natural variation, not a quality issue) — some users find this surprising</li>
-                                        <li>Needs dilution for topical use — requires a separate carrier oil purchase</li>
+                                        <li>10mL is a small bottle - heavy users will need to reorder frequently</li>
+                                        <li>Scent can vary batch to batch (natural variation, not a quality issue) - some users find this surprising</li>
+                                        <li>Needs dilution for topical use - requires a separate carrier oil purchase</li>
                                     </ul>
                                 </div>
                             </div>
@@ -194,7 +194,7 @@ export default function ArticlePage() {
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
                                 <div className="space-y-2">
                                     <p><strong>Price:</strong> $15</p>
-                                    <p><strong>Size:</strong> 1 oz (30mL) — the largest bottle on this list</p>
+                                    <p><strong>Size:</strong> 1 oz (30mL) - the largest bottle on this list</p>
                                     <p><strong>Brand:</strong> NOW Foods</p>
                                 </div>
                                 <div className="space-y-2">
@@ -204,28 +204,28 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <p>NOW Foods has been making natural wellness products since 1968 — one of the oldest and most established brands in the category — and their bergamot is one of the best-reviewed essential oils in their range. The 4.7-star rating is the highest of any single oil on this list, and the 30mL bottle is triple the size of most oils at a comparable price point.</p>
-                            <p>Bergamot&#39;s combination of uplifting and calming properties makes it unique among anxiety oils. Where lavender is predominantly calming and can feel sedating for some people, bergamot reduces stress while simultaneously boosting mood and energy — the right choice for anxiety that hits in the morning, anxiety that comes with low mood or depression, or any situation where you need to feel calm but still functional and alert.</p>
+                            <p>NOW Foods has been making natural wellness products since 1968 - one of the oldest and most established brands in the category - and their bergamot is one of the best-reviewed essential oils in their range. The 4.7-star rating is the highest of any single oil on this list, and the 30mL bottle is triple the size of most oils at a comparable price point.</p>
+                            <p>Bergamot&#39;s combination of uplifting and calming properties makes it unique among anxiety oils. Where lavender is predominantly calming and can feel sedating for some people, bergamot reduces stress while simultaneously boosting mood and energy - the right choice for anxiety that hits in the morning, anxiety that comes with low mood or depression, or any situation where you need to feel calm but still functional and alert.</p>
                             <p>Cold pressing (rather than steam distillation) preserves more of the aromatic compounds from the fruit peel, resulting in a more vibrant, true-to-fruit scent. The one important note with bergamot: it is photosensitizing, meaning if you apply it topically it can increase your skin&#39;s sensitivity to sunlight. Apply topically only in the evening, or use it exclusively through diffusion during the day.</p>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 font-sans">
                                 <div className="bg-green-50/50 dark:bg-green-900/10 p-8 rounded-2xl border border-green-100 dark:border-green-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-green-700 dark:text-green-400">Pros</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>4.7 stars — highest rating of any single oil on this list</li>
-                                        <li>30mL bottle — three times the size of most oils at similar price</li>
+                                        <li>4.7 stars - highest rating of any single oil on this list</li>
+                                        <li>30mL bottle - three times the size of most oils at similar price</li>
                                         <li>Cold pressed for maximum aromatic compound preservation</li>
-                                        <li>NOW Foods — one of the most established natural wellness brands since 1968</li>
+                                        <li>NOW Foods - one of the most established natural wellness brands since 1968</li>
                                         <li>100% pure, vegan, never tested on animals</li>
-                                        <li>Uplifting and calming simultaneously — unique among anxiety oils</li>
+                                        <li>Uplifting and calming simultaneously - unique among anxiety oils</li>
                                     </ul>
                                 </div>
                                 <div className="bg-red-50/50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-red-700 dark:text-red-400">Cons</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>Photosensitizing — cannot be applied topically before sun exposure</li>
-                                        <li>The 30mL listing shows it alongside Camphor and Marjoram variants — ensure you select Bergamot specifically</li>
-                                        <li>Stronger citrus scent than some users expect — may not blend as subtly as lavender</li>
+                                        <li>Photosensitizing - cannot be applied topically before sun exposure</li>
+                                        <li>The 30mL listing shows it alongside Camphor and Marjoram variants - ensure you select Bergamot specifically</li>
+                                        <li>Stronger citrus scent than some users expect - may not blend as subtly as lavender</li>
                                     </ul>
                                 </div>
                             </div>
@@ -251,17 +251,17 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <p>Ylang ylang is the most underused anxiety oil on this list. Most people gravitate toward lavender and miss an oil that has some of the fastest-acting physical anxiety-relief properties of any aromatic plant. Research consistently shows ylang ylang inhalation reduces blood pressure and heart rate within minutes — which makes it uniquely effective for the physical manifestations of anxiety: heart racing, chest tightness, that wired, wound-up feeling that doesn&#39;t respond easily to calming thoughts.</p>
-                            <p>Plant Therapy&#39;s ylang ylang is labeled &quot;Complete&quot; — meaning it&#39;s distilled for the full 12–18 hour steam distillation period that captures all the aromatic fractions of the flower (extra, first, second, and third). This gives you the complete therapeutic profile rather than just the top notes captured in shorter distillations. The result is a richer, more complex scent that&#39;s also more therapeutically complete.</p>
+                            <p>Ylang ylang is the most underused anxiety oil on this list. Most people gravitate toward lavender and miss an oil that has some of the fastest-acting physical anxiety-relief properties of any aromatic plant. Research consistently shows ylang ylang inhalation reduces blood pressure and heart rate within minutes - which makes it uniquely effective for the physical manifestations of anxiety: heart racing, chest tightness, that wired, wound-up feeling that doesn&#39;t respond easily to calming thoughts.</p>
+                            <p>Plant Therapy&#39;s ylang ylang is labeled &quot;Complete&quot; - meaning it&#39;s distilled for the full 12–18 hour steam distillation period that captures all the aromatic fractions of the flower (extra, first, second, and third). This gives you the complete therapeutic profile rather than just the top notes captured in shorter distillations. The result is a richer, more complex scent that&#39;s also more therapeutically complete.</p>
                             <p>One practical note: ylang ylang has an intensely sweet, heady floral scent that can feel overwhelming if overdiffused. Start with 1–2 drops rather than the 5–10 you might use with lavender. It blends beautifully with lavender, bergamot, and frankincense, and those combinations help moderate the intensity while combining their anxiety-relief properties.</p>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 font-sans">
                                 <div className="bg-green-50/50 dark:bg-green-900/10 p-8 rounded-2xl border border-green-100 dark:border-green-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-green-700 dark:text-green-400">Pros</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>Research-backed for reducing blood pressure and heart rate — fastest physical anxiety relief on this list</li>
+                                        <li>Research-backed for reducing blood pressure and heart rate - fastest physical anxiety relief on this list</li>
                                         <li>&quot;Complete&quot; distillation captures full therapeutic profile of the flower</li>
-                                        <li>Plant Therapy quality standard — GC/MS tested, batch reports available</li>
+                                        <li>Plant Therapy quality standard - GC/MS tested, batch reports available</li>
                                         <li>4.5 stars across 2,815 reviews</li>
                                         <li>Powerful aphrodisiac and massage oil properties beyond anxiety use</li>
                                         <li>Blends well with lavender and bergamot for combined effects</li>
@@ -270,8 +270,8 @@ export default function ArticlePage() {
                                 <div className="bg-red-50/50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-red-700 dark:text-red-400">Cons</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>Intensely floral scent — polarizing, not universally loved</li>
-                                        <li>Easy to overdiffuse — requires much smaller amounts than other oils</li>
+                                        <li>Intensely floral scent - polarizing, not universally loved</li>
+                                        <li>Easy to overdiffuse - requires much smaller amounts than other oils</li>
                                         <li>10mL bottles goes quickly if used frequently due to small dose requirement per session</li>
                                         <li>Not ideal as a standalone daytime scent for office or public use</li>
                                     </ul>
@@ -299,29 +299,29 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <p>Edens Garden has been voted the #1 non-MLM essential oil company by Essential Oil University for multiple consecutive years, and their frankincense is among their most respected single oils. The Carterii variety — distilled from the resin of the Boswellia carterii tree — delivers the classic frankincense profile: rich, resinous, slightly sweet, with a woody depth that is immediately grounding.</p>
-                            <p>Frankincense works differently from the other oils on this list. Where lavender and bergamot primarily target mood and stress hormones, frankincense works through breathing. Its compounds encourage slower, deeper, more diaphragmatic breathing — which directly activates the parasympathetic nervous system. This is why it has been used for thousands of years in meditation and spiritual practices: the deepened breathing it encourages creates a calming cascade that quiets mental chatter and grounds anxious thought patterns.</p>
-                            <p>For anxiety that manifests as racing thoughts, inability to be present, chronic background stress, or difficulty meditating, frankincense is often more effective than lavender. It also enhances the effects of other oils when blended — a few drops of frankincense with lavender before bed creates a combination that works more powerfully than either alone.</p>
+                            <p>Edens Garden has been voted the #1 non-MLM essential oil company by Essential Oil University for multiple consecutive years, and their frankincense is among their most respected single oils. The Carterii variety - distilled from the resin of the Boswellia carterii tree - delivers the classic frankincense profile: rich, resinous, slightly sweet, with a woody depth that is immediately grounding.</p>
+                            <p>Frankincense works differently from the other oils on this list. Where lavender and bergamot primarily target mood and stress hormones, frankincense works through breathing. Its compounds encourage slower, deeper, more diaphragmatic breathing - which directly activates the parasympathetic nervous system. This is why it has been used for thousands of years in meditation and spiritual practices: the deepened breathing it encourages creates a calming cascade that quiets mental chatter and grounds anxious thought patterns.</p>
+                            <p>For anxiety that manifests as racing thoughts, inability to be present, chronic background stress, or difficulty meditating, frankincense is often more effective than lavender. It also enhances the effects of other oils when blended - a few drops of frankincense with lavender before bed creates a combination that works more powerfully than either alone.</p>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 font-sans">
                                 <div className="bg-green-50/50 dark:bg-green-900/10 p-8 rounded-2xl border border-green-100 dark:border-green-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-green-700 dark:text-green-400">Pros</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>4.7 stars across 1,750 reviews — tied for highest rating on this list</li>
+                                        <li>4.7 stars across 1,750 reviews - tied for highest rating on this list</li>
                                         <li>Edens Garden is the #1 rated non-MLM essential oil company</li>
-                                        <li>GC/MS batch reports publicly available — full transparency</li>
-                                        <li>Encourages deeper breathing — directly activates parasympathetic nervous system</li>
+                                        <li>GC/MS batch reports publicly available - full transparency</li>
+                                        <li>Encourages deeper breathing - directly activates parasympathetic nervous system</li>
                                         <li>Licensed aromatherapists on staff for customer support</li>
-                                        <li>Woman-owned, family-operated since 2009 — ethical business model</li>
-                                        <li>Blends with virtually everything — enhances other anxiety oils</li>
+                                        <li>Woman-owned, family-operated since 2009 - ethical business model</li>
+                                        <li>Blends with virtually everything - enhances other anxiety oils</li>
                                     </ul>
                                 </div>
                                 <div className="bg-red-50/50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-red-700 dark:text-red-400">Cons</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>$22 for 10mL — the most expensive single oil on this list</li>
-                                        <li>Resinous scent is not universally appealing — very different from floral or citrus oils</li>
-                                        <li>Carterii variety is listed as #50 in Essential Oil Blends rather than Singles — confirms strong cross-category use</li>
+                                        <li>$22 for 10mL - the most expensive single oil on this list</li>
+                                        <li>Resinous scent is not universally appealing - very different from floral or citrus oils</li>
+                                        <li>Carterii variety is listed as #50 in Essential Oil Blends rather than Singles - confirms strong cross-category use</li>
                                     </ul>
                                 </div>
                             </div>
@@ -347,18 +347,18 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <p>Roman chamomile is the most expensive oil per milliliter on this list — $25 for just 5mL compared to $10 for 10mL of lavender. This reflects the genuine economics of the plant: chamomile flowers produce an extraordinarily low yield of essential oil, meaning significantly more plant material is required per bottle. A higher price for chamomile is a sign of an honest product, not an inflated one.</p>
-                            <p>The therapeutic payoff justifies the cost for nighttime use specifically. Roman chamomile&#39;s sedative properties work on the central nervous system more directly than lavender — it&#39;s the oil most commonly compared to mild natural sedatives. The apigenin compound in chamomile binds to the same brain receptors as benzodiazepines, though with a fraction of the effect and none of the dependency risk. For anxiety that presents at night — racing thoughts at bedtime, inability to switch off, waking anxious in the early hours — roman chamomile is often more effective than lavender.</p>
-                            <p>The KidSafe certification is meaningful: Plant Therapy&#39;s aromatherapists have verified it&#39;s safe for use around children when properly diluted, which is useful for parents who want to use it in a bedroom diffuser. The sweet, apple-like, herbaceous scent is gentle and non-intrusive — easy to diffuse for an entire evening without becoming overwhelming.</p>
+                            <p>Roman chamomile is the most expensive oil per milliliter on this list - $25 for just 5mL compared to $10 for 10mL of lavender. This reflects the genuine economics of the plant: chamomile flowers produce an extraordinarily low yield of essential oil, meaning significantly more plant material is required per bottle. A higher price for chamomile is a sign of an honest product, not an inflated one.</p>
+                            <p>The therapeutic payoff justifies the cost for nighttime use specifically. Roman chamomile&#39;s sedative properties work on the central nervous system more directly than lavender - it&#39;s the oil most commonly compared to mild natural sedatives. The apigenin compound in chamomile binds to the same brain receptors as benzodiazepines, though with a fraction of the effect and none of the dependency risk. For anxiety that presents at night - racing thoughts at bedtime, inability to switch off, waking anxious in the early hours - roman chamomile is often more effective than lavender.</p>
+                            <p>The KidSafe certification is meaningful: Plant Therapy&#39;s aromatherapists have verified it&#39;s safe for use around children when properly diluted, which is useful for parents who want to use it in a bedroom diffuser. The sweet, apple-like, herbaceous scent is gentle and non-intrusive - easy to diffuse for an entire evening without becoming overwhelming.</p>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 font-sans">
                                 <div className="bg-green-50/50 dark:bg-green-900/10 p-8 rounded-2xl border border-green-100 dark:border-green-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-green-700 dark:text-green-400">Pros</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>The most sedative essential oil on this list — best for nighttime anxiety and sleep</li>
-                                        <li>KidSafe certified — safe to diffuse in children&#39;s rooms when properly used</li>
+                                        <li>The most sedative essential oil on this list - best for nighttime anxiety and sleep</li>
+                                        <li>KidSafe certified - safe to diffuse in children&#39;s rooms when properly used</li>
                                         <li>Plant Therapy quality standard with GC/MS testing</li>
-                                        <li>Sweet apple-like scent — gentle and easy to diffuse for extended periods</li>
+                                        <li>Sweet apple-like scent - gentle and easy to diffuse for extended periods</li>
                                         <li>4.6 stars across 680 reviews</li>
                                         <li>Can be added to bath or diluted for muscle massage</li>
                                     </ul>
@@ -366,7 +366,7 @@ export default function ArticlePage() {
                                 <div className="bg-red-50/50 dark:bg-red-900/10 p-8 rounded-2xl border border-red-100 dark:border-red-900/20">
                                     <h4 className="font-display font-bold uppercase tracking-tight mb-4 text-red-700 dark:text-red-400">Cons</h4>
                                     <ul className="list-disc pl-5 space-y-2 text-sm leading-relaxed">
-                                        <li>$25 for only 5mL — the highest cost per mL on this list</li>
+                                        <li>$25 for only 5mL - the highest cost per mL on this list</li>
                                         <li>Lower review count than other Plant Therapy oils on this list</li>
                                         <li>Strong sedative effect means daytime use is not recommended</li>
                                         <li>The higher price point will surprise buyers unfamiliar with chamomile&#39;s yield economics</li>
@@ -395,9 +395,9 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <p>If you don&#39;t want to think about which oils to combine or in what proportions, Anxiety Ease is the answer. Edens Garden&#39;s licensed aromatherapists have pre-formulated a blend specifically for anxiety — you add 10 drops per 100mL of water in your diffuser and the work is done. No carrier oil, no measuring, no blending experimentation.</p>
+                            <p>If you don&#39;t want to think about which oils to combine or in what proportions, Anxiety Ease is the answer. Edens Garden&#39;s licensed aromatherapists have pre-formulated a blend specifically for anxiety - you add 10 drops per 100mL of water in your diffuser and the work is done. No carrier oil, no measuring, no blending experimentation.</p>
                             <p>The citrus-forward scent (orange-based) makes this one of the most accessible anxiety blends for people who find florals or resins too heavy. The Kid Safe and Skin Safe certifications mean it&#39;s dilutable for topical application on the skin without risk of irritation, making it more versatile than many undiluted blends. At $12 it&#39;s the most affordable product on this list and the fastest path from purchase to using an anxiety-targeted blend in your home.</p>
-                            <p>The lower review count (107) compared to Plant Therapy products reflects Edens Garden&#39;s smaller Amazon presence rather than product quality — their in-house testing and quality standards are equivalent to Plant Therapy, and their reputation across the broader aromatherapy community is equally strong.</p>
+                            <p>The lower review count (107) compared to Plant Therapy products reflects Edens Garden&#39;s smaller Amazon presence rather than product quality - their in-house testing and quality standards are equivalent to Plant Therapy, and their reputation across the broader aromatherapy community is equally strong.</p>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 font-sans">
                                 <div className="bg-green-50/50 dark:bg-green-900/10 p-8 rounded-2xl border border-green-100 dark:border-green-900/20">
