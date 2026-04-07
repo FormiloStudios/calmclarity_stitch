@@ -1,5 +1,7 @@
 'use client';
 
+import { useEffect, useState } from 'react';
+import { useRouter } from 'next/navigation';
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { NewsletterSection } from "@/components/NewsletterSection";
@@ -8,6 +10,21 @@ import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
 export default function ArticlePage() {
+    const [authorized, setAuthorized] = useState(false);
+    const router = useRouter();
+
+    useEffect(() => {
+        if (typeof window !== 'undefined') {
+            if (localStorage.getItem('dev_access') === 'true') {
+                setAuthorized(true);
+            } else {
+                router.push('/');
+            }
+        }
+    }, [router]);
+
+    if (!authorized) return <div className="min-h-screen bg-white dark:bg-slate-950" />;
+
     return (
         <>
             <Nav />

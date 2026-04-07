@@ -9,14 +9,20 @@ import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
 
-const articles = [
+const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
-        image: "/ccmar277.1.jpg",
-        category: "Sleep & Reset",
-        readTime: "22 Min Read",
+        image: "/hero.png",
+        category: "Sleep Science",
         title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
-        description: "Waking up to a blaring alarm is a nervous system shock. We tested 6 clinically-backed sunrise clocks to find the gentlest way to start your day.",
+        description: "Ripping yourself out of sleep with a blaring alarm spikes your cortisol. Learn how sunrise simulation anchors your circadian rhythm and reduces morning anxiety.",
         href: "/articles/best-sunrise-alarm-clocks-for-anxiety-and-sleep"
+    },
+    {
+        image: "/welllnesstools.jpg",
+        category: "Aromatherapy",
+        title: "Best Essential Oils for Anxiety (Compared): Single Oils, Blends & Roll-Ons",
+        description: "Discover the real science behind essential oils and which specific oils match your type of anxiety across single oils, blends, and convenient roll-ons.",
+        href: "/articles/best-essential-oils-for-anxiety-compared"
     }
 ];
 
