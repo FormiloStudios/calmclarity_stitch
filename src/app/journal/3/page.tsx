@@ -19,7 +19,7 @@ const articles: { image: string; category: string; readTime?: string; title: str
         href: "/articles/best-white-noise-machines-for-anxiety-and-sleep"
     },
     {
-        image: "/ccmar277.3.jpg",
+        image: "/besteoc_1.jpg",
         category: "Wellness",
         readTime: "24 Min Read",
         title: "Best Essential Oils for Anxiety (Compared)",
@@ -27,7 +27,7 @@ const articles: { image: string; category: string; readTime?: string; title: str
         href: "/articles/best-essential-oils-for-anxiety-compared"
     },
     {
-        image: "/ccmar277.1.jpg",
+        image: "/sunriseclock_1.jpg",
         category: "Sleep & Reset",
         readTime: "22 Min Read",
         title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
