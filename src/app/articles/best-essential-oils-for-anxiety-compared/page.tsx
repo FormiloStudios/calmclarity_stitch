@@ -8,6 +8,7 @@ import { NewsletterSection } from "@/components/NewsletterSection";
 import { ShareSection } from "@/components/ShareSection";
 import { CommentsSection } from "@/components/CommentsSection";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
+import Image from "next/image";
 
 export default function ArticlePage() {
     const [authorized, setAuthorized] = useState(false);
