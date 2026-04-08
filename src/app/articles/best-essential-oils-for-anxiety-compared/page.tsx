@@ -93,7 +93,7 @@ export default function ArticlePage() {
 
                         <hr className="my-16 opacity-10" />
 
-                        <h2 className="font-display text-4xl font-bold mb-8 uppercase tracking-tighter">The 7 Best Essential Oils for Anxiety: What Each One Does</h2>
+                        <h2 className="font-display text-4xl font-bold mb-8 uppercase tracking-tighter">The 8 Best Essential Oils for Anxiety: What Each One Does</h2>
 
                         <p>Before the product recommendations, here&#39;s what the most researched anxiety oils actually do - so you can choose based on your specific anxiety pattern rather than just picking the most popular one.</p>
 
@@ -156,7 +156,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                <img src="/besteoc_3.jpg" alt="Plant Therapy Lavender" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                <img src="/besteoc_4.jpg" alt="Plant Therapy Lavender" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -207,7 +207,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                <img src="/besteoc_4.jpg" alt="NOW Foods Bergamot" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                <img src="/besteoc_5.jpg" alt="NOW Foods Bergamot" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -258,7 +258,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                <img src="/besteoc_5.jpg" alt="Plant Therapy Ylang Ylang" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                <img src="/besteoc_6.jpg" alt="Plant Therapy Ylang Ylang" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -310,7 +310,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                <img src="/besteoc_6.jpg" alt="Edens Garden Frankincense" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                <img src="/besteoc_7.jpg" alt="Edens Garden Frankincense" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -413,10 +413,6 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">🎯 Best Ready-to-Diffuse Anxiety Blend</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                <img src="/besteoc_8.jpg" alt="Edens Garden Anxiety Ease" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
-                            </div>
-
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
                                 <div className="space-y-2">
                                     <p><strong>Price:</strong> $12</p>
@@ -462,6 +458,10 @@ export default function ArticlePage() {
                             <h3 className="font-display text-3xl font-bold mb-6 italic">7. Plant Therapy Worry Free Roll-On</h3>
                             <div className="flex flex-wrap gap-3 mb-8">
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">👜 Best On-the-Go Anxiety Relief</span>
+                            </div>
+
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/besteoc_9.jpg" alt="Plant Therapy Worry Free Roll-On" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -625,7 +625,7 @@ export default function ArticlePage() {
                         <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
                             <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none text-balance">Final Verdict</h2>
                             <div className="relative w-full rounded-2xl overflow-hidden mb-12 shadow-md bg-slate-100 dark:bg-slate-800 min-h-[250px]">
-                                <img src="/besteoc_9.jpg" alt="Final Verdict" className="w-full h-auto block" />
+                                <img src="/besteoc_3.jpg" alt="Final Verdict" className="w-full h-auto block" />
                             </div>
                             <p>For most people, the <strong>Plant Therapy Lavender at $10</strong> is the right starting point. The research behind it is the most extensive of any essential oil for anxiety, the brand quality is verifiable, and the versatility means it&#39;s useful morning, afternoon, and night. Start here.</p>
                             <p>If your anxiety tends to hit in the morning or comes with low mood, add <strong>NOW Foods Bergamot at $15</strong> — its uplifting-while-calming effect is something lavender alone doesn&#39;t provide.</p>
