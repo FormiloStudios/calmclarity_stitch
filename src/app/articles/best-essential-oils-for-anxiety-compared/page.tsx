@@ -362,7 +362,7 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                <img src="/besteoc_7.jpg" alt="Plant Therapy Roman Chamomile" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                <img src="/besteoc_8.jpg" alt="Plant Therapy Roman Chamomile" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -411,6 +411,10 @@ export default function ArticlePage() {
                             <h3 className="font-display text-3xl font-bold mb-6 italic">6. Edens Garden Anxiety Ease Essential Oil Blend</h3>
                             <div className="flex flex-wrap gap-3 mb-8">
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">🎯 Best Ready-to-Diffuse Anxiety Blend</span>
+                            </div>
+
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/besteoc_11.jpg" alt="Edens Garden Anxiety Ease" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -510,6 +514,10 @@ export default function ArticlePage() {
                             <h3 className="font-display text-3xl font-bold mb-6 italic">8. Plant Therapy Relaxation Essential Oil Blend Set</h3>
                             <div className="flex flex-wrap gap-3 mb-8">
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">🎁 Best for Beginners / Best Gift</span>
+                            </div>
+
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/besteoc_10.jpg" alt="Plant Therapy Relaxation Set" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
