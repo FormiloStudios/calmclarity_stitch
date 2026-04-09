@@ -172,14 +172,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4mgDp14" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Plant Therapy Lavender on Amazon →
                                 </a>
                             </div>
 
@@ -233,14 +233,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4sQte5w" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check NOW Foods Bergamot on Amazon →
                                 </a>
                             </div>
 
@@ -294,14 +294,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4cpxwem" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Plant Therapy Ylang Ylang on Amazon →
                                 </a>
                             </div>
 
@@ -356,14 +356,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4tm5YMG" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Edens Garden Frankincense on Amazon →
                                 </a>
                             </div>
 
@@ -418,14 +418,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4m7YlHf" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Plant Therapy Roman Chamomile on Amazon →
                                 </a>
                             </div>
 
@@ -480,14 +480,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4c88pM4" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Edens Garden Anxiety Ease on Amazon →
                                 </a>
                             </div>
 
@@ -541,14 +541,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/4sXKZA4" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Plant Therapy Worry Free on Amazon →
                                 </a>
                             </div>
 
@@ -603,14 +603,14 @@ export default function ArticlePage() {
                                 </div>
                             </div>
 
-                            <div className="flex justify-center mt-8 mb-12">
+                            <div className="mt-8 mb-12">
                                 <a 
                                     href="https://amzn.to/47Gy1hw" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
-                                    className="inline-block px-8 py-4 bg-primary text-white font-bold rounded-full hover:bg-primary/90 transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 tracking-widest text-[0.7rem] uppercase"
+                                    className="inline-block px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-primary hover:text-white transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                                 >
-                                    Check Price on Amazon
+                                    Check Plant Therapy Relaxation Set on Amazon →
                                 </a>
                             </div>
 
