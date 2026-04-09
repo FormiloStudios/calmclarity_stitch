@@ -41,9 +41,7 @@ export default function ArticlePage() {
                             Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
-                            <span>22 Min Read</span>
-                            <span className="w-1 h-1 bg-current rounded-full"></span>
-                            <span>March 2026</span>
+                            <span>April 2026</span>
                         </div>
                     </header>
 

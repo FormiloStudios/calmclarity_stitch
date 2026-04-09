@@ -41,7 +41,7 @@ export default function ArticlePage() {
                             Best Essential Oils for Anxiety (Compared): Single Oils, Blends & Roll-Ons
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
-                            <span>March 2026</span>
+                            <span>April 2026</span>
                         </div>
                     </header>
 
