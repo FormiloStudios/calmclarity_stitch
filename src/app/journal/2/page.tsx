@@ -10,6 +10,20 @@ import Link from "next/link";
 
 const articles = [
     {
+        image: "/besteoc_1.jpg",
+        category: "Wellness",
+        title: "Best Essential Oils for Anxiety (Compared)",
+        description: "That moment of calm isn't just placebo - it's biology. Learn which oils actually lower cortisol and how to use them effectively for anxiety management.",
+        href: "/articles/best-essential-oils-for-anxiety-compared"
+    },
+    {
+        image: "/sunriseclock_1.jpg",
+        category: "Sleep & Reset",
+        title: "Best Sunrise Alarm Clocks for Anxiety & Sleep (Compared)",
+        description: "Ripping yourself out of sleep spikes your cortisol. Discover how sunrise clocks solve this by simulating a natural morning, gradually anchoring your circadian rhythm.",
+        href: "/articles/best-sunrise-alarm-clocks-for-anxiety-and-sleep"
+    },
+    {
         image: "/ccmar265.1.jpg",
         category: "Tools",
         readTime: "15 Min Read",
