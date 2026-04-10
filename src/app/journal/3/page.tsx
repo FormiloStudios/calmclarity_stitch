@@ -10,6 +10,13 @@ import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
+    {
+        image: "/journal_1.jpg",
+        category: "Psychology & Tools",
+        title: "Best Anxiety Journals & Guided Journals (Compared): Find the Right One for You",
+        description: "Journals are more than just paper—they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
+        href: "/articles/best-anxiety-journals-and-guided-journals-compared"
+    },
 ];
 
 export default function JournalPage3() {
