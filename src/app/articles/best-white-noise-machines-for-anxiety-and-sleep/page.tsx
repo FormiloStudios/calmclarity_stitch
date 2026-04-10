@@ -49,16 +49,9 @@ export default function ArticlePage() {
 
                     <AffiliateDisclosure />
 
-                    {/* Image: ccmar277.2.jpg (Hero) */}
-                    <div className="relative w-full mb-16 rounded-2xl overflow-hidden shadow-2xl">
-                        <Image
-                            src="/ccmar277.2.jpg"
-                            alt="Best White Noise Machines"
-                            width={1600}
-                            height={900}
-                            className="w-full h-auto"
-                            unoptimized
-                        />
+                    {/* Image: bwnm_a.jpg (Hero) */}
+                    <div className="relative w-full mb-16 rounded-2xl overflow-hidden shadow-2xl bg-slate-100 dark:bg-slate-900 min-h-[400px]">
+                        <img src="/bwnm_a.jpg" alt="Best White Noise Machines" className="w-full h-auto block" />
                     </div>
 
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed max-w-none">
@@ -82,16 +75,9 @@ export default function ArticlePage() {
 
                         <p>The first is masking. When you&#39;re anxious, your nervous system is in a heightened state of alertness - scanning for threats. Unexpected sounds (a door, a car, a voice) trigger an orienting response that pulls you further from sleep or deeper into anxiety. White noise raises the ambient sound floor of your environment so that these sudden sounds don&#39;t create the same contrast spike. The door still happens, but it&#39;s no longer a sudden intrusion into silence - it blends into the existing sound field.</p>
 
-                        {/* Image: ccmar277.2a.jpg (Mechanism) */}
-                        <div className="relative w-full rounded-2xl overflow-hidden shadow-xl my-12 group">
-                            <Image
-                                src="/ccmar277.2a.jpg"
-                                alt="Neurological settling effect"
-                                width={1200}
-                                height={675}
-                                className="w-full h-auto transition-transform duration-700 group-hover:scale-105"
-                                unoptimized
-                            />
+                        {/* Image: bwnm_b.jpg (Mechanism) */}
+                        <div className="relative w-full rounded-2xl overflow-hidden shadow-xl my-12 group bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                            <img src="/bwnm_b.jpg" alt="Neurological settling effect" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                         </div>
 
                         <p>The second is a neurological settling effect. Consistent, unchanging sound has been shown in research to reduce cognitive arousal - the mental busyness associated with anxiety. The brain stops actively processing the sound (because it never changes) and shifts into a more passive, restful state. This is why many people find white noise helpful specifically for racing thoughts at bedtime: the consistent sound occupies the low-level processing bandwidth that would otherwise be running anxious thought loops.</p>
@@ -202,8 +188,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">💰 Best Budget</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2b.jpg" alt="Magicteam" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_1.jpg" alt="Magicteam" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -261,8 +247,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">👶 Best for Baby & Nursery</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2c.jpg" alt="Hushh" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_2.jpg" alt="Hushh" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -318,8 +304,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">🎵 Most Sound Options / Best for Families</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2d.jpg" alt="Dreamegg" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_3.jpg" alt="Dreamegg" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -375,8 +361,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">✈️ Best for Travel</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2e.jpg" alt="Micro2" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_4.jpg" alt="Micro2" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -432,8 +418,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">🏆 Best Overall / Most Iconic</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2f.jpg" alt="Dohm Classic" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_5.jpg" alt="Dohm Classic" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -491,8 +477,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">⚡ Best for Heavy Sleepers / Loudest</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2g.jpg" alt="LectroFan Classic" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_6.jpg" alt="LectroFan Classic" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -549,8 +535,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">🌊 Best Sound Variety</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2h.jpg" alt="LectroFan EVO" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_7.jpg" alt="LectroFan EVO" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -605,8 +591,8 @@ export default function ArticlePage() {
                                 <span className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20">📱 Best Smart / App-Enabled</span>
                             </div>
 
-                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800">
-                                <Image src="/ccmar277.2i.jpg" alt="SNOOZ Smart" width={1200} height={675} className="w-full h-auto transition-transform duration-700 group-hover:scale-105" unoptimized />
+                            <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
+                                <img src="/bwnmc_8.jpg" alt="SNOOZ Smart" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10 text-[0.95rem]">
@@ -704,6 +690,9 @@ export default function ArticlePage() {
 
                         <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
                             <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none">Final Verdict</h2>
+                            <div className="relative w-full rounded-2xl overflow-hidden mb-12 shadow-md bg-slate-100 dark:bg-slate-800 min-h-[250px]">
+                                <img src="/bwnm_c.jpg" alt="Final Verdict" className="w-full h-auto block" />
+                            </div>
                             <p>For most people starting out, the <strong>Yogasleep Dohm Classic at $50</strong> is the right choice - it&#39;s the original, trusted for over 60 years, produces the most natural fan sound available, and has 20,000+ reviews to validate it. If you&#39;ve ever slept well with a fan running, this is the dedicated version of that experience.</p>
                             <p>If you&#39;re in a genuinely noisy environment and need maximum masking volume, <strong>LectroFan Classic at $53</strong> is the better pick - more sounds, more precise volume control, and a reputation specifically built around blocking serious noise.</p>
                             <p>For travel, nothing on this list competes with the <strong>LectroFan Micro2 at $43</strong> - pocket-sized, 40-hour battery, and a Bluetooth speaker in the same device.</p>

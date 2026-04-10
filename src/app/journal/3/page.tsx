@@ -11,7 +11,7 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
-        image: "/ccmar277.2.jpg",
+        image: "/bwnm_a.jpg",
         category: "Sleep & Reset",
         readTime: "18 Min Read",
         title: "Best White Noise Machines for Anxiety & Sleep (Compared)",
