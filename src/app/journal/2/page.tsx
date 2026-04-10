@@ -8,7 +8,14 @@ import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import Link from "next/link";
 
-const articles = [
+const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
+    {
+        image: "/bwnm_a.jpg",
+        category: "Sleep & Reset",
+        title: "Best White Noise Machines for Anxiety & Sleep (Compared)",
+        description: "Silence isn't always peaceful. Discover how consistent acoustic backdrops anchor the nervous system and help quiet the mental noise of anxiety.",
+        href: "/articles/best-white-noise-machines-for-anxiety-and-sleep"
+    },
     {
         image: "/besteoc_1.jpg",
         category: "Wellness",
