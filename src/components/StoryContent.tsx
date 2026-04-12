@@ -7,31 +7,22 @@ export function StoryContent() {
             <section className="mb-32 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
                 <div>
                     <h2 className="font-display text-3xl md:text-4xl font-bold mb-10 text-white">
-                        Why I Started Calm Clarity
+                        Why this site exists
                     </h2>
                     <div className="space-y-6 text-lg leading-relaxed text-muted font-light">
                         <p>
-                            I&#39;m not a neuroscientist. I&#39;m not a biohacker with a garage
-                            full of equipment.
+                            Calm Clarity was built out of frustration with how hard it is to
+                            find straightforward, honest information about nervous system
+                            regulation. The actual science exists. The tools that work
+                            exist. They&#39;re just buried under overly technical research,
+                            wellness marketing, and advice that sounds good but doesn&#39;t
+                            hold up.
                         </p>
                         <p>
-                            What I am is someone who got frustrated watching people suffer
-                            through generic advice that didn&#39;t work, while the actual
-                            solutions were buried in overly-technical forums and expensive
-                            courses.
+                            This site cuts through that. Every article is researched
+                            carefully, written in plain English, and focused on what&#39;s
+                            practical — not what&#39;s trending.
                         </p>
-                        <p>So I started digging.</p>
-                        <p>
-                            I spent months researching the science behind nervous system
-                            regulation, the physical tools that actually calm your body (not
-                            just your mind), and the supplements that have real mechanisms
-                            behind them, not just marketing hype.
-                        </p>
-                        <p>
-                            And what I found was this: The tools exist. They&#39;re just not
-                            being explained in a way normal people can use.
-                        </p>
-                        <p>That&#39;s what Calm Clarity is for.</p>
                     </div>
                 </div>
                 <div className="relative h-[600px] w-full rounded-2xl overflow-hidden border border-white/5 md:translate-y-12 shadow-2xl">
@@ -48,11 +39,13 @@ export function StoryContent() {
             <section className="mb-32">
                 <div className="max-w-2xl mx-auto text-center mb-16">
                     <h2 className="font-display text-3xl md:text-4xl font-bold mb-6 text-white">
-                        What You&#39;ll Find Here
+                        What you&#39;ll find here
                     </h2>
                     <p className="text-lg text-muted font-light">
-                        This isn&#39;t a site that&#39;s going to throw complicated science at
-                        you or tell you to overhaul your entire life.
+                        Practical explanations of what&#39;s happening in your body and why, honest reviews of physical tools like weighted blankets and acupressure mats that have real mechanisms behind them, and supplement information grounded in actual research rather than marketing claims.
+                    </p>
+                    <p className="mt-6 text-lg text-muted font-light">
+                        No fluff. No agenda. Just clear information for people who are tired of feeling tired.
                     </p>
                 </div>
 
@@ -107,23 +100,20 @@ export function StoryContent() {
                 <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
 
                 <h2 className="font-display text-3xl md:text-5xl font-bold mb-10 text-white">
-                    My Promise to You
+                    One promise
                 </h2>
                 <div className="space-y-8 text-xl leading-relaxed text-muted font-light">
                     <p>
-                        I&#39;ll never recommend something I haven&#39;t thoroughly
-                        researched. I&#39;ll explain why something works, not just tell you to
-                        buy it. And I&#39;ll always keep things simple, because feeling calm
-                        and clear-headed shouldn&#39;t require a biology degree.
+                        Nothing gets recommended here without thorough research behind it. If
+                        it&#39;s on this site, there&#39;s a reason — and that reason will
+                        be explained to you, not just asserted.
                     </p>
                     <p className="text-white font-normal">
-                        If you&#39;re exhausted but can&#39;t seem to rest, you&#39;re in the
-                        right place.
+                        You&#39;re in the right place. Let&#39;s make this simpler.
                     </p>
-                    <p>Let&#39;s fix this together.</p>
                     <div className="pt-12">
                         <p className="font-display italic text-4xl text-white">
-                            Claire Miller
+                            — The Calm Clarity Team
                         </p>
                     </div>
                 </div>
