@@ -48,7 +48,7 @@ export function Footer() {
                     )}
                 </div>
                 <a
-                    href="https://in.pinterest.com/calmclarity_claire"
+                    href="https://in.pinterest.com/calmclarity_official"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-4 text-muted hover:text-white transition-colors cursor-pointer group"
