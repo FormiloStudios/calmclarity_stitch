@@ -32,6 +32,17 @@ export function StoryHeader() {
                         </p>
                     </div>
                 </div>
+                <div className="flex-shrink-0 sticky top-32">
+                    <div className="relative w-64 h-64 md:w-[400px] md:h-[400px] rounded-full overflow-hidden border border-white/10 shadow-2xl">
+                        <Image
+                            src="/hero_about.jpg"
+                            alt="About Calm Clarity"
+                            fill
+                            priority
+                            className="object-cover"
+                        />
+                    </div>
+                </div>
             </div>
         </section>
     );

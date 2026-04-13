@@ -21,7 +21,7 @@ export function StoryContent() {
                         <p>
                             This site cuts through that. Every article is researched
                             carefully, written in plain English, and focused on what&#39;s
-                            practical — not what&#39;s trending.
+                            practical - not what&#39;s trending.
                         </p>
                     </div>
                 </div>
@@ -105,7 +105,7 @@ export function StoryContent() {
                 <div className="space-y-8 text-xl leading-relaxed text-muted font-light">
                     <p>
                         Nothing gets recommended here without thorough research behind it. If
-                        it&#39;s on this site, there&#39;s a reason — and that reason will
+                        it&#39;s on this site, there&#39;s a reason - and that reason will
                         be explained to you, not just asserted.
                     </p>
                     <p className="text-white font-normal">
@@ -113,7 +113,7 @@ export function StoryContent() {
                     </p>
                     <div className="pt-12">
                         <p className="font-display italic text-4xl text-white">
-                            — The Calm Clarity Team
+                            - The Calm Clarity Team
                         </p>
                     </div>
                 </div>
