@@ -11,6 +11,13 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
+        image: "/worrystone_a.jpg",
+        category: "Wellness Tools",
+        title: "Best Worry Stones & Palm Stones for Anxiety (Compared)",
+        description: "Your hands want to do something when you're anxious. Discover how worry stones provide a constructive, tactile anchor for grounding your nervous system.",
+        href: "/articles/best-worry-stones-and-palm-stones-for-anxiety-compared"
+    },
+    {
         image: "/journal_1.jpg",
         category: "Psychology & Tools",
         title: "Best Anxiety Journals & Guided Journals (Compared): Find the Right One for You",
