@@ -11,6 +11,13 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
+        image: "/massagegun_a.jpg",
+        category: "Wellness Tools",
+        title: "Best Massage Guns for Anxiety & Muscle Tension (Compared)",
+        description: "Anxiety doesn't stay in your mind—it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
+        href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
+    },
+    {
         image: "/worrystone_a.jpg",
         category: "Wellness Tools",
         title: "Best Worry Stones & Palm Stones for Anxiety (Compared)",
