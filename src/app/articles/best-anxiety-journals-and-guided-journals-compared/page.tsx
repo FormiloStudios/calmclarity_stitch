@@ -35,11 +35,11 @@ export default function ArticlePage() {
                     <header className="max-w-4xl mx-auto text-center mb-16">
                         <div className="flex justify-center mb-8">
                             <span className="bg-slate-100 dark:bg-slate-900 text-slate-900 dark:text-slate-100 text-[0.65rem] font-bold uppercase tracking-[0.3em] px-4 py-1.5 rounded-full border border-slate-200 dark:border-slate-800">
-                                Psychology & Tools
+                                Psychology and Tools
                             </span>
                         </div>
                         <h1 className="font-display text-5xl md:text-7xl font-bold mb-8 leading-[1.1] text-slate-900 dark:text-white tracking-tight">
-                            Best Anxiety Journals & Guided Journals (Compared): Find the Right One for You
+                            Best Anxiety Journals and Guided Journals (Compared): Find the Right One for You
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
                             <span>April 2026</span>

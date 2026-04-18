@@ -22,7 +22,7 @@ export default function ArticlePage() {
                             </span>
                         </div>
                         <h1 className="font-display text-5xl md:text-7xl font-bold mb-8 leading-[1.1] text-slate-900 dark:text-white tracking-tight">
-                            Best Worry Stones & Palm Stones for Anxiety (Compared)
+                            Best Worry Stones and Palm Stones for Anxiety (Compared)
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
                             <span>April 2026</span>
@@ -33,7 +33,7 @@ export default function ArticlePage() {
 
                     {/* Image: Hero (Placeholder: worrystone_a.jpg) */}
                     <div className="relative w-full mb-16 rounded-2xl overflow-hidden shadow-2xl bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                        <img src="/worrystone_a.jpg" alt="Best Worry Stones & Palm Stones" className="w-full h-auto block" />
+                        <img src="/worrystone_a.jpg" alt="Best Worry Stones and Palm Stones" className="w-full h-auto block" />
                     </div>
 
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed max-w-none">

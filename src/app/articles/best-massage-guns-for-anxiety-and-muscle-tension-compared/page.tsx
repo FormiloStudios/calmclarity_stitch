@@ -39,7 +39,7 @@ export default function ArticlePage() {
                             </span>
                         </div>
                         <h1 className="font-display text-5xl md:text-7xl font-bold mb-8 leading-[1.1] text-slate-900 dark:text-white tracking-tight">
-                            Best Massage Guns for Anxiety & Muscle Tension (Compared)
+                            Best Massage Guns for Anxiety and Muscle Tension (Compared)
                         </h1>
                         <div className="flex items-center justify-center space-x-4 text-sm text-slate-500 dark:text-slate-400">
                             <span>April 2026</span>

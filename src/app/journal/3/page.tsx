@@ -13,21 +13,21 @@ const articles: { image: string; category: string; readTime?: string; title: str
     {
         image: "/worrystone_a.jpg",
         category: "Wellness Tools",
-        title: "Best Worry Stones & Palm Stones for Anxiety (Compared)",
+        title: "Best Worry Stones and Palm Stones for Anxiety (Compared)",
         description: "Your hands want to do something when you're anxious. Discover how worry stones provide a constructive, tactile anchor for grounding your nervous system.",
         href: "/articles/best-worry-stones-and-palm-stones-for-anxiety-compared"
     },
     {
         image: "/journal_1.jpg",
-        category: "Psychology & Tools",
-        title: "Best Anxiety Journals & Guided Journals (Compared): Find the Right One for You",
+        category: "Psychology and Tools",
+        title: "Best Anxiety Journals and Guided Journals (Compared): Find the Right One for You",
         description: "Journals are more than just paper - they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
         href: "/articles/best-anxiety-journals-and-guided-journals-compared"
     },
     {
         image: "/massagegun_a.jpg",
         category: "Wellness Tools",
-        title: "Best Massage Guns for Anxiety & Muscle Tension (Compared)",
+        title: "Best Massage Guns for Anxiety and Muscle Tension (Compared)",
         description: "Anxiety doesn't stay in your mind - it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
         href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
     },
