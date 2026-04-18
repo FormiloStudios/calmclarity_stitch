@@ -14,7 +14,7 @@ const articles: { image: string; category: string; readTime?: string; title: str
         image: "/massagegun_a.jpg",
         category: "Wellness Tools",
         title: "Best Massage Guns for Anxiety & Muscle Tension (Compared)",
-        description: "Anxiety doesn't stay in your mind—it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
+        description: "Anxiety doesn't stay in your mind - it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
         href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
     },
     {
