@@ -11,13 +11,6 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
-        image: "/massagegun_a.jpg",
-        category: "Wellness Tools",
-        title: "Best Massage Guns for Anxiety & Muscle Tension (Compared)",
-        description: "Anxiety doesn't stay in your mind - it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
-        href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
-    },
-    {
         image: "/worrystone_a.jpg",
         category: "Wellness Tools",
         title: "Best Worry Stones & Palm Stones for Anxiety (Compared)",
@@ -28,8 +21,15 @@ const articles: { image: string; category: string; readTime?: string; title: str
         image: "/journal_1.jpg",
         category: "Psychology & Tools",
         title: "Best Anxiety Journals & Guided Journals (Compared): Find the Right One for You",
-        description: "Journals are more than just paper—they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
+        description: "Journals are more than just paper - they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
         href: "/articles/best-anxiety-journals-and-guided-journals-compared"
+    },
+    {
+        image: "/massagegun_a.jpg",
+        category: "Wellness Tools",
+        title: "Best Massage Guns for Anxiety & Muscle Tension (Compared)",
+        description: "Anxiety doesn't stay in your mind - it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
+        href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
     },
 ];
 
@@ -38,10 +38,12 @@ export default function JournalPage3() {
     const router = useRouter();
 
     useEffect(() => {
-        if (localStorage.getItem('dev_access') === 'true') {
-            setAuthorized(true);
-        } else {
-            router.push('/');
+        if (typeof window !== 'undefined') {
+            if (localStorage.getItem('dev_access') === 'true') {
+                setAuthorized(true);
+            } else {
+                router.push('/');
+            }
         }
     }, [router]);
 
@@ -54,7 +56,7 @@ export default function JournalPage3() {
 
             <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
                 <div className="text-center mb-24">
-                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50">Journal — Page 3</h2>
+                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal — Page 3 (System Verified)</h2>
                     <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
                 </div>
 
@@ -77,7 +79,7 @@ export default function JournalPage3() {
                 <div className="mt-32 text-center flex flex-col sm:flex-row items-center justify-center gap-8">
                     <Link
                         href="/journal/2"
-                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1"
+                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1 text-slate-900 dark:text-white"
                     >
                         ← Previous Page
                     </Link>
