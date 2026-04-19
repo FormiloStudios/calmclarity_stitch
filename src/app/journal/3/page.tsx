@@ -56,7 +56,7 @@ export default function JournalPage3() {
 
             <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
                 <div className="text-center mb-24">
-                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal — Page 3 (Build Active)</h2>
+                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal — Page 3</h2>
                     <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
                 </div>
 
