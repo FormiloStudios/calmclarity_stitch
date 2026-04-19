@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
+import { NewsletterSection } from "@/components/NewsletterSection";
 import { ScrollObserver } from "@/components/ScrollObserver";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import Link from "next/link";
