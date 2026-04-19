@@ -11,6 +11,13 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
+        image: "/massagegun_a.jpg",
+        category: "Wellness Tools",
+        title: "Best Massage Guns for Anxiety and Muscle Tension (Compared)",
+        description: "Anxiety doesn't stay in your mind - it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
+        href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
+    },
+    {
         image: "/worrystone_a.jpg",
         category: "Wellness Tools",
         title: "Best Worry Stones and Palm Stones for Anxiety (Compared)",
@@ -23,13 +30,6 @@ const articles: { image: string; category: string; readTime?: string; title: str
         title: "Best Anxiety Journals and Guided Journals (Compared): Find the Right One for You",
         description: "Journals are more than just paper - they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
         href: "/articles/best-anxiety-journals-and-guided-journals-compared"
-    },
-    {
-        image: "/massagegun_a.jpg",
-        category: "Wellness Tools",
-        title: "Best Massage Guns for Anxiety and Muscle Tension (Compared)",
-        description: "Anxiety doesn't stay in your mind - it lives in your body. Discover how percussive therapy breaks the physical tension loop directly.",
-        href: "/articles/best-massage-guns-for-anxiety-and-muscle-tension-compared"
     },
 ];
 
@@ -56,7 +56,7 @@ export default function JournalPage3() {
 
             <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
                 <div className="text-center mb-24">
-                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal — Page 3 (System Verified)</h2>
+                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal — Page 3 (Build Active)</h2>
                     <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
                 </div>
 

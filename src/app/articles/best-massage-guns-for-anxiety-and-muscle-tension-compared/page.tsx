@@ -237,7 +237,7 @@ export default function ArticlePage() {
                                             <ul className="space-y-4 font-light text-slate-600 dark:text-slate-400 list-none p-0 m-0">
                                                 <li className="flex justify-between border-b border-slate-100 dark:border-white/5 pb-2"><span>Price</span> <span className="font-medium">$85</span></li>
                                                 <li className="flex justify-between border-b border-slate-100 dark:border-white/5 pb-2"><span>Special</span> <span className="font-medium">Heat + Cold</span></li>
-                                                <li className="flex justify-between border-b border-slate-100 dark:border-white/5 pb-2"><span>Noise</span> <span className="font-medium">Quiet (<45dB)</span></li>
+                                                <li className="flex justify-between border-b border-slate-100 dark:border-white/5 pb-2"><span>Noise</span> <span className="font-medium">Quiet (&lt;45dB)</span></li>
                                                 <li className="flex justify-between border-b border-slate-100 dark:border-white/5 pb-2"><span>Type</span> <span className="font-medium">FSA Approved</span></li>
                                             </ul>
                                         </div>
