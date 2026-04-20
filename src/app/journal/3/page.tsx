@@ -25,7 +25,7 @@ const articles: { image: string; category: string; readTime?: string; title: str
         href: "/articles/best-worry-stones-and-palm-stones-for-anxiety-compared"
     },
     {
-        image: "/journal_1.jpg",
+        image: "/bajc_a.jpg",
         category: "Psychology and Tools",
         title: "Best Anxiety Journals and Guided Journals (Compared): Find the Right One for You",
         description: "Journals are more than just paper - they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",

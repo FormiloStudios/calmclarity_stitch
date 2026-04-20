@@ -164,7 +164,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">🏆 Best Overall / Best Budget</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/mg_1.jpg" alt="TOLOCO EM26" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/massagegun_1.jpg" alt="TOLOCO EM26" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
 
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-10 text-[0.95rem]">
@@ -194,7 +194,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">✈️ Best Portable / Best for Travel</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/mg_2.jpg" alt="Bob and Brad Q2 Mini" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/massagegun_2.jpg" alt="Bob and Brad Q2 Mini" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
 
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-10 text-[0.95rem]">
@@ -224,7 +224,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">🌡️ Best Heat + Cold / Most Versatile</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/mg_3.jpg" alt="RENPHO Thermacool 2" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/massagegun_3.jpg" alt="RENPHO Thermacool 2" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
 
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-10 text-[0.95rem]">
@@ -254,7 +254,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">📱 Best App-Guided / Gentlest Theragun</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/mg_4.jpg" alt="Theragun Relief" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/massagegun_4.jpg" alt="Theragun Relief" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
 
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-10 text-[0.95rem]">
@@ -284,7 +284,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">💪 Most Powerful / Best for Deep Tension Relief</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/mg_5.jpg" alt="Bob and Brad D6 Pro Plus" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/massagegun_5.jpg" alt="Bob and Brad D6 Pro Plus" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
 
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-10 text-[0.95rem]">
@@ -334,6 +334,9 @@ export default function ArticlePage() {
                             <hr className="my-16 border-slate-100 dark:border-slate-800" />
 
                             <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
+                                <div className="mb-12 flex justify-center">
+                                    <img src="/massagegun_c.jpg" alt="Final Verdict" className="w-full max-w-2xl h-auto rounded-3xl" />
+                                </div>
                                 <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none text-slate-900 dark:text-white">Final Verdict</h2>
                                 <p>For most people, the <strong>TOLOCO EM26 at $40</strong> is the right starting point. Sixty-two thousand reviews confirming it works, 10 attachments, 40-50dB quiet operation, and a low-risk price.</p>
                                 <p>If you travel frequently, the <strong>Bob and Brad Q2 Mini at $63</strong> is the most portable option - 0.95 lbs and designed by physical therapists specifically for everyday use.</p>

@@ -50,7 +50,7 @@ export default function ArticlePage() {
 
                     {/* Hero Image */}
                     <div className="relative w-full mb-16 rounded-2xl overflow-hidden shadow-2xl bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                        <img src="/journal_1.jpg" alt="Best Anxiety Journals" className="w-full h-auto block" />
+                        <img src="/bajc_a.jpg" alt="Best Anxiety Journals" className="w-full h-auto block" />
                     </div>
 
                     <div className="prose prose-lg dark:prose-invert prose-slate mx-auto font-light leading-relaxed max-w-none">
@@ -58,6 +58,10 @@ export default function ArticlePage() {
                             <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 font-light mb-12 leading-relaxed italic">
                                 Most anxiety management tools in this series work on your body. Weighted blankets apply pressure. White noise machines calm your nervous system through sound. Acupressure mats release physical tension. They're all passive - you use them and they do their work.
                             </p>
+
+                            <div className="my-16 flex justify-center">
+                                <img src="/bajc_b.jpg" alt="Journaling practice" className="w-full max-w-4xl h-auto rounded-2xl shadow-xl" />
+                            </div>
 
                             <p>Journals are different. They're an active practice, and that's precisely what makes them valuable in a way no physical tool can replicate. Writing about anxiety externalizes it - moves it from the swirling, overwhelming inside of your head onto a page where you can see it, examine it, and respond to it with some distance. The thoughts that feel enormous and all-consuming when they're inside you often look smaller and more manageable when they're written down in front of you.</p>
 
@@ -175,7 +179,7 @@ export default function ArticlePage() {
                                 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                        <img src="/ajp_1.jpg" alt="The Five Minute Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_1.jpg" alt="The Five Minute Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                     <div className="space-y-6">
                                         <div className="grid grid-cols-2 gap-6 text-sm mb-8">
@@ -242,7 +246,7 @@ export default function ArticlePage() {
                                         </div>
                                     </div>
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] order-1 md:order-2">
-                                        <img src="/ajp_2.jpg" alt="No Worries Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_2.jpg" alt="No Worries Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                 </div>
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 text-[0.95rem]">
@@ -277,7 +281,7 @@ export default function ArticlePage() {
                                 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                        <img src="/ajp_3.jpg" alt="Worry for Nothing Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_3.jpg" alt="Worry for Nothing Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                     <div className="space-y-6">
                                         <div className="grid grid-cols-2 gap-6 text-sm mb-8">
@@ -343,7 +347,7 @@ export default function ArticlePage() {
                                         </div>
                                     </div>
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] order-1 md:order-2">
-                                        <img src="/ajp_4.jpg" alt="Goodbye Anxiety Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_4.jpg" alt="Goodbye Anxiety Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                 </div>
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 text-[0.95rem]">
@@ -377,7 +381,7 @@ export default function ArticlePage() {
                                 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                        <img src="/ajp_5.jpg" alt="Corinne Sweet Anxiety Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_5.jpg" alt="Corinne Sweet Anxiety Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                     <div className="space-y-6">
                                         <div className="grid grid-cols-2 gap-6 text-sm mb-8">
@@ -443,7 +447,7 @@ export default function ArticlePage() {
                                         </div>
                                     </div>
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] order-1 md:order-2">
-                                        <img src="/ajp_6.jpg" alt="52-Week Mental Health Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_6.jpg" alt="52-Week Mental Health Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                 </div>
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10 text-[0.95rem]">
@@ -477,7 +481,7 @@ export default function ArticlePage() {
                                 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                        <img src="/ajp_7.jpg" alt="Put Your Worries Here Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/bajc_7.jpg" alt="Put Your Worries Here Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                     <div className="space-y-6">
                                         <div className="grid grid-cols-2 gap-6 text-sm mb-8">
@@ -565,6 +569,9 @@ export default function ArticlePage() {
                             </div>
 
                             <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
+                                <div className="mb-12 flex justify-center">
+                                    <img src="/bajc_c.jpg" alt="Final Verdict" className="w-full max-w-2xl h-auto rounded-3xl" />
+                                </div>
                                 <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none text-slate-900 dark:text-white">Final Verdict</h2>
                                 <p>For most people starting out, <strong>The Five Minute Journal at $25</strong> is the right choice. Its proven simplicity is what targets anxiety-driven overwhelm so effectively.</p>
                                 <p>If you want anxiety-specific structure from day one, <strong>No Worries at $9</strong> is the best value. For genuine CBT work, <strong>Worry for Nothing at $15</strong> is the most practical choice.</p>

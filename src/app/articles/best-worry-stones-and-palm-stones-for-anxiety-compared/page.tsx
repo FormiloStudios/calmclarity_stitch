@@ -61,6 +61,10 @@ export default function ArticlePage() {
 
                             <p>A worry stone is a small, smooth, polished gemstone - typically oval-shaped with a shallow thumb-sized indentation - designed to be held and rubbed. You place your thumb in the groove and move it back and forth or in circles across the smooth surface. The motion is simple, discreet, and portable. You can use it at your desk, in your pocket during a difficult conversation, on a plane, or as a grounding anchor during meditation.</p>
                             
+                            <div className="my-16 flex justify-center">
+                                <img src="/worrystone_b.jpg" alt="How worry stones work" className="w-full max-w-4xl h-auto rounded-2xl shadow-xl" />
+                            </div>
+
                             <p>They&#39;ve been used for thousands of years across cultures - ancient Greece, Tibet, Ireland, Native American traditions - long before anyone had clinical language for what they were doing. People had simply discovered that holding and rubbing a smooth stone during moments of stress and worry produced a tangible calming effect. Modern research on tactile grounding and self-soothing behavior explains why.</p>
                             
                             <p>The challenge with buying worry stones on Amazon is that there are hundreds of near-identical looking products. This guide covers what actually differentiates them - stone type, size, set vs single, shape - and recommends nine specific products across every budget and use case.</p>
@@ -100,7 +104,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">🏆 Best Single Stone / Most Popular</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/wps_1.jpg" alt="AMIRCE Amethyst" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/worrystone_1.jpg" alt="AMIRCE Amethyst" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                     
                                     <div className="grid grid-cols-2 gap-8 mb-8 text-[0.95rem]">
@@ -148,7 +152,7 @@ export default function ArticlePage() {
                                     <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-6">👁️ Best for Mindfulness / Chakra Focus</p>
                                     
                                     <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-8 group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[300px]">
-                                        <img src="/wps_2.jpg" alt="SHARKOOO Chakra Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                        <img src="/worrystone_2.jpg" alt="SHARKOOO Chakra Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                     </div>
                                     
                                     <div className="grid grid-cols-2 gap-8 mb-8 text-[0.95rem]">
@@ -197,7 +201,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">🎁 Best for Gifting / Best Heart Shape</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_3.jpg" alt="YATOJUZI Heart Stones" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_3.jpg" alt="YATOJUZI Heart Stones" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -233,7 +237,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">🖤 Best Grounding Pair / Best for Emotional Protection</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_4.jpg" alt="QINJIEJIE Amethyst and Obsidian" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_4.jpg" alt="QINJIEJIE Amethyst and Obsidian" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -269,7 +273,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">🌟 Best Starter Set</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_5.jpg" alt="CrystalTears 4-Pack" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_5.jpg" alt="CrystalTears 4-Pack" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -305,7 +309,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">🌈 Most Visually Unique</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_6.jpg" alt="Rainbow Fluorite Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_6.jpg" alt="Rainbow Fluorite Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -341,7 +345,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">🔮 Best Variety Set</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_7.jpg" alt="GolbalJew 6-Pack" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_7.jpg" alt="GolbalJew 6-Pack" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -377,7 +381,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">🖐️ Best Large / Full Palm Stone</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_8.jpg" alt="LAIDANLA Large Palm Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_8.jpg" alt="LAIDANLA Large Palm Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -413,7 +417,7 @@ export default function ArticlePage() {
                                 <p className="bg-primary/10 text-primary text-[0.65rem] font-bold uppercase tracking-widest px-4 py-1.2 rounded-full border border-primary/20 self-start mb-8 inline-block">📦 Best Bulk Value</p>
                                 
                                 <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl mb-10 group bg-slate-100 dark:bg-slate-900 min-h-[400px]">
-                                    <img src="/wps_9.jpg" alt="LAIDANLA 10-Pack Mini Stones" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
+                                    <img src="/worrystone_9.jpg" alt="LAIDANLA 10-Pack Mini Stones" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
                                 </div>
 
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-10 text-[0.95rem]">
@@ -485,6 +489,9 @@ export default function ArticlePage() {
                             <hr className="my-16 border-slate-100 dark:border-slate-800" />
 
                             <div className="text-center py-20 bg-slate-50 dark:bg-slate-900 rounded-[3.5rem] px-12 border border-slate-100 dark:border-slate-800 shadow-xl max-w-4xl mx-auto my-32">
+                                <div className="mb-12 flex justify-center">
+                                    <img src="/worrystone_c.jpg" alt="Final Verdict" className="w-full max-w-2xl h-auto rounded-3xl" />
+                                </div>
                                 <h2 className="font-display text-4xl md:text-5xl font-bold mb-8 uppercase tracking-tighter italic leading-none text-slate-900 dark:text-white">Final Verdict</h2>
                                 <p>For most people starting out, the <strong>CrystalTears 4-Pack at $16</strong> is the best starting point. Four different stones lets you discover which type you naturally reach for, and the gift box presentation means it works equally well as a personal purchase or a gift.</p>
                                 <p>If you specifically want amethyst, the <strong>AMIRCE Natural Amethyst at $9</strong> is the best value single-stone option.</p>
