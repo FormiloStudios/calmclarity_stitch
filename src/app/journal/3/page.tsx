@@ -11,6 +11,13 @@ import Link from "next/link";
 
 const articles: { image: string; category: string; readTime?: string; title: string; description: string; href: string; }[] = [
     {
+        image: "/epsom_a.jpg",
+        category: "Wellness Tools",
+        title: "Best Epsom Salts for Anxiety and Muscle Relaxation (Compared)",
+        description: "There's a reason a warm bath has been a go-to stress relief ritual across cultures for thousands of years. Add Epsom salt and you're either enhancing that experience with magnesium or simply making a very good bath even better.",
+        href: "/articles/best-epsom-salts-for-anxiety-and-muscle-relaxation-compared"
+    },
+    {
         image: "/massagegun_a.jpg",
         category: "Wellness Tools",
         title: "Best Massage Guns for Anxiety and Muscle Tension (Compared)",
@@ -34,16 +41,6 @@ const articles: { image: string; category: string; readTime?: string; title: str
 ];
 
 export default function JournalPage() {
-    const [canSeeDrafts, setCanSeeDrafts] = useState(false);
-
-    useEffect(() => {
-        if (typeof window !== 'undefined') {
-            if (localStorage.getItem('dev_access') === 'true') {
-                setCanSeeDrafts(true);
-            }
-        }
-    }, []);
-
     return (
         <>
             <ScrollObserver />
@@ -78,14 +75,6 @@ export default function JournalPage() {
                     >
                         ← Previous Page
                     </Link>
-                    {canSeeDrafts && (
-                        <Link
-                            href="/journal/4"
-                            className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1 text-slate-900 dark:text-white font-bold"
-                        >
-                            Next Page (Drafts) →
-                        </Link>
-                    )}
                 </div>
             </main>
 
