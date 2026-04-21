@@ -33,22 +33,7 @@ const articles: { image: string; category: string; readTime?: string; title: str
     },
 ];
 
-export default function JournalPage3() {
-    const [authorized, setAuthorized] = useState(false);
-    const router = useRouter();
-
-    useEffect(() => {
-        if (typeof window !== 'undefined') {
-            if (localStorage.getItem('dev_access') === 'true') {
-                setAuthorized(true);
-            } else {
-                router.push('/');
-            }
-        }
-    }, [router]);
-
-    if (!authorized) return <div className="min-h-screen bg-white dark:bg-slate-950" />;
-
+export default function JournalPage() {
     return (
         <>
             <ScrollObserver />

@@ -9,21 +9,6 @@ import { ScrollObserver } from "@/components/ScrollObserver";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 
 export default function ArticlePage() {
-    const [authorized, setAuthorized] = useState(false);
-    const router = useRouter();
-
-    useEffect(() => {
-        if (typeof window !== 'undefined') {
-            if (localStorage.getItem('dev_access') === 'true') {
-                setAuthorized(true);
-            } else {
-                router.push('/');
-            }
-        }
-    }, [router]);
-
-    if (!authorized) return <div className="min-h-screen bg-white dark:bg-slate-950" />;
-
     return (
         <>
             <ScrollObserver />
