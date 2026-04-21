@@ -34,6 +34,16 @@ const articles: { image: string; category: string; readTime?: string; title: str
 ];
 
 export default function JournalPage() {
+    const [canSeeDrafts, setCanSeeDrafts] = useState(false);
+
+    useEffect(() => {
+        if (typeof window !== 'undefined') {
+            if (localStorage.getItem('dev_access') === 'true') {
+                setCanSeeDrafts(true);
+            }
+        }
+    }, []);
+
     return (
         <>
             <ScrollObserver />
@@ -41,7 +51,7 @@ export default function JournalPage() {
 
             <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
                 <div className="text-center mb-24">
-                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal — Page 3</h2>
+                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal - Page 3</h2>
                     <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
                 </div>
 
@@ -68,6 +78,14 @@ export default function JournalPage() {
                     >
                         ← Previous Page
                     </Link>
+                    {canSeeDrafts && (
+                        <Link
+                            href="/journal/4"
+                            className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1 text-slate-900 dark:text-white font-bold"
+                        >
+                            Next Page (Drafts) →
+                        </Link>
+                    )}
                 </div>
             </main>
 
