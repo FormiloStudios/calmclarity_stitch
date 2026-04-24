@@ -201,7 +201,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4tzpJAF" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4tzpJAF" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">The Five Minute Journal is the most popular guided journal on Amazon globally, and for good reason. The format is almost impossibly simple: three morning prompts (what are you grateful for, what would make today great, a daily affirmation) and two evening prompts (three amazing things that happened, how could today have been better). Five minutes. Done.</p>
@@ -232,7 +232,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4tzpJAF" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check The Five Minute Journal on Amazon →</a>
+                                            <a href="https://amzn.to/4tzpJAF" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check The Five Minute Journal on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -258,7 +258,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/3Q1NJxF" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/3Q1NJxF" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">No Worries occupies a specific and useful middle ground: more anxiety-specific than the Five Minute Journal, more accessible than a full CBT workbook. The 12-week structure gives you a defined arc - a beginning, middle, and end - which is particularly helpful for people who find open-ended journaling directionless.</p>
@@ -288,7 +288,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/3Q1NJxF" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check No Worries on Amazon →</a>
+                                            <a href="https://amzn.to/3Q1NJxF" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check No Worries on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/bajc_2.jpg" alt="No Worries Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -324,7 +324,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4sTAhdV" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4sTAhdV" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Worry for Nothing solves two problems simultaneously: it delivers clinical-quality CBT thought work, and it does so in a journal that looks like a tasteful hardcover notebook rather than a mental health product. The listing specifically notes that the cover doesn't spell out "worry" or "anxiety" - a deliberately discreet design choice that matters for people who journal in shared spaces, at work, or who simply don't want a wellness journal on their bedside table announcing their anxiety to anyone who walks in.</p>
@@ -354,7 +354,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4sTAhdV" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Worry for Nothing on Amazon →</a>
+                                            <a href="https://amzn.to/4sTAhdV" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Worry for Nothing on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -380,7 +380,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4m7VAFS" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4m7VAFS" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">The credentials here are the differentiator. Terri Bacow is a clinical psychologist who specializes in anxiety treatment, and Goodbye Anxiety is endorsed by Lisa Damour PhD - one of the most respected psychologists in the field of adolescent and adult anxiety. The book combines CBT (Cognitive Behavioral Therapy) and DBT (Dialectical Behavior Therapy) - two of the most evidence-based approaches for anxiety - in a self-guided format that makes these clinical tools accessible without requiring a therapist.</p>
@@ -409,7 +409,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4m7VAFS" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Goodbye, Anxiety on Amazon →</a>
+                                            <a href="https://amzn.to/4m7VAFS" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Goodbye, Anxiety on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/bajc_4.jpg" alt="Goodbye Anxiety Journal" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -445,7 +445,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/3PVdf7O" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/3PVdf7O" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Corinne Sweet is a psychologist and psychotherapist who has written fourteen books including several bestsellers. The Anxiety Journal, beautifully illustrated by designer Marcia Mihotich, is the result of that clinical background applied to a format that prioritizes accessibility and aesthetics alongside therapeutic value.</p>

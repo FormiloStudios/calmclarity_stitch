@@ -113,7 +113,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4vTvxaa" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4vTvxaa" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">At $3.23 for 3 lbs, this is the lowest price per bath of any product on this list and the #1 bestseller in Bath Salts on Amazon. For someone trying Epsom salt baths for the first time, or anyone who wants pure USP grade magnesium sulfate without added fragrance at the absolute lowest cost, nothing beats this.</p>
@@ -140,7 +140,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4vTvxaa" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Amazon Basics Epsom Salt on Amazon →</a>
+                                            <a href="https://amzn.to/4vTvxaa" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Amazon Basics Epsom Salt on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -170,7 +170,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4t9OQtU" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4t9OQtU" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Dr Teal's is the most recognized Epsom salt brand in the world, and their lavender soak is the product that built that reputation. Eighteen thousand reviews at 4.8 stars makes this the most socially validated scented Epsom salt on Amazon. The lavender essential oil does genuine therapeutic work beyond its pleasant scent - lavender is the most researched essential oil for anxiety and sleep.</p>
@@ -197,7 +197,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4t9OQtU" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Dr Teal's Lavender on Amazon →</a>
+                                            <a href="https://amzn.to/4t9OQtU" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Dr Teal's Lavender on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/epsom_2.jpg" alt="Dr Teal's Lavender Epsom Salt" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -233,7 +233,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4cTM2v6" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4cTM2v6" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Where the lavender soak targets the mind and sleep, the eucalyptus and spearmint soak targets the body - specifically the physical tension that anxiety creates and sustains in your muscles. Eucalyptus oil contains 1,8-cineole, a compound that directly relaxes bronchial smooth muscle and reduces physical tension. Spearmint provides a cooling, clarifying quality that counters the foggy, heavy feeling that prolonged anxiety produces.</p>
@@ -260,7 +260,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4cTM2v6" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Eucalyptus and Spearmint on Amazon →</a>
+                                            <a href="https://amzn.to/4cTM2v6" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Eucalyptus and Spearmint on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -290,7 +290,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4t9OQtU" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4t9OQtU" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">This is the most sleep-targeted product on this list. Where the standard lavender soak provides aromatherapy through lavender essential oil, the Sleep Blend adds melatonin - the hormone that regulates your sleep-wake cycle - directly to the formula. The melatonin is inhaled as part of the steam from your bath, complementing the lavender and chamomile aromatherapy for a three-pronged pre-sleep signal.</p>
@@ -317,7 +317,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4t9OQtU" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Melatonin Sleep Blend on Amazon →</a>
+                                            <a href="https://amzn.to/4t9OQtU" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Melatonin Sleep Blend on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/epsom_4.jpg" alt="Melatonin Sleep Blend Epsom Salt" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -353,7 +353,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4vBaPLQ" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4vBaPLQ" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Village Naturals Therapy is a different category of product. Where Dr Teal's is Epsom salt plus essential oil fragrance, Village Naturals is a concentrated therapeutic mineral soak - it combines Epsom salt with sea salt, menthol, wintergreen, eucalyptus, and spearmint in a concentrated formula where only 2 capfuls are needed per bath.</p>
@@ -381,7 +381,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4vBaPLQ" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Village Naturals Therapy on Amazon →</a>
+                                            <a href="https://amzn.to/4vBaPLQ" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Village Naturals Therapy on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -411,7 +411,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4cmhoug" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4cmhoug" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Important framing upfront: this is primarily a foot health product rather than a full-body anxiety soak. It's included here because foot soaks are a genuinely accessible alternative to full baths for daily Epsom salt use - particularly for people without bathtubs, limited mobility, or those who simply want a 15-minute foot soak at their desk.</p>
@@ -439,7 +439,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4cmhoug" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Tea Tree Foot Soak on Amazon →</a>
+                                            <a href="https://amzn.to/4cmhoug" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Tea Tree Foot Soak on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/epsom_6.jpg" alt="Purely Northwest Foot Soak" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -475,7 +475,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/41KfzkN" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/41KfzkN" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">The economics of regular Epsom salt baths change dramatically at bulk scale. At 2 cups (roughly 1 lb) per bath, 38 lbs provides approximately 38 baths. At $63, that's $1.66 per bath - less than the per-bath cost of any 3 lb bag on this list, including Amazon Basics. For someone committed to daily or near-daily baths, the Epsoak bulk is the most sensible purchase.</p>
@@ -505,7 +505,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/41KfzkN" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Epsoak Bulk on Amazon →</a>
+                                            <a href="https://amzn.to/41KfzkN" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Epsoak Bulk on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>

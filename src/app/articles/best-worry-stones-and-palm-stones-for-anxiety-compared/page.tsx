@@ -116,7 +116,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/3T7fPyR" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/3T7fPyR" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Amethyst is the single most popular choice for anxiety relief. This specific Stoneage product is our top recommendation because it combines high natural stone quality with a standard, comfortable worry stone shape. It's a proper oval with a deep enough groove for meaningful thumb rubbing. The current listing at $9 includes a velvet carry pouch and a small gift box, making it a complete package at a very accessible price.</p>
@@ -141,7 +141,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/3T7fPyR" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Amethyst Worry Stone on Amazon →</a>
+                                            <a href="https://amzn.to/3T7fPyR" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Amethyst Worry Stone on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -171,7 +171,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4gYV6m8" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4gYV6m8" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">For those who incorporate the chakra system into their anxiety management, this composite stone provides all seven chakra stones (Amethyst, Lapis Lazuli, Sodalite, Green Aventurine, Tiger's Eye, Yellow Jade, Red Jasper) in one piece. It's a symbolic and visual representation of holistic balance.</p>
@@ -197,7 +197,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4gYV6m8" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Chakra Worry Stone on Amazon →</a>
+                                            <a href="https://amzn.to/4gYV6m8" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Chakra Worry Stone on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/worrystone_2.jpg" alt="7 Chakra Worry Stone" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -233,7 +233,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/41LdftX" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/41LdftX" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Important note upfront: these are heart-shaped holding stones, not traditional oval worry stones with a thumb groove. You hold them in your palm rather than rubbing with a thumb indentation. The experience is different - more about the warmth and weight of the stone in your hand than the repetitive rubbing motion.</p>
@@ -259,7 +259,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/41LdftX" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Heart Worry Stones on Amazon →</a>
+                                            <a href="https://amzn.to/41LdftX" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Heart Worry Stones on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -289,7 +289,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/41oCdPB" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/41oCdPB" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Amethyst and black obsidian are the most complementary anxiety pairing available in thumb stone format. Amethyst addresses the mental and emotional side of anxiety - calming the mind, reducing irritability, easing stress. Black obsidian addresses the energetic and physical grounding side - releasing negative energy, protecting against emotional overwhelm, anchoring you in the present.</p>
@@ -314,7 +314,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/41oCdPB" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Amethyst + Obsidian on Amazon →</a>
+                                            <a href="https://amzn.to/41oCdPB" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Amethyst + Obsidian on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/worrystone_4.jpg" alt="Amethyst and Obsidian Set" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -350,7 +350,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/3Q5P3Qc" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/3Q5P3Qc" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">CrystalTears is the most reviewed worry stone brand on Amazon - 4,426 reviews at 4.6 stars is the strongest social validation on this list by a wide margin. The 4-pack brings together four of the most popular anxiety crystals (amethyst for calm, rose quartz for emotional healing, tiger's eye for courage and grounding, lapis lazuli for clarity and inner peace) in a single elegant gift box, making it both the best value for trying multiple stones and the best-presented gifting option at this price point.</p>
@@ -376,7 +376,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/3Q5P3Qc" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check CrystalTears 4-Pack on Amazon →</a>
+                                            <a href="https://amzn.to/3Q5P3Qc" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check CrystalTears 4-Pack on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -406,7 +406,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4elQLa2" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4elQLa2" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Rainbow fluorite is one of the most visually distinctive worry stones available - the natural banding of purple and green creates a unique appearance that makes each stone completely different from every other. No two rainbow fluorite stones look the same. For people who find that beauty in their tools increases their motivation to use them, fluorite is one of the most compelling choices on the market.</p>
@@ -432,7 +432,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4elQLa2" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Rainbow Fluorite Heart on Amazon →</a>
+                                            <a href="https://amzn.to/4elQLa2" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Rainbow Fluorite Heart on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/worrystone_6.jpg" alt="Rainbow Fluorite Heart" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />

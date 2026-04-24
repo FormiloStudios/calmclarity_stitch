@@ -173,7 +173,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4szpq87" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4szpq87" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">With 62,152 reviews and the #1 ranking in Electric Back Massagers on Amazon, the TOLOCO EM26 is the most validated massage gun on this list by an enormous margin. At $40 (currently 33% off regular price), it's also the most accessible entry point in the category - and expert roundups consistently note it outperforms its price point significantly.</p>
@@ -203,7 +203,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4szpq87" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check TOLOCO EM26 on Amazon →</a>
+                                            <a href="https://amzn.to/4szpq87" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check TOLOCO EM26 on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -233,7 +233,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4tLiFAZ" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4tLiFAZ" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Bob and Brad - the "Most Famous Physical Therapists on the Internet" - designed this gun with a specific premise: all the benefit, none of the bulk. At 0.95 lbs and the size of a large phone, the Q2 Mini fits in a handbag, laptop bag, or carry-on and travels with you everywhere. It's the only massage gun on this list that you might actually have with you at 3pm when your shoulders seize up after hours of desk work.</p>
@@ -264,7 +264,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4tLiFAZ" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Q2 Mini on Amazon →</a>
+                                            <a href="https://amzn.to/4tLiFAZ" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Q2 Mini on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/massagegun_2.jpg" alt="Bob and Brad Q2 Mini" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -300,7 +300,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4230x9L" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4230x9L" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">The RENPHO Thermacool 2 is the only massage gun on this list with a heat and cold attachment - a feature that meaningfully expands what you can do with it. Heat therapy relaxes muscle tissue before percussion work begins, which means the massage gun can penetrate more effectively with less initial discomfort. Cold therapy after a session reduces inflammation and is particularly effective for acute tension or post-workout soreness.</p>
@@ -331,7 +331,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4230x9L" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check RENPHO Thermacool 2 on Amazon →</a>
+                                            <a href="https://amzn.to/4230x9L" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check RENPHO Thermacool 2 on Amazon →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -361,7 +361,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/4c97X1b" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/4c97X1b" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">Theragun built the modern massage gun market, and the Relief is their entry point - designed specifically for people who want soothing relief rather than aggressive athletic recovery. The 10mm amplitude and ~20 lbs of stall force make it the gentlest gun on this list in terms of depth and intensity, which is precisely why it's appropriate for anxiety-focused use.</p>
@@ -392,7 +392,7 @@ export default function ArticlePage() {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <a href="https://amzn.to/4c97X1b" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Theragun Relief on Amazon →</a>
+                                            <a href="https://amzn.to/4c97X1b" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="block text-center py-5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold uppercase tracking-widest text-xs rounded-full hover:bg-primary dark:hover:bg-primary hover:text-white transition-all duration-300">Check Theragun Relief on Amazon →</a>
                                         </div>
                                         <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl group border border-slate-100 dark:border-slate-800 bg-slate-100 dark:bg-slate-900 min-h-[400px] md:order-2 order-1">
                                             <img src="/massagegun_4.jpg" alt="Theragun Relief" className="w-full h-auto block transition-transform duration-700 group-hover:scale-105" />
@@ -428,7 +428,7 @@ export default function ArticlePage() {
                                                 </div>
                                                 <div>
                                                     <p className="font-bold text-slate-900 dark:text-white mb-1 uppercase tracking-widest text-[0.7rem]">Link</p>
-                                                    <a href="https://amzn.to/48wUXQF" className="text-primary hover:underline font-medium">View on Amazon</a>
+                                                    <a href="https://amzn.to/48wUXQF" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">View on Amazon</a>
                                                 </div>
                                             </div>
                                             <p className="text-slate-600 dark:text-slate-400 font-light leading-relaxed">The D6 Pro Plus has specifications that rival massage guns costing $400-600. The 85 lbs of stall force is exceptional - most guns in the $100-200 range deliver 30-50 lbs before the motor stalls. This means when you press firmly into the trapezius or upper back, the motor doesn't slow. It maintains consistent pressure and depth throughout the stroke.</p>
