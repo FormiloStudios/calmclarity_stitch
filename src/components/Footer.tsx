@@ -38,12 +38,20 @@ export function Footer() {
                             Terms of Service
                         </Link>
                     )}
-                    {!isContact && (
+                    {pathname !== '/contact' && (
                         <Link
                             href="/contact"
                             className="hover:text-white transition-colors text-muted"
                         >
                             Contact
+                        </Link>
+                    )}
+                    {pathname !== '/get-a-website' && (
+                        <Link
+                            href="/get-a-website"
+                            className="hover:text-white transition-colors text-muted"
+                        >
+                            Get A Website
                         </Link>
                     )}
                 </div>

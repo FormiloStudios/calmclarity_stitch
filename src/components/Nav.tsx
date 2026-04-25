@@ -32,6 +32,14 @@ export function Nav() {
                                 About
                             </Link>
                         )}
+                        {pathname !== '/get-a-website' && (
+                            <Link
+                                href="/get-a-website"
+                                className="hover:text-muted transition-colors text-white"
+                            >
+                                Get A Website
+                            </Link>
+                        )}
                     </div>
                 </div>
             </div>
