@@ -7,12 +7,33 @@ import { Footer } from "@/components/Footer";
 import { ScrollObserver } from "@/components/ScrollObserver";
 
 export default function GetAWebsitePage() {
+    const [submitted, setSubmitted] = useState(false);
+    const [formKey, setFormKey] = useState(0);
+
     useEffect(() => {
+        // Load Tally script
         const script = document.createElement('script');
         script.src = "https://tally.so/widgets/embed.js";
         script.async = true;
         document.body.appendChild(script);
+
+        // Listen for form submission from Tally iframe
+        const handleMessage = (e: MessageEvent) => {
+            if (e.data && typeof e.data === 'string' && e.data.includes('tally:form:submitted')) {
+                setSubmitted(true);
+            } else if (e.data && e.data.type === 'tally:form:submitted') {
+                setSubmitted(true);
+            }
+        };
+
+        window.addEventListener('message', handleMessage);
+        return () => window.removeEventListener('message', handleMessage);
     }, []);
+
+    const handleReset = () => {
+        setSubmitted(false);
+        setFormKey(prev => prev + 1); // Refresh the iframe
+    };
 
     return (
         <>
@@ -74,15 +95,29 @@ export default function GetAWebsitePage() {
                     <div className="max-w-4xl mx-auto">
                         <div className="text-center mb-16">
                             <p className="text-black dark:text-white text-3xl font-black tracking-tight uppercase italic">
-                                Fill in the form below
+                                {submitted ? "Message Received" : "Fill in the form below"}
                             </p>
                         </div>
 
-                        {/* Restored Form Container without aggressive filters */}
-                        <div className="relative p-1.5 rounded-[4rem] bg-black shadow-[0_60px_120px_-20px_rgba(0,0,0,0.8)]">
-                            <div className="bg-white dark:bg-slate-950 rounded-[3.9rem] overflow-hidden">
-                                <div className="w-full min-h-[700px]">
+                        <div className="relative p-1.5 rounded-[4rem] bg-black shadow-[0_60px_120px_-20px_rgba(0,0,0,0.8)] min-h-[500px] flex items-center justify-center overflow-hidden">
+                            {submitted ? (
+                                <div className="text-center p-12 animate-in fade-in zoom-in duration-500">
+                                    <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center mx-auto mb-8 shadow-lg shadow-primary/20">
+                                        <span className="text-white text-4xl">✓</span>
+                                    </div>
+                                    <h3 className="text-3xl font-display font-bold text-white mb-6 italic">Thank You</h3>
+                                    <p className="text-white/70 mb-10 max-w-sm mx-auto">Your details have been received. I'll get back to you within 24 hours.</p>
+                                    <button 
+                                        onClick={handleReset}
+                                        className="px-12 py-4 bg-white text-black font-black uppercase tracking-widest text-xs rounded-full hover:bg-primary hover:text-white transition-all duration-300"
+                                    >
+                                        OK
+                                    </button>
+                                </div>
+                            ) : (
+                                <div className="bg-white dark:bg-slate-950 rounded-[3.9rem] overflow-hidden w-full h-full">
                                     <iframe 
+                                        key={formKey}
                                         src="https://tally.so/embed/ZjzQy0?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" 
                                         width="100%" 
                                         height="750" 
@@ -93,7 +128,7 @@ export default function GetAWebsitePage() {
                                         className="w-full"
                                     ></iframe>
                                 </div>
-                            </div>
+                            )}
                         </div>
                     </div>
                 </div>
