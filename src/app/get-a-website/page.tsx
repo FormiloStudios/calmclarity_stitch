@@ -35,7 +35,7 @@ export default function GetAWebsitePage() {
             <Nav />
 
             <main className="bg-white dark:bg-slate-950 min-h-screen pt-32 pb-24 relative overflow-hidden">
-                {/* Visual Depth Background - Simplified to avoid gray tones */}
+                {/* Visual Depth Background */}
                 <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none opacity-20">
                     <div className="absolute top-[10%] right-[-5%] w-[50%] h-[50%] bg-primary/10 rounded-full blur-[150px]"></div>
                 </div>
@@ -93,7 +93,7 @@ export default function GetAWebsitePage() {
                             </p>
                         </div>
 
-                        {/* Form Container with Aggressive "Black-Out" Filter */}
+                        {/* Restored Form Container without aggressive filters */}
                         <div className="relative p-1.5 rounded-[4rem] bg-black shadow-[0_60px_120px_-20px_rgba(0,0,0,0.8)]">
                             <div className="bg-white dark:bg-slate-950 rounded-[3.9rem] overflow-hidden">
                                 <div className="w-full min-h-[700px]">
@@ -105,7 +105,7 @@ export default function GetAWebsitePage() {
                                         marginHeight={0} 
                                         marginWidth={0} 
                                         title="Get A Website"
-                                        className="w-full contrast-[1.8] brightness-[0.7] saturate-[0]"
+                                        className="w-full"
                                     ></iframe>
                                 </div>
                             </div>
