@@ -7,27 +7,12 @@ import { Footer } from "@/components/Footer";
 import { ScrollObserver } from "@/components/ScrollObserver";
 
 export default function GetAWebsitePage() {
-    const [authorized, setAuthorized] = useState(false);
-    const router = useRouter();
-
     useEffect(() => {
-        if (typeof window !== 'undefined') {
-            if (localStorage.getItem('dev_access') === 'true') {
-                setAuthorized(true);
-            } else {
-                router.push('/');
-            }
-        }
-        
-        if (authorized) {
-            const script = document.createElement('script');
-            script.src = "https://tally.so/widgets/embed.js";
-            script.async = true;
-            document.body.appendChild(script);
-        }
-    }, [router, authorized]);
-
-    if (!authorized) return null;
+        const script = document.createElement('script');
+        script.src = "https://tally.so/widgets/embed.js";
+        script.async = true;
+        document.body.appendChild(script);
+    }, []);
 
     return (
         <>
