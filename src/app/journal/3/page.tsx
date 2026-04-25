@@ -41,6 +41,14 @@ const articles: { image: string; category: string; readTime?: string; title: str
 ];
 
 export default function JournalPage() {
+    const [isDev, setIsDev] = useState(false);
+
+    useEffect(() => {
+        if (typeof window !== 'undefined') {
+            setIsDev(localStorage.getItem('dev_access') === 'true');
+        }
+    }, []);
+
     return (
         <>
             <ScrollObserver />
@@ -48,7 +56,7 @@ export default function JournalPage() {
 
             <main className="max-w-6xl mx-auto px-6 py-32" id="feed">
                 <div className="text-center mb-24">
-                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white">Journal - Page 3</h2>
+                    <h2 className="text-xs uppercase tracking-[0.5em] mb-4 opacity-50 text-slate-900 dark:text-white font-bold">Journal - Page 3</h2>
                     <div className="h-px w-12 bg-slate-400 dark:bg-slate-600 mx-auto"></div>
                 </div>
 
@@ -71,10 +79,18 @@ export default function JournalPage() {
                 <div className="mt-32 text-center flex flex-col sm:flex-row items-center justify-center gap-8">
                     <Link
                         href="/journal/2"
-                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 pb-1 text-slate-900 dark:text-white"
+                        className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 dark:border-white/10 pb-1 text-slate-900 dark:text-white font-bold"
                     >
                         ← Previous Page
                     </Link>
+                    {isDev && (
+                        <Link
+                            href="/journal/4"
+                            className="text-sm uppercase tracking-widest hover:text-primary transition-colors border-b border-black/10 dark:border-white/10 pb-1 text-slate-900 dark:text-white font-bold"
+                        >
+                            Next Page (Drafts) →
+                        </Link>
+                    )}
                 </div>
             </main>
 
