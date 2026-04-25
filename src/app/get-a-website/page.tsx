@@ -99,6 +99,7 @@ export default function GetAWebsitePage() {
                             </p>
                         </div>
 
+                        {/* Forced White Background Container */}
                         <div className="relative p-1.5 rounded-[4rem] bg-black shadow-[0_60px_120px_-20px_rgba(0,0,0,0.8)] min-h-[500px] flex items-center justify-center overflow-hidden">
                             {submitted ? (
                                 <div className="text-center p-12 animate-in fade-in zoom-in duration-500">
@@ -115,7 +116,7 @@ export default function GetAWebsitePage() {
                                     </button>
                                 </div>
                             ) : (
-                                <div className="bg-white dark:bg-slate-950 rounded-[3.9rem] overflow-hidden w-full h-full">
+                                <div className="bg-white rounded-[3.9rem] overflow-hidden w-full h-full">
                                     <iframe 
                                         key={formKey}
                                         src="https://tally.so/embed/ZjzQy0?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" 
