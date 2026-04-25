@@ -38,6 +38,13 @@ const articles: { image: string; category: string; readTime?: string; title: str
         description: "Journals are more than just paper - they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
         href: "/articles/best-anxiety-journals-and-guided-journals-compared"
     },
+    {
+        image: "/ashwa_a.jpg",
+        category: "Wellness Tools",
+        title: "Best Ashwagandha Supplements for Stress & Anxiety (Compared)",
+        description: "Ashwagandha is one of the few supplements with serious clinical research behind its ability to address stress directly. Discover how this adaptogen regulates your cortisol response.",
+        href: "/articles/best-ashwagandha-supplements-for-stress-and-anxiety-compared"
+    },
 ];
 
 export default function JournalPage() {
