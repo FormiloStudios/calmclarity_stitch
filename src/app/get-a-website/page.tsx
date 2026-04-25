@@ -99,24 +99,13 @@ export default function GetAWebsitePage() {
                             </p>
                         </div>
 
-                        {/* Forced White Background Container */}
-                        <div className="relative p-1.5 rounded-[4rem] bg-black shadow-[0_60px_120px_-20px_rgba(0,0,0,0.8)] min-h-[500px] flex items-center justify-center overflow-hidden">
-                            {submitted ? (
-                                <div className="text-center p-12 animate-in fade-in zoom-in duration-500">
-                                    <div className="w-20 h-20 bg-primary rounded-full flex items-center justify-center mx-auto mb-8 shadow-lg shadow-primary/20">
-                                        <span className="text-white text-4xl">✓</span>
-                                    </div>
-                                    <h3 className="text-3xl font-display font-bold text-white mb-6 italic">Thank You</h3>
-                                    <p className="text-white/70 mb-10 max-w-sm mx-auto">Your details have been received. I'll get back to you within 24 hours.</p>
-                                    <button 
-                                        onClick={handleReset}
-                                        className="px-12 py-4 bg-white text-black font-black uppercase tracking-widest text-xs rounded-full hover:bg-primary hover:text-white transition-all duration-300"
-                                    >
-                                        OK
-                                    </button>
-                                </div>
-                            ) : (
-                                <div className="bg-white rounded-[3.9rem] overflow-hidden w-full h-full">
+                        {/* Attractive Gradient Background Container */}
+                        <div className="relative p-2 rounded-[4rem] bg-gradient-to-br from-slate-900 via-black to-slate-900 shadow-[0_60px_150px_-30px_rgba(0,0,0,0.8)]">
+                            <div className="bg-gradient-to-br from-[#ffffff] via-[#f8fafc] to-[#f1f5f9] rounded-[3.8rem] overflow-hidden relative shadow-inner">
+                                {/* Subtle inner accent */}
+                                <div className="absolute inset-0 border-[20px] border-black/5 pointer-events-none rounded-[3.8rem]"></div>
+                                
+                                <div className="w-full min-h-[700px] relative z-10">
                                     <iframe 
                                         key={formKey}
                                         src="https://tally.so/embed/ZjzQy0?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" 
@@ -128,6 +117,24 @@ export default function GetAWebsitePage() {
                                         title="Get A Website"
                                         className="w-full"
                                     ></iframe>
+                                </div>
+                            </div>
+
+                            {submitted && (
+                                <div className="absolute inset-0 bg-black/95 flex items-center justify-center z-50 rounded-[4rem] animate-in fade-in duration-500">
+                                    <div className="text-center p-12">
+                                        <div className="w-24 h-24 bg-primary rounded-full flex items-center justify-center mx-auto mb-8 shadow-2xl shadow-primary/40">
+                                            <span className="text-white text-5xl">✓</span>
+                                        </div>
+                                        <h3 className="text-4xl font-display font-bold text-white mb-6 italic tracking-tight">Thank You</h3>
+                                        <p className="text-white/80 text-lg mb-10 max-w-sm mx-auto font-light">Your details have been received. I'll get back to you within 24 hours.</p>
+                                        <button 
+                                            onClick={handleReset}
+                                            className="px-16 py-5 bg-white text-black font-black uppercase tracking-[0.2em] text-xs rounded-full hover:bg-primary hover:text-white transition-all duration-500 transform hover:scale-105 shadow-xl"
+                                        >
+                                            OK
+                                        </button>
+                                    </div>
                                 </div>
                             )}
                         </div>
