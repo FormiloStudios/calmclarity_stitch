@@ -16,6 +16,13 @@ const articles = [
         title: "Best Ashwagandha Supplements for Stress & Anxiety (Compared)",
         description: "Ashwagandha is one of the few supplements with serious clinical research behind its ability to address stress directly. Discover how this adaptogen regulates your cortisol response.",
         href: "/articles/best-ashwagandha-supplements-for-stress-and-anxiety-compared"
+    },
+    {
+        image: "/arma_a.jpg",
+        category: "Sensory Wellness",
+        title: "Best Aromatherapy Diffusers for Anxiety & Sleep (Compared)",
+        description: "Scent is the only sense with a direct pathway to the limbic system. Discover how the right diffuser creates a conditioned relaxation response for your nervous system.",
+        href: "/articles/best-aromatherapy-diffusers-for-anxiety-and-sleep-compared"
     }
 ];
 
