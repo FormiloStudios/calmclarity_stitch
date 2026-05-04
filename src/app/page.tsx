@@ -136,8 +136,8 @@ const articles = [
     image: "/evergreen_2.jpg",
     category: "Neurology",
     readTime: "8 Min Read",
-    title: "Best Weighted Blankets for Anxiety (Tested & Compared)",
-    description: "Weighted blankets help regulate your nervous system through deep pressure stimulation. Here's which ones are actually worth your money.",
+    title: "Best Weighted Blankets for Anxiety and Sleep (2026): What Actually Works",
+    description: "The best weighted blankets for anxiety and sleep - from breathable knit cotton to deep pressure therapy, here is what actually works for your nervous system.",
     href: "/articles/best-weighted-blankets-for-anxiety-tested-and-compared"
   },
   {
