@@ -12,8 +12,8 @@ const articles: { image: string; category: string; readTime?: string; title: str
     {
         image: "/bwnm_a.jpg",
         category: "Sleep & Reset",
-        title: "Best White Noise Machines for Anxiety & Sleep (Compared)",
-        description: "Silence isn't always peaceful. Discover how consistent acoustic backdrops anchor the nervous system and help quiet the mental noise of anxiety.",
+        title: "Best White Noise Machines for Anxiety and Sleep (2026): What Actually Works",
+        description: "The best white noise machines for anxiety and sleep - real fan vs digital, pink noise explained, and honest picks for every budget and sleep situation.",
         href: "/articles/best-white-noise-machines-for-anxiety-and-sleep"
     },
     {
