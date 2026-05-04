@@ -46,7 +46,7 @@ export function Footer() {
                             Contact
                         </Link>
                     )}
-                    {pathname !== '/get-a-website' && (
+                    {pathname === '/' && (
                         <Link
                             href="/get-a-website"
                             className="hover:text-white transition-colors text-muted"

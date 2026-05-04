@@ -32,7 +32,7 @@ export function Nav() {
                                 About
                             </Link>
                         )}
-                        {pathname !== '/get-a-website' && (
+                        {pathname === '/' && (
                             <Link
                                 href="/get-a-website"
                                 className="hover:text-muted transition-colors text-white"
