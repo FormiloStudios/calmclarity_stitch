@@ -34,8 +34,8 @@ const articles: { image: string; category: string; readTime?: string; title: str
     {
         image: "/bajc_a.jpg",
         category: "Psychology and Tools",
-        title: "Best Anxiety Journals and Guided Journals (Compared): Find the Right One for You",
-        description: "Journals are more than just paper - they are active tools for externalizing anxiety. Discover which structured approach matches your nervous system.",
+        title: "Best Anxiety Journals & Guided Journals (2026): Find the Right One for You",
+        description: "The best anxiety journals and guided journals in 2026 - CBT workbooks, gratitude journals, and daily guided options compared honestly for every type of anxiety.",
         href: "/articles/best-anxiety-journals-and-guided-journals-compared"
     },
 ];
