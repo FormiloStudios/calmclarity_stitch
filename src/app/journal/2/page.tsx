@@ -59,7 +59,7 @@ const articles: { image: string; category: string; readTime?: string; title: str
         category: "Tools",
         readTime: "12 Min Read",
         title: "Best Ice Rollers on Amazon (Tested & Compared)",
-        description: "After researching every major ice roller category, comparing specs, and going through hundreds of reviews, here's exactly what's worth buying.",
+        description: "After researching every major ice roller category, comparing specs, and going through hundreds of customer reviews, here's exactly what's worth buying and which one is right for you.",
         href: "/articles/best-ice-rollers-on-amazon"
     },
     {
